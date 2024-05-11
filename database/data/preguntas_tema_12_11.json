@@ -1,0 +1,52 @@
+[
+    {
+      "pregunta": "¿Cuál es la principal diferencia entre las memorias RAM y las memorias ROM?",
+      "a": "La velocidad de acceso",
+      "b": "La capacidad de almacenamiento",
+      "c": "La posibilidad de escritura",
+      "d": "La volatilidad de los datos",
+      "respuesta": "d",
+      "categoria_id": 12,
+      "explicacion": "La principal diferencia entre las memorias RAM y las memorias ROM es que la RAM es volátil, lo que significa que pierde los datos almacenados cuando se apaga el sistema, mientras que la ROM es no volátil, lo que significa que los datos permanecen incluso cuando se apaga el sistema."
+    },
+    {
+      "pregunta": "¿Qué tipo de memoria se utiliza para almacenar el firmware de la BIOS?",
+      "a": "Memoria RAM",
+      "b": "Memoria ROM",
+      "c": "Memoria caché",
+      "d": "Memoria virtual",
+      "respuesta": "b",
+      "categoria_id": 12,
+      "explicacion": "La memoria ROM se utiliza para almacenar el firmware de la BIOS, que es el software básico que controla los componentes de hardware de un sistema informático y realiza las operaciones básicas necesarias para que el sistema se inicie correctamente."
+    },
+    {
+      "pregunta": "¿Qué tipo de memoria se utiliza para almacenar el sistema operativo y los programas en un disco duro?",
+      "a": "Memoria RAM",
+      "b": "Memoria ROM",
+      "c": "Memoria caché",
+      "d": "Memoria virtual",
+      "respuesta": "d",
+      "categoria_id": 12,
+      "explicacion": "El sistema operativo y los programas se almacenan en un disco duro utilizando memoria virtual, que es un área del disco duro que se utiliza como si fuera memoria RAM adicional. La memoria virtual se utiliza para proporcionar más espacio de memoria de lo que está disponible físicamente en la memoria RAM del sistema."
+    },
+    {
+      "pregunta": "¿Qué es la latencia de la memoria?",
+      "a": "La velocidad a la que la memoria puede transferir datos",
+      "b": "El tiempo que tarda la memoria en responder a una solicitud de lectura o escritura",
+      "c": "La cantidad de datos que la memoria puede almacenar",
+      "d": "La tasa de errores de lectura/escritura de la memoria",
+      "respuesta": "b",
+      "categoria_id": 12,
+      "explicacion": "La latencia de la memoria es el tiempo que tarda la memoria en responder a una solicitud de lectura o escritura. La latencia se mide en ciclos de reloj y puede afectar significativamente el rendimiento del sistema."
+    },
+    {
+      "pregunta": "¿Qué es la memoria caché L1?",
+      "a": "Una pequeña cantidad de memoria RAM incorporada en el procesador",
+      "b": "Una memoria RAM de alta velocidad",
+      "c": "Una memoria ROM utilizada para almacenar el firmware del procesador",
+      "d": "Una memoria virtual utilizada por el sistema operativo",
+      "respuesta": "a",
+      "categoria_id": 12
+    }
+]
+  

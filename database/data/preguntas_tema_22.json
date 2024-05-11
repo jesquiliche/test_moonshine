@@ -1,0 +1,353 @@
+[
+    {
+        "pregunta": "¿Qué es .NET Core?",
+        "a": "Una versión anterior de la plataforma .NET",
+        "b": "Una versión de la plataforma .NET que se ejecuta en Windows únicamente",
+        "c": "Una plataforma de desarrollo multiplataforma y de código abierto",
+        "d": "Un lenguaje de programación de Microsoft",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es ASP.NET?",
+        "a": "Un framework de .NET para desarrollar aplicaciones web",
+        "b": "Un lenguaje de programación de Microsoft",
+        "c": "Una versión anterior de .NET Core",
+        "d": "Un sistema operativo de Microsoft",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es el lenguaje de programación predeterminado de .NET?",
+        "a": "C#",
+        "b": "Java",
+        "c": "Python",
+        "d": "JavaScript",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el Common Language Runtime (CLR) de .NET?",
+        "a": "Un compilador para lenguajes .NET",
+        "b": "Una biblioteca de clases de .NET",
+        "c": "Un entorno de tiempo de ejecución para lenguajes .NET",
+        "d": "Una herramienta de depuración para lenguajes .NET",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es la extensión de archivo utilizada por los proyectos de .NET?",
+        "a": ".netproj",
+        "b": ".sln",
+        "c": ".csproj",
+        "d": ".projnet",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un delegado en C#?",
+        "a": "Un objeto que encapsula un método o un conjunto de métodos.",
+        "b": "Un objeto que representa un valor o una referencia.",
+        "c": "Un objeto que representa una tabla de datos.",
+        "d": "Un objeto que representa una transacción de base de datos.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es LINQ?",
+        "a": "Un lenguaje de consulta de bases de datos relacionales.",
+        "b": "Un marco de trabajo para desarrollo de aplicaciones web.",
+        "c": "Un lenguaje de programación funcional.",
+        "d": "Un conjunto de bibliotecas para manipulación de cadenas de texto.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es una excepción en C#?",
+        "a": "Un error en tiempo de ejecución que interrumpe la ejecución normal del programa.",
+        "b": "Una advertencia del compilador que indica un posible error en el código fuente.",
+        "c": "Un mensaje de depuración que se muestra en la consola de salida.",
+        "d": "Un mensaje de estado que se muestra en la barra de estado de la aplicación.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el ensamblado en .NET?",
+        "a": "Un archivo que contiene metadatos y código ejecutable que se pueden cargar en tiempo de ejecución.",
+        "b": "Un archivo de texto que contiene instrucciones de compilación para el código fuente.",
+        "c": "Un archivo binario que contiene imágenes y otros recursos utilizados en la aplicación.",
+        "d": "Un archivo de configuración que especifica las propiedades y valores de configuración para la aplicación.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es .NET Framework?",
+        "a": "Un lenguaje de programación de Microsoft",
+        "b": "Una plataforma de desarrollo multiplataforma y de código abierto",
+        "c": "Una versión anterior de .NET Core",
+        "d": "Un sistema operativo de Microsoft",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el Common Type System (CTS) de .NET?",
+        "a": "Un compilador para lenguajes .NET",
+        "b": "Una biblioteca de clases de .NET",
+        "c": "Un conjunto de tipos de datos comunes que se utilizan en lenguajes .NET",
+        "d": "Una herramienta de depuración para lenguajes .NET",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es el lenguaje de programación que utiliza .NET Core?",
+        "a": "C#",
+        "b": "Java",
+        "c": "Python",
+        "d": "JavaScript",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el Common Intermediate Language (CIL) de .NET?",
+        "a": "Un compilador para lenguajes .NET",
+        "b": "Una biblioteca de clases de .NET",
+        "c": "Un lenguaje intermedio que se utiliza en el proceso de compilación de lenguajes .NET",
+        "d": "Una herramienta de depuración para lenguajes .NET",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es el entorno de ejecución predeterminado para .NET Core?",
+        "a": "Windows",
+        "b": "Linux",
+        "c": "macOS",
+        "d": "Todos los anteriores",
+        "respuesta": "d",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre .NET Framework y .NET Core?",
+        "a": "Ambos son lo mismo, solo que .NET Core es la última versión.",
+        "b": ".NET Framework solo funciona en Windows, mientras que .NET Core es multiplataforma.",
+        "c": ".NET Framework es multiplataforma, mientras que .NET Core solo funciona en Windows.",
+        "d": "No hay diferencia entre ellos.",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es la función del Global Assembly Cache (GAC) en .NET?",
+        "a": "Es un repositorio de componentes compartidos a nivel global que pueden ser utilizados por diferentes aplicaciones .NET.",
+        "b": "Es una herramienta de depuración que se utiliza para rastrear errores en aplicaciones .NET.",
+        "c": "Es una herramienta para realizar pruebas unitarias en aplicaciones .NET.",
+        "d": "Es un sistema de administración de versiones para aplicaciones .NET.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el Entity Framework?",
+        "a": "Una biblioteca de clases que proporciona acceso a datos relacionales.",
+        "b": "Una herramienta de depuración para aplicaciones .NET.",
+        "c": "Una plataforma de desarrollo de aplicaciones web.",
+        "d": "Un lenguaje de programación para aplicaciones .NET.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es la función de los ensamblados satélite en .NET?",
+        "a": "Proporcionar soporte multilenguaje a las aplicaciones .NET.",
+        "b": "Proporcionar soporte para diferentes plataformas en aplicaciones .NET.",
+        "c": "Proporcionar soporte para diferentes versiones de .NET en aplicaciones .NET.",
+        "d": "Proporcionar soporte para diferentes formatos de archivo en aplicaciones .NET.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un patrón de diseño en .NET?",
+        "a": "Una solución común a un problema de diseño específico en programación.",
+        "b": "Un conjunto de reglas de codificación que se deben seguir en .NET.",
+        "c": "Una herramienta de depuración en Visual Studio.",
+        "d": "Una característica de .NET que permite la escritura de código genérico.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el patrón de diseño MVC en ASP.NET?",
+        "a": "Un patrón de diseño arquitectónico para desarrollar aplicaciones web.",
+        "b": "Un patrón de diseño para la programación orientada a objetos.",
+        "c": "Un patrón de diseño para la programación funcional.",
+        "d": "Un patrón de diseño para la manipulación de bases de datos.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el Entity Framework en .NET?",
+        "a": "Un marco de trabajo para el desarrollo de aplicaciones de escritorio.",
+        "b": "Un marco de trabajo para la manipulación de bases de datos relacionales.",
+        "c": "Un marco de trabajo para la programación orientada a objetos.",
+        "d": "Un marco de trabajo para la programación en paralelo.",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es el patrón de diseño Singleton en C#?",
+        "a": "Un patrón de diseño para la creación de objetos que solo se pueden instanciar una vez.",
+        "b": "Un patrón de diseño para la creación de objetos que se pueden instanciar varias veces.",
+        "c": "Un patrón de diseño para la creación de objetos que se pueden compartir entre diferentes instancias de una clase.",
+        "d": "Un patrón de diseño para la creación de objetos que se pueden clonar.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un genérico en C#?",
+        "a": "Un tipo de dato que se puede utilizar en diferentes clases y métodos sin tener que especificar su tipo de forma explícita.",
+        "b": "Un tipo de dato que solo se puede utilizar en una clase o método específico.",
+        "c": "Un tipo de dato que se utiliza para la programación en paralelo.",
+        "d": "Un tipo de dato que se utiliza para la programación orientada a eventos.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un espacio de nombres en C#?",
+        "a": "Un contenedor de clases y otros tipos de datos relacionados entre sí.",
+        "b": "Un contenedor de variables y métodos relacionados entre sí.",
+        "c": "Un contenedor de directivas de compilador y otras configuraciones de proyecto.",
+        "d": "Un contenedor de recursos utilizados por la aplicación.",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es ADO.NET?",
+        "a": "Un lenguaje de programación para aplicaciones web",
+        "b": "Un marco de trabajo para el desarrollo de aplicaciones móviles",
+        "c": "Un conjunto de clases de .NET para acceder a bases de datos",
+        "d": "Un sistema operativo de Microsoft",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un proveedor de datos en ADO.NET?",
+        "a": "Una herramienta de depuración para aplicaciones ADO.NET",
+        "b": "Un objeto que representa una conexión a una base de datos",
+        "c": "Un objeto que proporciona acceso a datos específicos de un origen de datos",
+        "d": "Una biblioteca de clases para la manipulación de archivos",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un DataReader en ADO.NET?",
+        "a": "Un objeto que proporciona acceso desconectado a los datos de una base de datos",
+        "b": "Un objeto que permite la actualización de los datos de una base de datos",
+        "c": "Un objeto que permite la ejecución de consultas SQL en una base de datos",
+        "d": "Un objeto que proporciona acceso de sólo lectura a los datos de una base de datos",
+        "respuesta": "d",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un DataSet en ADO.NET?",
+        "a": "Un objeto que representa una conexión a una base de datos",
+        "b": "Un objeto que proporciona acceso desconectado a los datos de una base de datos",
+        "c": "Un objeto que representa un conjunto de datos en memoria",
+        "d": "Un objeto que permite la ejecución de consultas SQL en una base de datos",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un DataAdapter en ADO.NET?",
+        "a": "Un objeto que proporciona acceso de sólo lectura a los datos de una base de datos",
+        "b": "Un objeto que permite la actualización de los datos de una base de datos",
+        "c": "Un objeto que representa una conexión a una base de datos",
+        "d": "Un objeto que actúa como puente entre un DataSet y una base de datos",
+        "respuesta": "d",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cómo se ejecuta una consulta en ADO.NET?",
+        "a": "Con la función mysql_query() en PHP",
+        "b": "Con la función query() en jQuery",
+        "c": "Con el método ExecuteNonQuery() de la clase SqlCommand en ADO.NET",
+        "d": "Con el método find() de la clase DB en Ruby on Rails",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cómo se ejecuta una consulta en ADO.NET?",
+        "a": "Con la función mysql_query() en PHP",
+        "b": "Con la función query() en jQuery",
+        "c": "Con el método ExecuteNonQuery() de la clase SqlCommand en ADO.NET",
+        "d": "Con el método find() de la clase DB en Ruby on Rails",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es el objeto principal en ADO.NET para conectarse a una base de datos?",
+        "a": "La clase DBConnection en Ruby on Rails",
+        "b": "La función mysqli_connect() en PHP",
+        "c": "El objeto Connection en ADO.NET",
+        "d": "El objeto $conn en MySQLi",
+        "respuesta": "c",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un DataSet en ADO.NET?",
+        "a": "Una función para crear un conjunto de datos en JavaScript",
+        "b": "Un objeto que representa un conjunto de datos en memoria en ADO.NET",
+        "c": "Una tabla de base de datos en SQL",
+        "d": "Un archivo de configuración para la conexión de base de datos en PHP",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un Connection Pooling en ADO.NET?",
+        "a": "Un conjunto de conexiones de base de datos en Java",
+        "b": "Una característica para optimizar el rendimiento y reducir el tiempo de conexión en ADO.NET",
+        "c": "Una técnica para reducir el tamaño de la base de datos en SQL",
+        "d": "Un conjunto de configuraciones de conexión de base de datos en PHP",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es una máquina virtual Java (JVM)?",
+        "a": "Es un programa que se utiliza para desarrollar aplicaciones Java",
+        "b": "Es un programa que ejecuta el código Java compilado y lo convierte en código de máquina nativo",
+        "c": "Es un lenguaje de programación utilizado para el desarrollo de aplicaciones de escritorio en Java",
+        "d": "Es un servidor de aplicaciones web utilizado para ejecutar aplicaciones Java en la nube",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un archivo JAR en Java?",
+        "a": "Es un archivo que contiene código fuente de Java",
+        "b": "Es un archivo que contiene clases y recursos de Java comprimidos",
+        "c": "Es un archivo que se utiliza para ejecutar aplicaciones de escritorio en Java",
+        "d": "Es un archivo que se utiliza para compilar aplicaciones web en Java",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un ArrayList y un LinkedList en Java?",
+        "a": "Un ArrayList es más eficiente para la inserción y eliminación de elementos, mientras que un LinkedList es más eficiente para la búsqueda de elementos",
+        "b": "Un ArrayList es más eficiente para la búsqueda de elementos, mientras que un LinkedList es más eficiente para la inserción y eliminación de elementos",
+        "c": "Un ArrayList y un LinkedList son lo mismo en Java",
+        "d": "Un ArrayList y un LinkedList son estructuras de datos utilizadas solo en C++",
+        "respuesta": "b",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un método abstracto en Java?",
+        "a": "Un método que no tiene cuerpo y solo define la firma del método",
+        "b": "Un método que se utiliza para imprimir en la consola de Java",
+        "c": "Un método que se utiliza para leer la entrada del usuario en Java",
+        "d": "Un método que se utiliza para crear una instancia de una clase en Java",
+        "respuesta": "a",
+        "categoria_id": 22
+    },
+    {
+        "pregunta": "¿Qué es un Thread en Java?",
+        "a": "Un método que se utiliza para ejecutar una tarea de forma asíncrona en Java",
+        "b": "Un objeto que representa un subproceso independiente de ejecución en Java",
+        "c": "Un objeto que se utiliza para leer la entrada del usuario en Java",
+        "d": "Un objeto que se utiliza para escribir en la consola de Java",
+        "respuesta": "b",
+        "categoria_id": 22
+    }
+]

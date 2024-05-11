@@ -1,0 +1,677 @@
+[
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para incluir un video?",
+        "a": "<video>",
+        "b": "<media>",
+        "c": "<film>",
+        "d": "<play>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para indicar que un campo de entrada de datos es requerido?",
+        "a": "required",
+        "b": "mandatory",
+        "c": "validate",
+        "d": "input-required",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para crear un menú desplegable?",
+        "a": "<list>",
+        "b": "<select>",
+        "c": "<dropdown>",
+        "d": "<menu>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para especificar que una imagen es un enlace?",
+        "a": "src",
+        "b": "href",
+        "c": "link",
+        "d": "url",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para incluir una sección de navegación?",
+        "a": "<nav>",
+        "b": "<menu>",
+        "c": "<header>",
+        "d": "<section>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para incluir un video?",
+        "a": "<video>",
+        "b": "<media>",
+        "c": "<film>",
+        "d": "<play>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para indicar que un campo de entrada de datos es requerido?",
+        "a": "required",
+        "b": "mandatory",
+        "c": "validate",
+        "d": "input-required",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para crear un menú desplegable?",
+        "a": "<list>",
+        "b": "<select>",
+        "c": "<dropdown>",
+        "d": "<menu>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para especificar que una imagen es un enlace?",
+        "a": "src",
+        "b": "href",
+        "c": "link",
+        "d": "url",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para incluir una sección de navegación?",
+        "a": "<nav>",
+        "b": "<menu>",
+        "c": "<header>",
+        "d": "<section>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué elemento de HTML5 se utiliza para reproducir audio?",
+        "a": "<audio>",
+        "b": "<sound>",
+        "c": "<music>",
+        "d": "<playback>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para definir una sección de la página?",
+        "a": "<div>",
+        "b": "<section>",
+        "c": "<article>",
+        "d": "<aside>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para indicar que un campo de entrada es obligatorio?",
+        "a": "required",
+        "b": "obligatorio",
+        "c": "necesario",
+        "d": "completo",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué etiqueta se utiliza en HTML5 para incluir un video?",
+        "a": "<media>",
+        "b": "<video>",
+        "c": "<movie>",
+        "d": "<display>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué atributo se utiliza en HTML5 para indicar la ubicación de una imagen?",
+        "a": "src",
+        "b": "url",
+        "c": "image",
+        "d": "link",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para definir un artículo?",
+        "a": "<article>",
+        "b": "<section>",
+        "c": "<aside>",
+        "d": "<header>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para mostrar el tiempo en una página web?",
+        "a": "<time>",
+        "b": "<date>",
+        "c": "<datetime>",
+        "d": "<timestamp>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para mostrar un video?",
+        "a": "<movie>",
+        "b": "<video>",
+        "c": "<media>",
+        "d": "<film>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para incluir contenido de otros sitios web?",
+        "a": "<frame>",
+        "b": "<iframe>",
+        "c": "<embed>",
+        "d": "<object>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para hacer referencia a una imagen en alta resolución?",
+        "a": "<srcset>",
+        "b": "<picture>",
+        "c": "<imgset>",
+        "d": "<highres>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para definir un artículo?",
+        "a": "<article>",
+        "b": "<section>",
+        "c": "<aside>",
+        "d": "<header>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para mostrar el tiempo en una página web?",
+        "a": "<time>",
+        "b": "<date>",
+        "c": "<datetime>",
+        "d": "<timestamp>",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para mostrar un video?",
+        "a": "<movie>",
+        "b": "<video>",
+        "c": "<media>",
+        "d": "<film>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para incluir contenido de otros sitios web?",
+        "a": "<frame>",
+        "b": "<iframe>",
+        "c": "<embed>",
+        "d": "<object>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la nueva etiqueta en HTML5 para hacer referencia a una imagen en alta resolución?",
+        "a": "<srcset>",
+        "b": "<picture>",
+        "c": "<imgset>",
+        "d": "<highres>",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre `let` y `var` en JavaScript?",
+        "a": "`var` tiene un alcance de función y `let` tiene un alcance de bloque.",
+        "b": "`var` tiene un alcance global y `let` tiene un alcance local.",
+        "c": "`var` es una variable constante y `let` es una variable mutable.",
+        "d": "No hay diferencia entre `var` y `let`.",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es una función de flecha en JavaScript?",
+        "a": "Es una forma simplificada de escribir una función.",
+        "b": "Es una función que siempre devuelve `undefined`.",
+        "c": "Es una función que no puede tener parámetros.",
+        "d": "Es una función que solo puede tener una línea de código.",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del método `map()` en JavaScript?",
+        "a": "Crear un nuevo array con los resultados de llamar a una función para cada elemento del array original.",
+        "b": "Eliminar elementos específicos de un array.",
+        "c": "Agregar elementos a un array.",
+        "d": "Encontrar el primer elemento en un array que cumple con una condición especificada.",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de declarar una clase en JavaScript?",
+        "a": "class MyClass {}",
+        "b": "function MyClass() {}",
+        "c": "let MyClass = {}",
+        "d": "const MyClass = () => {}",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es una promesa en JavaScript?",
+        "a": "Es un objeto que representa un valor que puede no estar disponible aún.",
+        "b": "Es un tipo de función que se llama automáticamente después de un cierto tiempo.",
+        "c": "Es un objeto que contiene una colección de pares clave-valor.",
+        "d": "Es un tipo de variable que se puede actualizar en cualquier momento.",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un closure en JavaScript?",
+        "a": "Un objeto que agrupa varias funciones en un solo objeto.",
+        "b": "Una función que se define dentro de otra función y que tiene acceso a las variables de la función contenedora.",
+        "c": "Una forma de definir un objeto que permite acceder a sus propiedades y métodos como si fueran variables y funciones globales.",
+        "d": "Una propiedad que permite a un objeto heredar las propiedades de otro objeto.",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es el uso principal de let y const en JavaScript?",
+        "a": "Definir variables que pueden ser modificadas en cualquier parte del código.",
+        "b": "Definir variables que solo pueden ser modificadas dentro del bloque en el que se definen.",
+        "c": "Definir variables que solo pueden ser modificadas dentro de una función.",
+        "d": "Definir variables que solo pueden ser utilizadas para almacenar valores constantes.",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un template literal en JavaScript?",
+        "a": "Una expresión que permite declarar una cadena de texto de varias líneas.",
+        "b": "Un objeto que permite definir plantillas para generar código HTML.",
+        "c": "Una expresión que permite concatenar varias cadenas de texto.",
+        "d": "Una expresión que permite declarar una cadena de texto con variables incrustadas.",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es una arrow function en JavaScript?",
+        "a": "Una función que se define con la palabra reservada arrow.",
+        "b": "Una forma abreviada de definir una función que utiliza la sintaxis de flecha =>.",
+        "c": "Una función que recibe un objeto como argumento y devuelve una función que accede a las propiedades del objeto.",
+        "d": "Una función que se ejecuta automáticamente al cargar la página web.",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es el operador de propagación (...) en JavaScript?",
+        "a": "Un operador que permite copiar el valor de una variable a otra.",
+        "b": "Un operador que permite crear un objeto a partir de otro objeto.",
+        "c": "Un operador que permite concatenar varias cadenas de texto.",
+        "d": "Un operador que permite expandir una expresión en un lugar donde se esperan múltiples argumentos.",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks de JavaScript es conocido como el más popular?",
+        "a": "Angular",
+        "b": "Vue",
+        "c": "React",
+        "d": "Ember",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks de CSS es conocido por su diseño minimalista?",
+        "a": "Bootstrap",
+        "b": "Materialize",
+        "c": "Bulma",
+        "d": "Foundation",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué framework de JavaScript utiliza una arquitectura basada en componentes?",
+        "a": "Angular",
+        "b": "Vue",
+        "c": "React",
+        "d": "Ember",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué framework de CSS se centra en la creación de diseños flexibles y adaptables?",
+        "a": "Bootstrap",
+        "b": "Materialize",
+        "c": "Bulma",
+        "d": "Foundation",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué framework de JavaScript utiliza una arquitectura basada en flux?",
+        "a": "Angular",
+        "b": "Vue",
+        "c": "React",
+        "d": "Ember",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks utiliza el patrón MVVM?",
+        "a": "AngularJS",
+        "b": "React",
+        "c": "Vue.js",
+        "d": "Ember.js",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks utiliza el patrón MVC?",
+        "a": "React",
+        "b": "Ember.js",
+        "c": "Backbone.js",
+        "d": "Meteor",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks es conocido por su velocidad y simplicidad?",
+        "a": "Express.js",
+        "b": "Meteor",
+        "c": "Koa",
+        "d": "Hapi",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks fue desarrollado por Google?",
+        "a": "Backbone.js",
+        "b": "AngularJS",
+        "c": "Ember.js",
+        "d": "Meteor",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de estos frameworks es un framework de front-end basado en componentes?",
+        "a": "AngularJS",
+        "b": "React",
+        "c": "Ember.js",
+        "d": "Meteor",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué patrón de arquitectura sigue Laravel?",
+        "a": "MVC",
+        "b": "MVVM",
+        "c": "MVP",
+        "d": "None of the above",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué motor de plantillas utiliza Laravel?",
+        "a": "Twig",
+        "b": "Smarty",
+        "c": "Blade",
+        "d": "Handlebars",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué componente de Laravel se utiliza para manejar la autenticación de usuarios?",
+        "a": "Passport",
+        "b": "Sanctum",
+        "c": "Fortify",
+        "d": "Jetstream",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza en Laravel para ejecutar las migraciones de base de datos?",
+        "a": "artisan migrate",
+        "b": "php artisan db:migrate",
+        "c": "php artisan migrate:run",
+        "d": "php artisan run:migrations",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del sistema de enrutamiento que utiliza Laravel?",
+        "a": "Lumen",
+        "b": "Spark",
+        "c": "Echo",
+        "d": "Illuminate",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es Node.js?",
+        "a": "Un lenguaje de programación",
+        "b": "Un framework para construir aplicaciones web",
+        "c": "Un entorno de tiempo de ejecución de JavaScript",
+        "d": "Un sistema operativo",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cómo se puede incluir un módulo en una aplicación de Node.js?",
+        "a": "Con la etiqueta <module>",
+        "b": "Con la función include()",
+        "c": "Con la función require()",
+        "d": "Con la función import()",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es npm?",
+        "a": "Una librería de Node.js",
+        "b": "Un paquete de Node.js",
+        "c": "Un gestor de paquetes de Node.js",
+        "d": "Un editor de texto para programar en Node.js",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un stream en Node.js?",
+        "a": "Una librería para trabajar con bases de datos",
+        "b": "Un objeto que permite leer y escribir datos de manera eficiente",
+        "c": "Un tipo de dato para almacenar información en memoria",
+        "d": "Un método para ejecutar código de manera asíncrona",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un callback en Node.js?",
+        "a": "Una función que se ejecuta cuando termina una tarea asíncrona",
+        "b": "Un método para ejecutar código de manera síncrona",
+        "c": "Un objeto que contiene información de la petición HTTP",
+        "d": "Un tipo de dato para almacenar información en memoria",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué significa PHP?",
+        "a": "Personal Hypertext Processor",
+        "b": "PHP: Hypertext Preprocessor",
+        "c": "Professional Hypertext Processor",
+        "d": "Public Hypertext Processor",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la función para imprimir algo en pantalla en PHP?",
+        "a": "print",
+        "b": "echo",
+        "c": "display",
+        "d": "out",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué signo se utiliza para concatenar strings en PHP?",
+        "a": "+",
+        "b": "-",
+        "c": "*",
+        "d": ".",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la extensión de los archivos PHP?",
+        "a": ".php",
+        "b": ".html",
+        "c": ".txt",
+        "d": ".js",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de definir una constante en PHP?",
+        "a": "const NOMBRE_CONSTANTE = valor;",
+        "b": "define('NOMBRE_CONSTANTE', valor);",
+        "c": "NOMBRE_CONSTANTE = valor;",
+        "d": "var NOMBRE_CONSTANTE = valor;",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué función se utiliza para incluir un archivo en PHP?",
+        "a": "require",
+        "b": "import",
+        "c": "include",
+        "d": "load",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de comentar una línea de código en PHP?",
+        "a": "// Este es un comentario",
+        "b": "# Este es un comentario",
+        "c": "-- Este es un comentario",
+        "d": "/** Este es un comentario */",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cómo se define una constante en PHP?",
+        "a": "define('CONSTANTE', 'valor')",
+        "b": "const CONSTANTE = 'valor';",
+        "c": "constante CONSTANTE = 'valor';",
+        "d": "definir('CONSTANTE', 'valor')",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál es el operador de asignación en PHP?",
+        "a": "+=",
+        "b": "*=",
+        "c": "=",
+        "d": "-=",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué función se utiliza para obtener la longitud de una cadena en PHP?",
+        "a": "strlength()",
+        "b": "strlen()",
+        "c": "length()",
+        "d": "stringlength()",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es Express?",
+        "a": "Un lenguaje de programación",
+        "b": "Un framework de JavaScript para el desarrollo de aplicaciones web y APIs",
+        "c": "Un sistema operativo",
+        "d": "Una base de datos",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cómo se instala Express?",
+        "a": "Con el comando npm install express",
+        "b": "Con el comando npm start express",
+        "c": "Descargando un archivo ZIP desde la página oficial",
+        "d": "Con el comando npm init express",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un middleware en Express?",
+        "a": "Una función que se ejecuta después de la petición del cliente y antes de la respuesta del servidor",
+        "b": "Un tipo de enrutamiento en Express",
+        "c": "Un módulo que se encarga de la autenticación de usuarios",
+        "d": "Una forma de gestionar bases de datos en Express",
+        "respuesta": "a",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es un router en Express?",
+        "a": "Un componente que se encarga de la gestión de la base de datos",
+        "b": "Un objeto que se utiliza para definir rutas en Express",
+        "c": "Un módulo que se encarga de la autenticación de usuarios",
+        "d": "Una forma de gestionar la configuración del servidor en Express",
+        "respuesta": "b",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué es nodemon?",
+        "a": "Una herramienta que se utiliza para el debugging de aplicaciones Express",
+        "b": "Un módulo de Node.js que se utiliza para la gestión de bases de datos",
+        "c": "Una herramienta para la generación de documentación en Express",
+        "d": "Una herramienta que se utiliza para reiniciar automáticamente el servidor en Express",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué ORM utiliza Laravel por defecto?",
+        "a": "Doctrine",
+        "b": "Sequelize",
+        "c": "Eloquent",
+        "d": "TypeORM",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ORMs es utilizado para Python?",
+        "a": "Sequelize",
+        "b": "TypeORM",
+        "c": "SQLAlchemy",
+        "d": "Hibernate",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué ORM es utilizado en Ruby on Rails?",
+        "a": "Hibernate",
+        "b": "Sequelize",
+        "c": "Active Record",
+        "d": "Eloquent",
+        "respuesta": "c",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Qué ORM es utilizado en Django?",
+        "a": "Sequelize",
+        "b": "Active Record",
+        "c": "TypeORM",
+        "d": "Django ORM",
+        "respuesta": "d",
+        "categoria_id": 24
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ORMs es utilizado para Java?",
+        "a": "Hibernate",
+        "b": "TypeORM",
+        "c": "Active Record",
+        "d": "Eloquent",
+        "respuesta": "a",
+        "categoria_id": 24
+    }
+]

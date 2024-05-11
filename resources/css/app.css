@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+[x-cloak] {
+    display: none;
+}
+
+.btn-primary{
+  @apply bg-gray-700 hover:bg-gray-950 text-white rounded-lg py-1 px-4 font-bold
+}
+
+.form-control {
+    @apply block bg-indigo-100 text-gray-950 border-0 rounded-lg p-2 w-full;
+  }
+  
+  .nav-link {
+    @apply hover:bg-gray-400 hover:rounded-md hover:text-white py-1 px-4;
+}

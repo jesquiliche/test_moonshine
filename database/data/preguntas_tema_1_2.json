@@ -1,0 +1,989 @@
+[
+    {
+        "pregunta": "¿Qué artículo de la Constitución Española establece la igualdad ante la ley?",
+        "a": "Artículo 10",
+        "b": "Artículo 12",
+        "c": "Artículo 14",
+        "d": "Artículo 16",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el artículo que establece el derecho a la educación?",
+        "a": "Artículo 26",
+        "b": "Artículo 27",
+        "c": "Artículo 28",
+        "d": "Artículo 29",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el título II de la Constitución Española de 1978?",
+        "a": "De la Corona",
+        "b": "De las Cortes Generales",
+        "c": "Del Gobierno y la Administración",
+        "d": "De los derechos y deberes fundamentales",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el título VI de la Constitución Española de 1978?",
+        "a": "Del poder judicial",
+        "b": "Del tribunal constitucional",
+        "c": "De la organización territorial del Estado",
+        "d": "Del poder ejecutivo",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución Española establece el derecho a la protección de datos personales?",
+        "a": "Artículo 17",
+        "b": "Artículo 18",
+        "c": "Artículo 19",
+        "d": "Artículo 20",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el título III de la Constitución Española de 1978?",
+        "a": "De las Cortes Generales",
+        "b": "De la Corona",
+        "c": "De los derechos y deberes fundamentales",
+        "d": "De la Organización Territorial del Estado",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el artículo que establece el derecho a la protección de la salud?",
+        "a": "Artículo 42",
+        "b": "Artículo 43",
+        "c": "Artículo 44",
+        "d": "Artículo 45",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el artículo que establece el derecho a la libertad ideológica?",
+        "a": "Artículo 15",
+        "b": "Artículo 16",
+        "c": "Artículo 17",
+        "d": "Artículo 18",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué órgano jurisdiccional es el máximo intérprete de la Constitución?",
+        "a": "El Consejo General del Poder Judicial",
+        "b": "El Tribunal Constitucional",
+        "c": "El Consejo de Estado",
+        "d": "La Audiencia Nacional",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la autonomía de las nacionalidades y regiones que integran España?",
+        "a": "Artículo 143",
+        "b": "Artículo 148",
+        "c": "Artículo 150",
+        "d": "Artículo 152",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución se establece el derecho al trabajo?",
+        "a": "Artículo 34",
+        "b": "Artículo 35",
+        "c": "Artículo 36",
+        "d": "Artículo 37",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución reconoce la libertad de cátedra?",
+        "a": "Artículo 19",
+        "b": "Artículo 20",
+        "c": "Artículo 21",
+        "d": "Artículo 22",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece la inviolabilidad del Rey?",
+        "a": "Artículo 56",
+        "b": "Artículo 57",
+        "c": "Artículo 58",
+        "d": "Artículo 59",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho de petición?",
+        "a": "Artículo 21",
+        "b": "Artículo 22",
+        "c": "Artículo 23",
+        "d": "Artículo 24",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución se establece la igualdad ante la ley?",
+        "a": "Artículo 11",
+        "b": "Artículo 12",
+        "c": "Artículo 13",
+        "d": "Artículo 14",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la protección de datos personales?",
+        "a": "Artículo 16",
+        "b": "Artículo 17",
+        "c": "Artículo 18",
+        "d": "Artículo 19",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+
+    {
+        "pregunta": "¿Quién es el Presidente del Gobierno en la Constitución Española de 1978?",
+        "a": "El Rey",
+        "b": "El Jefe del Estado",
+        "c": "El Presidente del Congreso",
+        "d": "El Presidente del Gobierno",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuántas veces se puede disolver el Congreso de los Diputados?",
+        "a": "1 vez durante la legislatura",
+        "b": "2 veces durante la legislatura",
+        "c": "3 veces durante la legislatura",
+        "d": "No se puede disolver el Congreso de los Diputados durante la legislatura",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución se reconoce el derecho al trabajo?",
+        "a": "Artículo 34",
+        "b": "Artículo 35",
+        "c": "Artículo 36",
+        "d": "Artículo 37",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes no es un derecho fundamental según la Constitución Española de 1978?",
+        "a": "Derecho a la libertad ideológica y religiosa",
+        "b": "Derecho a la igualdad ante la ley",
+        "c": "Derecho a la educación",
+        "d": "Derecho a la propiedad privada",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Quién tiene la facultad de convocar referéndums en España?",
+        "a": "El Congreso de los Diputados",
+        "b": "El Presidente del Gobierno",
+        "c": "El Consejo de Ministros",
+        "d": "El Rey",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿A qué edad se adquiere la mayoría de edad en España según la Constitución?",
+        "a": "18 años",
+        "b": "21 años",
+        "c": "16 años",
+        "d": "Depende de la autonomía",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución reconoce el derecho a la libertad y seguridad?",
+        "a": "Artículo 16",
+        "b": "Artículo 17",
+        "c": "Artículo 18",
+        "d": "Artículo 19",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes no es un órgano constitucional?",
+        "a": "El Congreso de los Diputados",
+        "b": "El Consejo de Ministros",
+        "c": "El Tribunal Constitucional",
+        "d": "La Audiencia Nacional",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la libertad de expresión?",
+        "a": "Artículo 15",
+        "b": "Artículo 16",
+        "c": "Artículo 17",
+        "d": "Artículo 18",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Quién tiene la potestad de crear leyes según la Constitución española?",
+        "a": "El rey",
+        "b": "Las Cortes Generales",
+        "c": "El presidente del Gobierno",
+        "d": "El Tribunal Constitucional",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la educación?",
+        "a": "Artículo 24",
+        "b": "Artículo 25",
+        "c": "Artículo 26",
+        "d": "Artículo 27",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la vivienda?",
+        "a": "Artículo 44",
+        "b": "Artículo 45",
+        "c": "Artículo 46",
+        "d": "Artículo 47",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la protección de la salud?",
+        "a": "Artículo 39",
+        "b": "Artículo 40",
+        "c": "Artículo 41",
+        "d": "Artículo 42",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la igualdad ante la ley?",
+        "a": "Artículo 9",
+        "b": "Artículo 10",
+        "c": "Artículo 11",
+        "d": "Artículo 12",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho al trabajo?",
+        "a": "Artículo 30",
+        "b": "Artículo 31",
+        "c": "Artículo 32",
+        "d": "Artículo 33",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece la organización territorial del Estado?",
+        "a": "Artículo 136",
+        "b": "Artículo 137",
+        "c": "Artículo 138",
+        "d": "Artículo 139",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución española establece el derecho a la participación política?",
+        "a": "Artículo 21",
+        "b": "Artículo 22",
+        "c": "Artículo 23",
+        "d": "Artículo 24",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se aprobó la Constitución Española de 1978?",
+        "a": "28 de diciembre",
+        "b": "6 de diciembre",
+        "c": "22 de noviembre",
+        "d": "4 de noviembre",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece que la soberanía nacional reside en el pueblo español?",
+        "a": "Artículo 1",
+        "b": "Artículo 2",
+        "c": "Artículo 3",
+        "d": "Artículo 4",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué título de la Constitución se regula el Tribunal Constitucional?",
+        "a": "Título III",
+        "b": "Título VI",
+        "c": "Título VIII",
+        "d": "Título X",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución garantiza la inviolabilidad del Rey?",
+        "a": "Artículo 52",
+        "b": "Artículo 53",
+        "c": "Artículo 54",
+        "d": "Artículo 56",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué año se incorporó la Carta Magna a la realidad política de España?",
+        "a": "1976",
+        "b": "1978",
+        "c": "1980",
+        "d": "1982",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el plazo máximo para que el Congreso resuelva sobre la convalidación o derogación de un decreto-ley?",
+        "a": "20 días",
+        "b": "30 días",
+        "c": "40 días",
+        "d": "50 días",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuántos artículos tiene la Constitución Española de 1978?",
+        "a": "168",
+        "b": "169",
+        "c": "170",
+        "d": "171",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución se establece que el sufragio es universal, libre, igual, directo y secreto?",
+        "a": "Artículo 66",
+        "b": "Artículo 67",
+        "c": "Artículo 68",
+        "d": "Artículo 69",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuántas disposiciones adicionales tiene la Constitución Española de 1978?",
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la libertad ideológica y religiosa?",
+        "a": "Artículo 14",
+        "b": "Artículo 16",
+        "c": "Artículo 17",
+        "d": "Artículo 18",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la intimidad personal y familiar?",
+        "a": "Artículo 14",
+        "b": "Artículo 15",
+        "c": "Artículo 16",
+        "d": "Artículo 17",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la tutela judicial efectiva?",
+        "a": "Artículo 24",
+        "b": "Artículo 25",
+        "c": "Artículo 26",
+        "d": "Artículo 27",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece la libertad de cátedra?",
+        "a": "Artículo 19",
+        "b": "Artículo 20",
+        "c": "Artículo 21",
+        "d": "Artículo 22",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la educación?",
+        "a": "Artículo 25",
+        "b": "Artículo 26",
+        "c": "Artículo 27",
+        "d": "Artículo 28",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho al trabajo?",
+        "a": "Artículo 31",
+        "b": "Artículo 32",
+        "c": "Artículo 33",
+        "d": "Artículo 34",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la propiedad privada?",
+        "a": "Artículo 35",
+        "b": "Artículo 36",
+        "c": "Artículo 37",
+        "d": "Artículo 38",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece el derecho a la libertad de reunión?",
+        "a": "Artículo 19",
+        "b": "Artículo 20",
+        "c": "Artículo 21",
+        "d": "Artículo 22",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se aprobó la Constitución Española de 1978?",
+        "a": "28 de febrero de 1978",
+        "b": "6 de diciembre de 1978",
+        "c": "23 de febrero de 1981",
+        "d": "14 de abril de 1978",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se ratificó la Constitución Española de 1978 por parte del pueblo español?",
+        "a": "28 de febrero de 1978",
+        "b": "6 de diciembre de 1978",
+        "c": "23 de febrero de 1981",
+        "d": "14 de abril de 1978",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se publicó la Constitución Española de 1978 en el Boletín Oficial del Estado?",
+        "a": "28 de febrero de 1978",
+        "b": "6 de diciembre de 1978",
+        "c": "23 de febrero de 1981",
+        "d": "14 de abril de 1978",
+        "respuesta": "29 de diciembre de 1978",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué día se celebra el Día de la Constitución en España?",
+        "a": "28 de febrero",
+        "b": "6 de diciembre",
+        "c": "23 de febrero",
+        "d": "14 de abril",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué año se celebró el referéndum para la aprobación de la Constitución Española de 1978?",
+        "a": "1975",
+        "b": "1977",
+        "c": "1978",
+        "d": "1980",
+        "respuesta": "1978",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se convocó el Congreso Constituyente que redactó la Constitución Española de 1978?",
+        "a": "3 de noviembre de 1976",
+        "b": "28 de febrero de 1977",
+        "c": "23 de febrero de 1981",
+        "d": "14 de abril de 1978",
+        "respuesta": "28 de junio de 1977",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué fecha se instaló el Congreso Constituyente que redactó la Constitución Española de 1978?",
+        "a": "3 de noviembre de 1976",
+        "b": "28 de febrero de 1977",
+        "c": "23 de febrero de 1981",
+        "d": "14 de abril de 1978",
+        "respuesta": "27 de diciembre de 1978",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuántas cámaras forman las Cortes Generales?",
+        "a": "Una: el Congreso de los Diputados",
+        "b": "Dos: el Congreso de los Diputados y el Senado",
+        "c": "Tres: el Congreso de los Diputados, el Senado y el Consejo de Estado",
+        "d": "Cuatro: el Congreso de los Diputados, el Senado, el Consejo de Estado y el Tribunal Constitucional",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién ostenta la presidencia del Congreso de los Diputados?",
+        "a": "El Rey",
+        "b": "El Presidente del Gobierno",
+        "c": "El Presidente del Congreso",
+        "d": "El Presidente del Senado",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la duración del mandato de los diputados en el Congreso?",
+        "a": "3 años",
+        "b": "4 años",
+        "c": "5 años",
+        "d": "6 años",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién ostenta la presidencia del Senado?",
+        "a": "El Rey",
+        "b": "El Presidente del Gobierno",
+        "c": "El Presidente del Congreso",
+        "d": "El Presidente del Senado",
+        "respuesta": "d",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la duración del mandato de los senadores?",
+        "a": "3 años",
+        "b": "4 años",
+        "c": "5 años",
+        "d": "6 años",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué tipo de mayoría se requiere para la elección del Presidente del Gobierno?",
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría de dos tercios",
+        "d": "Mayoría de tres quintos",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién tiene la potestad de disolver el Congreso de los Diputados?",
+        "a": "El Rey",
+        "b": "El Presidente del Gobierno",
+        "c": "El Presidente del Congreso",
+        "d": "El Presidente del Senado",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Senado?",
+        "a": "Elaborar leyes",
+        "b": "Representar a las Comunidades Autónomas",
+        "c": "Aprobar los Presupuestos Generales del Estado",
+        "d": "Elegir al Presidente del Gobierno",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántas cámaras conforman las Cortes Generales?",
+        "a": "Una",
+        "b": "Dos",
+        "c": "Tres",
+        "d": "Cuatro",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos diputados hay en el Congreso de los Diputados?",
+        "a": "350",
+        "b": "400",
+        "c": "500",
+        "d": "600",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Senado en las Cortes Generales?",
+        "a": "Aprobar las leyes",
+        "b": "Controlar al Gobierno",
+        "c": "Elegir al presidente del Gobierno",
+        "d": "Designar al jefe de Estado",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos senadores son elegidos por las Comunidades Autónomas?",
+        "a": "Uno por comunidad autónoma",
+        "b": "Dos por comunidad autónoma",
+        "c": "Tres por comunidad autónoma",
+        "d": "Depende del tamaño de la comunidad autónoma",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué mayoría se necesita para que una ley sea aprobada en las Cortes Generales?",
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría cualificada",
+        "d": "Unanimidad",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién preside el Congreso de los Diputados?",
+        "a": "El presidente del Gobierno",
+        "b": "El Rey",
+        "c": "El presidente del Congreso",
+        "d": "El presidente del Senado",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos votos tienen los diputados en las votaciones del Congreso de los Diputados?",
+        "a": "Un voto cada uno",
+        "b": "Un voto por cada 50.000 habitantes de su circunscripción",
+        "c": "Un voto por cada 100.000 habitantes de su circunscripción",
+        "d": "Un voto por cada 500.000 habitantes de su circunscripción",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué mayoría se necesita para aprobar una moción de censura en el Congreso de los Diputados?",
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría cualificada",
+        "d": "Unanimidad",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+
+    {
+        "pregunta": "¿Qué derecho fundamental garantiza el derecho a la vida?",
+        "a": "Derecho a la integridad física y moral",
+        "b": "Derecho a la educación",
+        "c": "Derecho a la libertad personal",
+        "d": "Derecho a la igualdad",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes derechos es considerado un derecho social en la Constitución Española?",
+        "a": "Derecho a la vida",
+        "b": "Derecho a la igualdad",
+        "c": "Derecho al trabajo",
+        "d": "Derecho a la libertad de expresión",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución Española se encuentra el derecho a la libertad ideológica?",
+        "a": "Artículo 16",
+        "b": "Artículo 17",
+        "c": "Artículo 18",
+        "d": "Artículo 19",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es el derecho fundamental que garantiza la inviolabilidad del domicilio?",
+        "a": "Derecho a la intimidad personal y familiar",
+        "b": "Derecho a la educación",
+        "c": "Derecho a la libertad de expresión",
+        "d": "Derecho a la propiedad privada",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución Española se establece el derecho a la libertad personal?",
+        "a": "Artículo 15",
+        "b": "Artículo 16",
+        "c": "Artículo 17",
+        "d": "Artículo 18",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución Española se establece el derecho a la tutela judicial efectiva?",
+        "a": "Artículo 23",
+        "b": "Artículo 24",
+        "c": "Artículo 25",
+        "d": "Artículo 26",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes derechos fundamentales garantiza la protección de la salud?",
+        "a": "Derecho al trabajo",
+        "b": "Derecho a la educación",
+        "c": "Derecho a la protección de la salud",
+        "d": "Derecho a la libertad personal",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución Española se encuentra el derecho a la libertad de expresión?",
+        "a": "Artículo 16",
+        "b": "Artículo 17",
+        "c": "Artículo 18",
+        "d": "Artículo 19",
+        "respuesta": "d",
+        "categoria_id": 1
+    },
+
+    {
+        "pregunta": "¿Cuál es el artículo de la Constitución Española que establece las funciones constitucionales del Rey?",
+        "a": "Artículo 54",
+        "b": "Artículo 56",
+        "c": "Artículo 58",
+        "d": "Artículo 60",
+        "respuesta": "b",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué función tiene el Rey en la convocatoria y disolución de las Cortes Generales?",
+        "a": "Puede convocar y disolver las Cortes Generales por propia iniciativa",
+        "b": "Debe solicitar permiso al Presidente del Gobierno para convocar o disolver las Cortes Generales",
+        "c": "No tiene ninguna función en la convocatoria y disolución de las Cortes Generales",
+        "d": "Solo puede convocar las Cortes Generales a petición del Presidente del Gobierno",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la función que tiene el Rey en la sanción y promulgación de leyes?",
+        "a": "El Rey puede vetar la aprobación de leyes",
+        "b": "El Rey tiene la obligación de promulgar las leyes aprobadas por las Cortes Generales",
+        "c": "El Rey tiene la facultad de sancionar y promulgar las leyes aprobadas por las Cortes Generales",
+        "d": "El Rey solo puede sancionar leyes aprobadas por el Senado",
+        "respuesta": "c",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Qué función tiene el Rey en la ratificación y firma de tratados internacionales?",
+        "a": "El Rey tiene la facultad de ratificar y firmar tratados internacionales previamente autorizados por el Congreso de los Diputados",
+        "b": "El Rey solo puede ratificar tratados internacionales previamente autorizados por el Senado",
+        "c": "El Rey no tiene ninguna función en la ratificación y firma de tratados internacionales",
+        "d": "El Rey tiene la facultad de ratificar y firmar tratados internacionales sin necesidad de autorización previa",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+    {
+        "pregunta": "¿Cuál es la función que tiene el Rey en la jefatura suprema de las Fuerzas Armadas?",
+        "a": "El Rey es el mando supremo de las Fuerzas Armadas y ostenta la jefatura suprema de las mismas",
+        "b": "El Rey solo tiene una función representativa en relación a las Fuerzas Armadas",
+        "c": "El Rey no tiene ninguna función en relación a las Fuerzas Armadas",
+        "d": "El Rey solo tiene funciones administrativas en relación a las Fuerzas Armadas",
+        "respuesta": "a",
+        "categoria_id": 1
+    },
+
+    {
+        "pregunta": "¿Qué mayoría se necesita en el Congreso de los Diputados para aprobar una moción de censura?",
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría de 2/3",
+        "d": "Mayoría de 3/5",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué función tiene el Senado en relación a los tratados internacionales?",
+        "a": "Ratificar los tratados que firma el Gobierno",
+        "b": "Negociar los tratados internacionales",
+        "c": "Aprobar los tratados internacionales con mayoría simple",
+        "d": "No tiene función en relación a los tratados internacionales",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién elige al Presidente del Congreso de los Diputados?",
+        "a": "El Rey",
+        "b": "El Congreso de los Diputados",
+        "c": "El Senado",
+        "d": "El Presidente del Gobierno",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuánto dura el mandato de los senadores?",
+        "a": "4 años",
+        "b": "6 años",
+        "c": "8 años",
+        "d": "10 años",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Congreso de los Diputados?",
+        "a": "Ejercer la potestad legislativa del Estado",
+        "b": "Ejercer la función judicial del Estado",
+        "c": "Ejercer la función ejecutiva del Estado",
+        "d": "Ejercer la función de control sobre el Gobierno",
+        "respuesta": "d",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué mayoría se necesita en el Senado para aprobar una reforma constitucional?",
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta",
+        "c": "Mayoría de 2/3",
+        "d": "Mayoría de 3/5",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos miembros tiene el Senado?",
+        "a": "208 miembros",
+        "b": "265 miembros",
+        "c": "350 miembros",
+        "d": "266 miembros",
+        "respuesta": "d",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cómo se llama el órgano que preside el Senado?",
+        "a": "El Presidente del Senado",
+        "b": "El Presidente de las Cortes",
+        "c": "El Presidente del Congreso",
+        "d": "El Presidente de la República",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+
+    {
+        "pregunta": "¿Qué es el Tribunal Constitucional?",
+        "a": "Es el máximo órgano judicial en materia constitucional en España.",
+        "b": "Es el máximo órgano legislativo en materia constitucional en España.",
+        "c": "Es el máximo órgano ejecutivo en materia constitucional en España.",
+        "d": "Es el máximo órgano administrativo en materia constitucional en España.",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Tribunal Constitucional?",
+        "a": "Garantizar el respeto de los derechos fundamentales y las libertades públicas.",
+        "b": "Asegurar la igualdad de los ciudadanos ante la ley.",
+        "c": "Resolver los conflictos que surjan entre las distintas instituciones del Estado.",
+        "d": "Garantizar la independencia del poder judicial.",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos magistrados componen el Tribunal Constitucional?",
+        "a": "10",
+        "b": "12",
+        "c": "14",
+        "d": "16",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuánto dura el mandato de los magistrados del Tribunal Constitucional?",
+        "a": "6 años",
+        "b": "8 años",
+        "c": "10 años",
+        "d": "12 años",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quiénes eligen a los magistrados del Tribunal Constitucional?",
+        "a": "El rey",
+        "b": "El presidente del Gobierno",
+        "c": "El Congreso de los Diputados y el Senado",
+        "d": "El Consejo General del Poder Judicial",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿En qué casos puede el Tribunal Constitucional declarar inconstitucional una ley?",
+        "a": "Cuando vulnera los derechos fundamentales y las libertades públicas.",
+        "b": "Cuando va en contra de los intereses generales del Estado.",
+        "c": "Cuando perjudica a alguna comunidad autónoma.",
+        "d": "Cuando afecta a la seguridad nacional.",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué significa que el Tribunal Constitucional declare una ley inconstitucional?",
+        "a": "Que la ley queda anulada y sin efecto.",
+        "b": "Que la ley debe ser revisada y modificada para adaptarse a la Constitución.",
+        "c": "Que la ley se mantiene en vigor pero con algunas limitaciones.",
+        "d": "Que la ley se suspende temporalmente hasta que se resuelve la cuestión de su constitucionalidad.",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+
+    {
+        "pregunta": "¿Qué organismo español está encargado de velar por la defensa y protección de los derechos humanos y las libertades fundamentales reconocidos en la Constitución y en las leyes?",
+        "a": "La Audiencia Nacional",
+        "b": "El Consejo General del Poder Judicial",
+        "c": "El Defensor del Pueblo",
+        "d": "El Tribunal Constitucional",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Quién elige al Defensor del Pueblo?",
+        "a": "El Congreso de los Diputados",
+        "b": "El Senado",
+        "c": "Ambas cámaras conjuntamente",
+        "d": "El Consejo General del Poder Judicial",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es el mandato del Defensor del Pueblo?",
+        "a": "4 años",
+        "b": "5 años",
+        "c": "6 años",
+        "d": "7 años",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del Defensor del Pueblo?",
+        "a": "Realizar informes sobre el funcionamiento de las instituciones públicas",
+        "b": "Sancionar a los funcionarios que cometan infracciones",
+        "c": "Representar a España en el Consejo de Europa",
+        "d": "Elegir al presidente del Gobierno",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Qué órgano del Congreso de los Diputados es el encargado de tramitar las quejas que presenta el Defensor del Pueblo?",
+        "a": "La Comisión Constitucional",
+        "b": "La Comisión de Asuntos Exteriores",
+        "c": "La Comisión de Hacienda",
+        "d": "La Comisión de Interior",
+        "respuesta": "a",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿En qué año se creó el cargo de Defensor del Pueblo?",
+        "a": "1980",
+        "b": "1981",
+        "c": "1982",
+        "d": "1983",
+        "respuesta": "b",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cuántos Defensores del Pueblo ha habido en España desde su creación?",
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9",
+        "respuesta": "c",
+        "categoria_id": 2
+    },
+    {
+        "pregunta": "¿Cómo puede el Defensor del Pueblo iniciar actuaciones de oficio?",
+        "a": "Siempre que tenga conocimiento de hechos que puedan vulnerar derechos fundamentales",
+        "b": "Solo con autorización del Congreso de los Diputados",
+        "c": "Solo con autorización del Consejo de Ministros",
+        "d": "No puede iniciar actuaciones de oficio",
+        "respuesta": "a",
+        "categoria_id": 2
+    }
+]

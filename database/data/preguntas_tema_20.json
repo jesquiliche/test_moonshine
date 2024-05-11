@@ -1,0 +1,272 @@
+[
+    {
+        "pregunta": "¿Cuál es la diferencia entre INNER JOIN y OUTER JOIN?",
+        "a": "INNER JOIN devuelve solo las filas que tienen coincidencias en ambas tablas, mientras que OUTER JOIN devuelve todas las filas de ambas tablas, incluyendo las que no tienen coincidencias en la otra tabla.",
+        "b": "INNER JOIN devuelve todas las filas de ambas tablas, incluyendo las que no tienen coincidencias en la otra tabla, mientras que OUTER JOIN devuelve solo las filas que tienen coincidencias en ambas tablas.",
+        "c": "INNER JOIN y OUTER JOIN son sinónimos y se pueden usar indistintamente.",
+        "d": "INNER JOIN solo se puede usar con dos tablas, mientras que OUTER JOIN se puede usar con tres o más tablas.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre GROUP BY y ORDER BY?",
+        "a": "GROUP BY agrupa las filas en función de una o más columnas y devuelve una fila por cada grupo, mientras que ORDER BY ordena las filas en función de una o más columnas.",
+        "b": "ORDER BY agrupa las filas en función de una o más columnas y devuelve una fila por cada grupo, mientras que GROUP BY ordena las filas en función de una o más columnas.",
+        "c": "GROUP BY y ORDER BY son sinónimos y se pueden usar indistintamente.",
+        "d": "GROUP BY y ORDER BY no son necesarios en una consulta SELECT.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la cláusula HAVING en una consulta GROUP BY?",
+        "a": "Filtra los grupos generados por GROUP BY según una condición.",
+        "b": "Ordena los grupos generados por GROUP BY según una o más columnas.",
+        "c": "Selecciona las columnas a incluir en la salida de la consulta.",
+        "d": "Agrega una o más columnas calculadas a la salida de la consulta.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la función COUNT en una consulta SELECT?",
+        "a": "Cuenta el número de filas que cumplen una condición.",
+        "b": "Suma los valores de una columna que cumplen una condición.",
+        "c": "Calcula el valor promedio de una columna que cumple una condición.",
+        "d": "Selecciona la fila con el valor máximo en una columna que cumple una condición.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la función AVG en una consulta SELECT?",
+        "a": "Calcula el valor promedio de una columna.",
+        "b": "Cuenta el número de filas que cumplen una condición.",
+        "c": "Suma los valores de una columna que cumplen una condición.",
+        "d": "Selecciona la fila con el valor máximo en una columna.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre INNER JOIN y OUTER JOIN en SQL?",
+        "a": "INNER JOIN devuelve solamente las filas que coinciden en ambas tablas, mientras que OUTER JOIN devuelve todas las filas de ambas tablas, incluso si no hay coincidencias en una de ellas.",
+        "b": "OUTER JOIN devuelve solamente las filas que coinciden en ambas tablas, mientras que INNER JOIN devuelve todas las filas de ambas tablas, incluso si no hay coincidencias en una de ellas.",
+        "c": "INNER JOIN y OUTER JOIN son sinónimos y se pueden utilizar indistintamente en SQL.",
+        "d": "INNER JOIN y OUTER JOIN son cláusulas obsoletas en SQL y no se recomienda su uso.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre INNER JOIN y OUTER JOIN en SQL?",
+        "a": "INNER JOIN devuelve solamente las filas que coinciden en ambas tablas, mientras que OUTER JOIN devuelve todas las filas de ambas tablas, incluso si no hay coincidencias en una de ellas.",
+        "b": "OUTER JOIN devuelve solamente las filas que coinciden en ambas tablas, mientras que INNER JOIN devuelve todas las filas de ambas tablas, incluso si no hay coincidencias en una de ellas.",
+        "c": "INNER JOIN y OUTER JOIN son sinónimos y se pueden utilizar indistintamente en SQL.",
+        "d": "INNER JOIN y OUTER JOIN son cláusulas obsoletas en SQL y no se recomienda su uso.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la cláusula GROUP BY en SQL?",
+        "a": "Agrupa las filas de una tabla según los valores de una o varias columnas y permite aplicar una función de agregación como SUM o COUNT.",
+        "b": "Filtra las filas de una tabla según una o varias condiciones especificadas en la cláusula WHERE.",
+        "c": "Ordena las filas de una tabla según los valores de una o varias columnas especificadas en la cláusula ORDER BY.",
+        "d": "Crea una tabla temporal a partir de los resultados de una consulta SELECT.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la cláusula HAVING en SQL?",
+        "a": "Filtra los resultados de una consulta GROUP BY según una o varias condiciones aplicadas a las funciones de agregación.",
+        "b": "Filtra las filas de una tabla según una o varias condiciones especificadas en la cláusula WHERE.",
+        "c": "Ordena las filas de una tabla según los valores de una o varias columnas especificadas en la cláusula ORDER BY.",
+        "d": "Crea una tabla temporal a partir de los resultados de una consulta SELECT.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre NATURAL JOIN y JOIN en SQL?",
+        "a": "NATURAL JOIN une dos tablas según las columnas que tienen en común, mientras que JOIN une dos tablas según una condición especificada en la cláusula ON.",
+        "b": "JOIN une dos tablas según las columnas que tienen en común, mientras que NATURAL JOIN une dos tablas según una condición especificada en la cláusula ON.",
+        "c": "NATURAL JOIN y JOIN son sinónimos y se pueden utilizar indistintamente en SQL.",
+        "d": "NATURAL JOIN y JOIN son cláusulas obsoletas en SQL y no se recomienda su uso.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "En SQL Server, ¿cuál es la cláusula que se utiliza para crear un store procedure?",
+        "a": "CREATE STORE PROCEDURE",
+        "b": "CREATE PROCEDURE",
+        "c": "CREATE PROC",
+        "d": "CREATE SP",
+        "respuesta": "b",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué son los parámetros de entrada en un store procedure en MySQL?",
+        "a": "Valores que se envían al store procedure para ser procesados.",
+        "b": "Valores que se devuelven al llamar al store procedure.",
+        "c": "Variables locales definidas en el cuerpo del store procedure.",
+        "d": "Ninguna de las anteriores.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de llamar a un store procedure en PostgreSQL que tenga un parámetro de entrada?",
+        "a": "EXEC nombre_store_procedure parametro_entrada",
+        "b": "EXECUTE nombre_store_procedure parametro_entrada",
+        "c": "EXECUTE nombre_store_procedure (parametro_entrada)",
+        "d": "CALL nombre_store_procedure parametro_entrada",
+        "respuesta": "c",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué es una variable de tabla en SQL Server y cómo se declara en un store procedure?",
+        "a": "Es una tabla temporal que se utiliza para almacenar resultados intermedios en el store procedure. Se declara con la cláusula DECLARE @nombre_tabla TABLE().",
+        "b": "Es una tabla permanente que se utiliza para almacenar resultados intermedios en el store procedure. Se declara con la cláusula DECLARE @nombre_tabla TABLE().",
+        "c": "Es una variable que contiene un conjunto de valores. Se declara con la cláusula DECLARE @nombre_variable TABLE().",
+        "d": "Es una variable que contiene un único valor. Se declara con la cláusula DECLARE @nombre_variable INT.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la función de la cláusula OUT en la definición de un stored procedure en T-SQL?",
+        "a": "Permite especificar los valores que el stored procedure devuelve como resultado.",
+        "b": "Permite especificar los parámetros de entrada del stored procedure.",
+        "c": "Permite especificar los parámetros de salida del stored procedure.",
+        "d": "Permite especificar los parámetros de entrada y salida del stored procedure.",
+        "respuesta": "c",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué es una variable de tabla en SQL Server?",
+        "a": "Una variable que almacena valores numéricos en un stored procedure.",
+        "b": "Una variable que almacena valores de cadena en un stored procedure.",
+        "c": "Una variable que almacena un conjunto de datos con una estructura de tabla en memoria.",
+        "d": "Una variable que almacena un conjunto de datos con una estructura de tabla en disco.",
+        "respuesta": "c",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cómo se llama la función que se utiliza para invocar un stored procedure en SQL?",
+        "a": "EXECUTE",
+        "b": "CALL",
+        "c": "RUN",
+        "d": "INVOKE",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un stored procedure y una función en SQL?",
+        "a": "Un stored procedure devuelve un valor y una función no.",
+        "b": "Una función puede ser llamada desde una sentencia SELECT, mientras que un stored procedure no.",
+        "c": "Un stored procedure es un conjunto de instrucciones que se ejecutan en el servidor de base de datos, mientras que una función es un objeto que se ejecuta en el cliente.",
+        "d": "Una función puede tener parámetros de entrada y salida, mientras que un stored procedure solo puede tener parámetros de entrada.",
+        "respuesta": "b",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué es una transacción en SQL?",
+        "a": "Un conjunto de sentencias SQL que se ejecutan de forma atómica y se consideran como una unidad de trabajo.",
+        "b": "Un conjunto de sentencias SQL que se ejecutan de forma secuencial y producen un resultado final.",
+        "c": "Una operación que se realiza de forma asincrónica y que no afecta a otras operaciones.",
+        "d": "Una operación que se realiza de forma síncrona y que puede bloquear otras operaciones.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué tipo de disparador se ejecuta antes de que se realice una operación en una tabla?",
+        "a": "Disparador INSTEAD OF",
+        "b": "Disparador AFTER",
+        "c": "Disparador BEFORE",
+        "d": "Disparador DURING",
+        "respuesta": "c",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué tipo de eventos pueden activar un trigger en SQL?",
+        "a": "Sólo operaciones de inserción",
+        "b": "Sólo operaciones de actualización",
+        "c": "Sólo operaciones de eliminación",
+        "d": "Operaciones de inserción, actualización y eliminación",
+        "respuesta": "d",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué acción puede tomar un trigger en SQL cuando se activa?",
+        "a": "Iniciar una transacción",
+        "b": "Llamar a una función externa",
+        "c": "Ejecutar una sentencia SQL",
+        "d": "Todas las anteriores",
+        "respuesta": "d",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la sintaxis para crear un trigger en SQL?",
+        "a": "CREATE TRIGGER nombre_trigger ON nombre_tabla AFTER INSERT AS BEGIN [sentencias] END",
+        "b": "CREATE TRIGGER nombre_trigger AFTER INSERT ON nombre_tabla AS BEGIN [sentencias] END",
+        "c": "CREATE TRIGGER AFTER INSERT nombre_tabla nombre_trigger AS BEGIN [sentencias] END",
+        "d": "CREATE TRIGGER nombre_tabla nombre_trigger AFTER INSERT AS BEGIN [sentencias] END",
+        "respuesta": "b",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué tipo de eventos pueden activar un trigger en SQL?",
+        "a": "Sólo operaciones de inserción",
+        "b": "Sólo operaciones de actualización",
+        "c": "Sólo operaciones de eliminación",
+        "d": "Operaciones de inserción, actualización y eliminación",
+        "respuesta": "d",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la sintaxis para crear un trigger en SQL?",
+        "a": "CREATE TRIGGER nombre_trigger ON nombre_tabla AFTER INSERT AS BEGIN [sentencias] END",
+        "b": "CREATE TRIGGER nombre_trigger AFTER INSERT ON nombre_tabla AS BEGIN [sentencias] END",
+        "c": "CREATE TRIGGER AFTER INSERT nombre_tabla nombre_trigger AS BEGIN [sentencias] END",
+        "d": "CREATE TRIGGER nombre_tabla nombre_trigger AFTER INSERT AS BEGIN [sentencias] END",
+        "respuesta": "b",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué acción puede tomar un trigger en SQL cuando se activa?",
+        "a": "Iniciar una transacción",
+        "b": "Llamar a una función externa",
+        "c": "Ejecutar una sentencia SQL",
+        "d": "Todas las anteriores",
+        "respuesta": "d",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cómo se declara un PL/SQL procedure?",
+        "a": "PROCEDURE nombre_procedure (parámetros) IS ... END;",
+        "b": "PROC nombre_procedure (parámetros) IS ... END;",
+        "c": "PROC nombre_procedure IS ... END;",
+        "d": "PROCEDURE nombre_procedure IS ... END;",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué son los parámetros IN de un PL/SQL procedure?",
+        "a": "Son parámetros que se utilizan para enviar valores al procedure.",
+        "b": "Son parámetros que se utilizan para devolver valores desde el procedure.",
+        "c": "Son parámetros que se utilizan para indicar el tipo de datos que se espera recibir como entrada.",
+        "d": "Son parámetros que se utilizan para controlar el flujo de ejecución del procedure.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué es un cursor en PL/SQL?",
+        "a": "Es un objeto que permite recorrer los registros devueltos por una consulta.",
+        "b": "Es un conjunto de declaraciones que realiza una tarea específica.",
+        "c": "Es una función que devuelve un valor determinado en base a unos parámetros de entrada.",
+        "d": "Es un tipo de variable que se utiliza para almacenar resultados intermedios.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cómo se declara un cursor en PL/SQL?",
+        "a": "DECLARE nombre_cursor CURSOR FOR SELECT ...",
+        "b": "DECLARE CURSOR nombre_cursor FOR SELECT ...",
+        "c": "CURSOR nombre_cursor IS SELECT ...",
+        "d": "CURSOR nombre_cursor FOR SELECT ...",
+        "respuesta": "d",
+        "categoria_id": 20
+    }
+]

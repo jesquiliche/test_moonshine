@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Qué componente de la placa base se encarga de la gestión de los recursos de la computadora?",
+        "a": "La tarjeta de sonido",
+        "b": "El procesador",
+        "c": "La tarjeta de red",
+        "d": "El chipset",
+        "respuesta": "d",
+        "categoria_id": 12,
+        "explicacion": "El chipset es un conjunto de circuitos integrados que se encarga de la gestión de los recursos de la computadora, incluyendo la comunicación entre la CPU y otros componentes de la placa base. También se encarga de controlar los puertos de entrada/salida y el acceso a la memoria RAM."
+    },
+    {
+        "pregunta": "¿Qué componente de la placa base se encarga de la transferencia de datos entre la CPU y otros componentes?",
+        "a": "El procesador",
+        "b": "La tarjeta de red",
+        "c": "La tarjeta gráfica",
+        "d": "El bus del sistema",
+        "respuesta": "d",
+        "categoria_id": 12,
+        "explicacion": "El bus del sistema es un conjunto de líneas de comunicación que se encarga de la transferencia de datos entre la CPU y otros componentes de la placa base, como la memoria RAM, la tarjeta gráfica y los dispositivos de almacenamiento. El bus del sistema tiene una velocidad de transferencia determinada por la frecuencia del reloj de la CPU."
+    },
+    {
+        "pregunta": "¿Qué componente de la placa base se encarga de la conexión entre la memoria RAM y la CPU?",
+        "a": "El chipset",
+        "b": "La tarjeta de sonido",
+        "c": "La tarjeta gráfica",
+        "d": "El procesador",
+        "respuesta": "d",
+        "categoria_id": 12,
+        "explicacion": "El procesador se encarga de la conexión entre la memoria RAM y la CPU. El procesador utiliza una interfaz de memoria que permite acceder a la memoria RAM a través de un bus de datos. La velocidad de la memoria RAM está determinada por su frecuencia y por la latencia, que es el tiempo que tarda la memoria en responder a una solicitud de datos."
+    },
+    {
+        "pregunta": "¿Qué componente de la placa base se encarga del almacenamiento permanente de datos en la computadora?",
+        "a": "La memoria RAM",
+        "b": "El disco duro",
+        "c": "La tarjeta de sonido",
+        "d": "La tarjeta gráfica",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "El disco duro es el componente de la computadora que se encarga del almacenamiento permanente de datos. El disco duro utiliza discos magnéticos para almacenar la información y tiene una capacidad de almacenamiento mucho mayor que la memoria RAM. La velocidad de acceso a los datos en el disco duro depende de su velocidad de rotación y de la velocidad de transferencia de datos."
+    }
+]

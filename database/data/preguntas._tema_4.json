@@ -1,0 +1,518 @@
+[
+    {
+        "pregunta": "¿Qué principio constitucional se refiere a la necesidad de garantizar la igualdad de oportunidades en el acceso al empleo público?",
+        "a": "Principio de eficacia",
+        "b": "Principio de mérito y capacidad",
+        "c": "Principio de jerarquía",
+        "d": "Principio de legalidad",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué texto regula el régimen jurídico del personal al servicio de las Administraciones Públicas?",
+        "a": "La Constitución Española",
+        "b": "El Código Penal",
+        "c": "El Estatuto de los Trabajadores",
+        "d": "El Estatuto Básico del Empleo Público",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Quién tiene la competencia para el nombramiento de los altos cargos de la Administración General del Estado?",
+        "a": "El Congreso de los Diputados",
+        "b": "El Senado",
+        "c": "El Gobierno",
+        "d": "El Rey",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué normativa regula la selección de personal en el ámbito de la Administración General del Estado?",
+        "a": "La Constitución Española",
+        "b": "El Código Penal",
+        "c": "El Estatuto de los Trabajadores",
+        "d": "La Ley de Función Pública",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el órgano encargado de la dirección y coordinación de la Administración General del Estado?",
+        "a": "El Consejo de Ministros",
+        "b": "El Ministerio de Hacienda",
+        "c": "La Agencia Estatal de Administración Tributaria",
+        "d": "La Casa Real",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el personal funcionario de carrera?",
+        "a": "El personal laboral al servicio de la Administración General del Estado",
+        "b": "El personal interino al servicio de la Administración General del Estado",
+        "c": "El personal que ha superado el proceso selectivo y ostenta una relación de servicio por tiempo indefinido",
+        "d": "El personal que presta servicios en las Fuerzas Armadas",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son los principios constitucionales informadores?",
+        "a": "Son aquellos que no tienen relevancia jurídica",
+        "b": "Son aquellos que no tienen efectos en la interpretación de la Constitución",
+        "c": "Son aquellos que sirven para orientar la interpretación de la Constitución",
+        "d": "Son aquellos que no tienen relación con la Constitución",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cómo se denomina la norma que regula la organización y funcionamiento de la Administración General del Estado?",
+        "a": "Ley de Funcionarios Públicos",
+        "b": "Ley de Servicios Públicos",
+        "c": "Ley de Administración Pública",
+        "d": "Ley de Funcionamiento del Estado",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del texto que regula el Estatuto Básico del Empleo Público?",
+        "a": "Ley 7/2007",
+        "b": "Real Decreto 364/1995",
+        "c": "Real Decreto Legislativo 5/2015",
+        "d": "Ley 40/2015",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el artículo de la Constitución que regula las Comunidades Autónomas?",
+        "a": "Artículo 143",
+        "b": "Artículo 143 bis",
+        "c": "Artículo 143 ter",
+        "d": "Artículo 143 cuater",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Quiénes ostentan el derecho de iniciativa legislativa en las Comunidades Autónomas?",
+        "a": "Sólo el Parlamento autonómico",
+        "b": "Sólo el Gobierno autonómico",
+        "c": "Tanto el Parlamento como el Gobierno autonómicos",
+        "d": "Ninguno de los anteriores",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuántas Comunidades Autónomas hay en España?",
+        "a": "17",
+        "b": "12",
+        "c": "10",
+        "d": "15",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la competencia exclusiva de las Comunidades Autónomas en relación a la cultura?",
+        "a": "La promoción, la planificación y la gestión de la cultura en el ámbito de su territorio.",
+        "b": "La gestión y financiación de la educación en su ámbito territorial.",
+        "c": "La promoción del deporte y la actividad física en su ámbito territorial.",
+        "d": "La protección del medio ambiente y la biodiversidad en su ámbito territorial.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el régimen foral?",
+        "a": "Un sistema fiscal especial que se aplica en determinados territorios como Navarra y el País Vasco.",
+        "b": "Un sistema electoral especial que se aplica en determinados territorios como Cataluña y Galicia.",
+        "c": "Un sistema de financiación especial que se aplica en determinados territorios como Andalucía y Valencia.",
+        "d": "Un sistema de protección del medio ambiente que se aplica en determinados territorios como Asturias y Cantabria.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la capital de la Comunidad Autónoma de Cataluña?",
+        "a": "Barcelona",
+        "b": "Valencia",
+        "c": "Madrid",
+        "d": "Sevilla",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la comunidad autónoma más poblada de España?",
+        "a": "Andalucía",
+        "b": "Cataluña",
+        "c": "Madrid",
+        "d": "Valencia",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el plazo máximo que puede durar la prisión provisional según la Constitución española?",
+        "a": "6 meses",
+        "b": "1 año",
+        "c": "2 años",
+        "d": "3 años",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué tribunal es competente para juzgar a los miembros del Gobierno en caso de comisión de delitos?",
+        "a": "El Tribunal Constitucional",
+        "b": "La Audiencia Nacional",
+        "c": "El Tribunal Supremo",
+        "d": "El Consejo General del Poder Judicial",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el órgano encargado de designar al Fiscal General del Estado?",
+        "a": "El Consejo de Ministros",
+        "b": "El Congreso de los Diputados",
+        "c": "El Senado",
+        "d": "El Consejo General del Poder Judicial",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué organismo es el encargado de la gestión del Registro Civil?",
+        "a": "El Ayuntamiento",
+        "b": "El Ministerio de Justicia",
+        "c": "La Diputación Provincial",
+        "d": "La Comunidad Autónoma",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿En qué artículo de la Constitución se establece el derecho a la huelga?",
+        "a": "Artículo 28",
+        "b": "Artículo 29",
+        "c": "Artículo 30",
+        "d": "Artículo 31",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+
+    {
+        "pregunta": "¿Cuál es el órgano colegiado supremo que representa al pueblo en las Comunidades Autónomas?",
+        "a": "El Parlamento autonómico",
+        "b": "El Consejo de Gobierno autonómico",
+        "c": "El Consejo Consultivo autonómico",
+        "d": "El Consejo Económico y Social autonómico",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución Española regula la posibilidad de crear un nuevo Estatuto de Autonomía?",
+        "a": "Artículo 147",
+        "b": "Artículo 148",
+        "c": "Artículo 149",
+        "d": "Artículo 150",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué artículo de la Constitución establece la posibilidad de que una Comunidad Autónoma pueda asumir competencias en materia de Justicia?",
+        "a": "Artículo 149.1.5ª",
+        "b": "Artículo 149.1.6ª",
+        "c": "Artículo 149.1.8ª",
+        "d": "Artículo 149.1.10ª",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el Consejo de Política Fiscal y Financiera?",
+        "a": "Un órgano de coordinación entre el Gobierno y las Comunidades Autónomas para la política fiscal y financiera",
+        "b": "Un órgano de control de las cuentas públicas de las Comunidades Autónomas",
+        "c": "Un órgano asesor del Tribunal Constitucional en materia fiscal y financiera",
+        "d": "Un órgano de control de la política económica del Gobierno",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el órgano máximo de gobierno y administración en una provincia?",
+        "a": "La Diputación Provincial",
+        "b": "La Delegación del Gobierno",
+        "c": "El Ayuntamiento",
+        "d": "La Junta de Comunidades",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el periodo de duración de un contrato de trabajo temporal en España?",
+        "a": "Hasta 12 meses",
+        "b": "Hasta 24 meses",
+        "c": "Hasta 36 meses",
+        "d": "No hay límite de duración",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué entidad se encarga de la gestión del sistema de Seguridad Social en España?",
+        "a": "La Agencia Estatal de Administración Tributaria",
+        "b": "El Instituto Nacional de Estadística",
+        "c": "El Ministerio de Sanidad",
+        "d": "La Tesorería General de la Seguridad Social",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuántos días de vacaciones tiene derecho a disfrutar un trabajador por año completo de trabajo?",
+        "a": "15 días hábiles",
+        "b": "22 días hábiles",
+        "c": "30 días naturales",
+        "d": "Depende del convenio colectivo aplicable",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la edad mínima para trabajar en España?",
+        "a": "14 años",
+        "b": "16 años",
+        "c": "18 años",
+        "d": "No hay edad mínima establecida",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el salario mínimo interprofesional en España para el año 2023?",
+        "a": "950 euros mensuales",
+        "b": "1.000 euros mensuales",
+        "c": "1.100 euros mensuales",
+        "d": "1.200 euros mensuales",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el contrato de relevo?",
+        "a": "Un contrato que se utiliza para la sustitución temporal de un trabajador con derecho a reserva del puesto de trabajo",
+        "b": "Un contrato que se utiliza para la contratación de trabajadores mayores de 52 años que han sido despedidos",
+        "c": "Un contrato que se utiliza para la contratación de jóvenes menores de 30 años",
+        "d": "Un contrato que se utiliza para la contratación de trabajadores con discapacidad",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿En qué consiste el periodo de prueba en un contrato de trabajo?",
+        "a": "Un periodo durante el cual el trabajador no tiene derecho a la remuneración correspondiente a su puesto de trabajo",
+        "b": "Un periodo durante el cual el trabajador puede ser despedido sin necesidad de alegar causa alguna",
+        "c": "Un periodo durante el cual el trabajador tiene derecho a una remuneración reducida",
+        "d": "Un periodo durante el cual tanto el trabajador como el empleador pueden evaluar si existe adaptación entre el puesto de trabajo y el trabajador",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+
+    {
+        "pregunta": "¿Cuál es el objetivo de la Ley de Régimen Jurídico del Sector Público?",
+        "a": "Garantizar la eficacia y eficiencia en la actuación administrativa.",
+        "b": "Garantizar la protección de los derechos fundamentales.",
+        "c": "Establecer los principios de la democracia participativa.",
+        "d": "Establecer los criterios para la delimitación de competencias entre las diferentes administraciones públicas.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son los servicios públicos en sentido amplio?",
+        "a": "Las actividades administrativas dirigidas a la satisfacción de intereses públicos y privados.",
+        "b": "Las actividades dirigidas a la satisfacción de intereses públicos exclusivamente.",
+        "c": "Las actividades económicas en manos del sector público.",
+        "d": "Las actividades dirigidas a la satisfacción de intereses privados exclusivamente.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la finalidad de la Ley de Contratos del Sector Público?",
+        "a": "Regular la contratación del sector público para garantizar la libre competencia y la transparencia.",
+        "b": "Garantizar la seguridad ciudadana.",
+        "c": "Garantizar la protección de los derechos fundamentales.",
+        "d": "Regular la delimitación de competencias entre las diferentes administraciones públicas.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la potestad reglamentaria de la Administración?",
+        "a": "La capacidad de crear normas jurídicas con carácter general y subordinante.",
+        "b": "La capacidad de imponer sanciones.",
+        "c": "La capacidad de administrar bienes públicos.",
+        "d": "La capacidad de contratar con terceros.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son las potestades administrativas?",
+        "a": "Las facultades especiales que la Administración tiene para intervenir en la vida privada de los ciudadanos.",
+        "b": "Las facultades especiales que la Administración tiene para tomar decisiones en materia de recursos humanos.",
+        "c": "Las facultades especiales que la Administración tiene para sancionar a los particulares.",
+        "d": "Las facultades especiales que la Administración tiene para actuar en defensa del interés general.",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el plazo máximo para la resolución de los procedimientos administrativos?",
+        "a": "6 meses",
+        "b": "12 meses",
+        "c": "18 meses",
+        "d": "24 meses",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son los actos administrativos?",
+        "a": "Las decisiones que toma la Administración en materia de recursos humanos.",
+        "b": "Las decisiones que toma la Administración en materia de sanciones a particulares.",
+        "c": "Las decisiones que toma la Administración en el ejercicio de su poder público.",
+        "d": "Las decisiones que toma la Administración en materia de contratación pública.",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son los recursos administrativos?",
+        "a": "Mecanismos que permiten a los particulares impugnar los actos administrativos ante la propia Administración que los dictó.",
+        "b": "Mecanismos que permiten a los particulares impugnar los actos administrativos ante los tribunales de justicia.",
+        "c": "Mecanismos que permiten a los particulares solicitar indemnización por daños y perjuicios causados por la Administración.",
+        "d": "Mecanismos que permiten a los particulares solicitar la anulación de una norma con rango de ley.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la potestad sancionadora?",
+        "a": "La capacidad de la Administración para intervenir en la vida privada de los ciudadanos.",
+        "b": "La capacidad de la Administración para actuar en defensa del interés general.",
+        "c": "La capacidad de la Administración para imponer sanciones a los particulares que infrinjan la normativa.",
+        "d": "La capacidad de la Administración para tomar decisiones en materia de recursos humanos.",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son las garantías administrativas?",
+        "a": "Mecanismos que permiten a los particulares solicitar la revisión de actos administrativos firmes.",
+        "b": "Mecanismos que permiten a los particulares impugnar las normas con rango de ley.",
+        "c": "Mecanismos que permiten a los particulares solicitar la anulación de actos administrativos nulos de pleno derecho.",
+        "d": "Mecanismos que permiten a los particulares solicitar la revisión de oficio de actos administrativos nulos de pleno derecho.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la responsabilidad patrimonial de la Administración?",
+        "a": "La obligación de la Administración de indemnizar a los particulares por los daños causados en el ejercicio de su actividad.",
+        "b": "La obligación de la Administración de pagar a los particulares por los servicios prestados.",
+        "c": "La obligación de la Administración de respetar los derechos fundamentales de los particulares.",
+        "d": "La obligación de la Administración de colaborar con los particulares en el ejercicio de sus derechos y libertades.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el procedimiento administrativo?",
+        "a": "El conjunto de trámites que deben seguir los particulares para obtener una licencia o autorización de la Administración.",
+        "b": "El conjunto de trámites que debe seguir la Administración para tomar decisiones en los asuntos que le competen.",
+        "c": "El conjunto de trámites que deben seguir los particulares y la Administración para resolver conflictos.",
+        "d": "El conjunto de trámites que deben seguir los particulares y la Administración para el ejercicio de sus respectivas competencias.",
+        "respuesta": "d",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué son los actos administrativos?",
+        "a": "Los actos jurídicos que la Administración realiza en su propio nombre y por los que crea, modifica o extingue situaciones jurídicas.",
+        "b": "Los actos jurídicos que la Administración realiza en nombre de los particulares para la protección de sus derechos.",
+        "c": "Los actos jurídicos que la Administración realiza para la obtención de ingresos públicos.",
+        "d": "Los actos jurídicos que la Administración realiza para la adopción de políticas públicas.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la potestad reglamentaria?",
+        "a": "La facultad de la Administración de intervenir en la vida privada de los ciudadanos para garantizar el interés general.",
+        "b": "La facultad de la Administración de dictar normas con rango de ley para el desarrollo y aplicación de las mismas.",
+        "c": "La facultad de la Administración de interpretar y aplicar las normas en caso de duda.",
+        "d": "La facultad de la Administración de controlar y sancionar las infracciones de las normas por parte de los particulares.",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la duración del mandato de los miembros del Consejo General del Poder Judicial?",
+        "a": "6 años",
+        "b": "8 años",
+        "c": "10 años",
+        "d": "12 años",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el máximo órgano consultivo del Gobierno?",
+        "a": "El Consejo de Estado",
+        "b": "El Tribunal Constitucional",
+        "c": "El Defensor del Pueblo",
+        "d": "El Consejo de Ministros",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el recurso de alzada?",
+        "a": "Un recurso que se interpone ante el mismo órgano que dictó el acto administrativo impugnado.",
+        "b": "Un recurso que se interpone ante un órgano jerárquicamente superior al que dictó el acto administrativo impugnado.",
+        "c": "Un recurso que se interpone ante el órgano competente para resolver el recurso de reposición.",
+        "d": "Un recurso que se interpone ante el Tribunal Supremo.",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Quiénes son los responsables de la gestión económica y administrativa de la Seguridad Social?",
+        "a": "Los Ministerios de Trabajo y Hacienda",
+        "b": "Los sindicatos y las asociaciones empresariales",
+        "c": "El Consejo Económico y Social",
+        "d": "Los gestores administrativos",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la Ley de Extranjería?",
+        "a": "Una ley que regula la entrada, salida, tránsito y residencia de extranjeros en España.",
+        "b": "Una ley que regula la nacionalidad española.",
+        "c": "Una ley que regula el derecho al sufragio de los extranjeros residentes en España.",
+        "d": "Una ley que regula el régimen jurídico de las empresas multinacionales.",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es la duración del mandato de los miembros del Consejo General del Poder Judicial?",
+        "a": "6 años",
+        "b": "8 años",
+        "c": "10 años",
+        "d": "12 años",
+        "respuesta": "c",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Cuál es el máximo órgano consultivo del Gobierno?",
+        "a": "El Consejo de Estado",
+        "b": "El Tribunal Constitucional",
+        "c": "El Defensor del Pueblo",
+        "d": "El Consejo de Ministros",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es el recurso de alzada?",
+        "a": "Un recurso que se interpone ante el mismo órgano que dictó el acto administrativo impugnado.",
+        "b": "Un recurso que se interpone ante un órgano jerárquicamente superior al que dictó el acto administrativo impugnado.",
+        "c": "Un recurso que se interpone ante el órgano competente para resolver el recurso de reposición.",
+        "d": "Un recurso que se interpone ante el Tribunal Supremo.",
+        "respuesta": "b",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Quiénes son los responsables de la gestión económica y administrativa de la Seguridad Social?",
+        "a": "Los Ministerios de Trabajo y Hacienda",
+        "b": "Los sindicatos y las asociaciones empresariales",
+        "c": "El Consejo Económico y Social",
+        "d": "Los gestores administrativos",
+        "respuesta": "a",
+        "categoria_id": 4
+    },
+    {
+        "pregunta": "¿Qué es la Ley de Extranjería?",
+        "a": "Una ley que regula la entrada, salida, tránsito y residencia de extranjeros en España.",
+        "b": "Una ley que regula la nacionalidad española.",
+        "c": "Una ley que regula el derecho al sufragio de los extranjeros residentes en España.",
+        "d": "Una ley que regula el régimen jurídico de las empresas multinacionales.",
+        "respuesta": "a",
+        "categoria_id": 4
+    }
+      
+]

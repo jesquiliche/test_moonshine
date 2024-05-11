@@ -1,0 +1,32 @@
+[
+    {
+      "pregunta": "¿Qué tipo de impresora utiliza un tambor fotosensible para transferir el tóner al papel?",
+      "a": "Impresora de inyección de tinta",
+      "b": "Impresora láser",
+      "c": "Impresora matricial",
+      "d": "Impresora de sublimación",
+      "respuesta": "b",
+      "categoria_id": 13,
+      "explicacion": "La impresora láser utiliza un tambor fotosensible para transferir el tóner al papel. El tambor se carga electrostáticamente y luego se expone a la luz del láser para formar la imagen a imprimir. El tóner se adhiere a las partes cargadas del tambor y luego se transfiere al papel por medio de calor y presión."
+    },
+    {
+      "pregunta": "¿Cuál es la función del fusor en una impresora láser?",
+      "a": "Cargar electrostáticamente el tambor",
+      "b": "Aplicar tóner al papel",
+      "c": "Fijar el tóner al papel",
+      "d": "Cortar el papel",
+      "respuesta": "c",
+      "categoria_id": 13,
+      "explicacion": "El fusor es una pieza en la impresora láser que se encarga de fijar el tóner al papel. El fusor aplica calor y presión al tóner para fundirlo y fijarlo permanentemente al papel. Sin el fusor, el tóner se despegaría fácilmente del papel."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes resoluciones de impresión es mayor en una impresora de inyección de tinta?",
+      "a": "600 x 600 ppp",
+      "b": "1300 x 600 ppp",
+      "c": "2400 x 600 ppp",
+      "d": "4800 x 1300 ppp",
+      "respuesta": "d",
+      "categoria_id": 13,
+      "explicacion": "Las impresoras de inyección de tinta tienen una resolución de impresión mayor que las impresoras láser. Por ejemplo, una resolución típica para una impresora de inyección de tinta puede ser de 4800 x 1300 ppp, mientras que una impresora láser puede tener una resolución de 1300 x 600 ppp. La resolución se refiere al número de puntos de tinta que la impresora puede colocar en una pulgada cuadrada de papel."
+    }
+]

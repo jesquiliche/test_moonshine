@@ -1,0 +1,92 @@
+[
+    {
+        "pregunta": "¿Qué es una ley en el derecho administrativo?",
+        "a": "Una norma jurídica dictada por el Gobierno para regular un asunto de urgencia.",
+        "b": "Una norma jurídica dictada por el Parlamento para regular una materia concreta.",
+        "c": "Una norma jurídica dictada por el poder judicial para regular una materia concreta.",
+        "d": "Una norma jurídica dictada por la Unión Europea para regular una materia concreta.",
+        "respuesta": "b",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Cuál es la función del reglamento en el derecho administrativo?",
+        "a": "Regular aspectos técnicos de la Administración.",
+        "b": "Desarrollar la ley y detallar su contenido.",
+        "c": "Regular asuntos de urgencia que no pueden esperar a ser tratados por el Parlamento.",
+        "d": "Anular una ley en caso de que ésta sea inconstitucional.",
+        "respuesta": "b",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué es un decreto-ley en el derecho administrativo?",
+        "a": "Una norma jurídica dictada por el poder judicial para regular una materia concreta.",
+        "b": "Una norma jurídica dictada por el Gobierno para regular un asunto de urgencia.",
+        "c": "Una norma jurídica dictada por el Parlamento para regular una materia concreta.",
+        "d": "Una norma jurídica dictada por la Unión Europea para regular una materia concreta.",
+        "respuesta": "b",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué son las fuentes del derecho administrativo?",
+        "a": "Los textos legales que recogen las normas de la Administración.",
+        "b": "Los distintos estamentos que integran la Administración.",
+        "c": "Los documentos que se generan en el seno de la Administración.",
+        "d": "Las diferentes normas jurídicas que rigen la actividad de la Administración.",
+        "respuesta": "d",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué límites tienen los reglamentos en el derecho administrativo?",
+        "a": "No pueden ir en contra de las leyes y otras normas de rango superior.",
+        "b": "No pueden regular cuestiones técnicas que sean propias de la Administración.",
+        "c": "No pueden regular aspectos relacionados con los derechos fundamentales de los ciudadanos.",
+        "d": "No pueden regular cuestiones relacionadas con el ámbito territorial de la Administración.",
+        "respuesta": "a",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Cuál es la fuente principal del derecho administrativo?",
+        "a": "La jurisprudencia.",
+        "b": "La costumbre.",
+        "c": "La ley.",
+        "d": "Los tratados internacionales.",
+        "respuesta": "c",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué son las disposiciones del Ejecutivo con fuerza de ley?",
+        "a": "Normas dictadas por el poder ejecutivo con carácter normativo.",
+        "b": "Normas dictadas por el poder legislativo con carácter normativo.",
+        "c": "Normas dictadas por los tribunales con carácter vinculante.",
+        "d": "Normas dictadas por los ciudadanos en el ejercicio de sus derechos y libertades.",
+        "respuesta": "a",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué es el reglamento?",
+        "a": "Una norma dictada por el poder legislativo con carácter general y abstracto.",
+        "b": "Una norma dictada por el poder ejecutivo con carácter general y abstracto.",
+        "c": "Una norma dictada por los tribunales con carácter vinculante.",
+        "d": "Una norma dictada por los ciudadanos en el ejercicio de sus derechos y libertades.",
+        "respuesta": "b",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Cuáles son las fuentes indirectas del derecho administrativo?",
+        "a": "La ley, el reglamento y los tratados internacionales.",
+        "b": "La jurisprudencia, la costumbre y los principios generales del derecho.",
+        "c": "Los informes y dictámenes de los órganos consultivos de la Administración.",
+        "d": "Los acuerdos y convenios de colaboración entre las distintas Administraciones públicas.",
+        "respuesta": "b",
+        "categoria_id": 5
+    },
+    {
+        "pregunta": "¿Qué son los principios generales del derecho?",
+        "a": "Normas jurídicas generales y abstractas que regulan las relaciones sociales.",
+        "b": "Normas jurídicas dictadas por la Administración pública en el ejercicio de sus competencias.",
+        "c": "Principios jurídicos que informan el ordenamiento jurídico y que son reconocidos por los tribunales.",
+        "d": "Mandatos políticos que orientan la actuación de los poderes públicos en una determinada materia.",
+        "respuesta": "c",
+        "categoria_id": 5
+    }
+]

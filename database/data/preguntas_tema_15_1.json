@@ -1,0 +1,233 @@
+[
+    {
+        "pregunta": "¿Qué comando se utiliza en Linux/Unix para listar los archivos y directorios en el directorio actual?",
+        "a": "ls",
+        "b": "cd",
+        "c": "pwd",
+        "d": "mkdir",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'ls' se utiliza en Linux/Unix para listar los archivos y directorios en el directorio actual."
+    },
+    {
+        "pregunta": "¿Qué archivo de configuración se utiliza en Linux/Unix para configurar el entorno de shell de un usuario?",
+        "a": ".bashrc",
+        "b": ".profile",
+        "c": ".bash_profile",
+        "d": ".bash_login",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El archivo de configuración .bashrc se utiliza en Linux/Unix para configurar el entorno de shell de un usuario. Este archivo se ejecuta cada vez que se abre una nueva sesión de terminal."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza en Linux/Unix para crear un nuevo directorio?",
+        "a": "ls",
+        "b": "cd",
+        "c": "mkdir",
+        "d": "rmdir",
+        "respuesta": "c",
+        "categoria_id": 15,
+        "explicacion": "El comando 'mkdir' se utiliza en Linux/Unix para crear un nuevo directorio."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza en Linux/Unix para copiar archivos y directorios?",
+        "a": "mv",
+        "b": "cp",
+        "c": "rm",
+        "d": "cat",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "El comando 'cp' se utiliza en Linux/Unix para copiar archivos y directorios. Por ejemplo, 'cp archivo1 archivo2' copiará el archivo1 y lo pegará con el nombre archivo2."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza en Linux/Unix para cambiar los permisos de un archivo o directorio?",
+        "a": "chmod",
+        "b": "chown",
+        "c": "chmodown",
+        "d": "ownchmod",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'chmod' se utiliza en Linux/Unix para cambiar los permisos de un archivo o directorio. Por ejemplo, 'chmod u+x archivo' le dará permisos de ejecución al propietario del archivo."
+    },
+    {
+        "pregunta": "¿Qué es un demonio en Linux/Unix y cómo se inician?",
+        "a": "Un programa que se ejecuta en segundo plano y se inicia con el comando 'daemon'.",
+        "b": "Un programa que se ejecuta en segundo plano y se inicia automáticamente al arrancar el sistema.",
+        "c": "Un programa que se ejecuta en segundo plano y se inicia con el comando 'start'.",
+        "d": "Un programa que se ejecuta en segundo plano y se inicia con el comando 'background'.",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "Un demonio en Linux/Unix es un programa que se ejecuta en segundo plano y se inicia automáticamente al arrancar el sistema. Los demonios a menudo se utilizan para realizar tareas que deben ejecutarse en segundo plano, como servidores web o bases de datos."
+    },
+    {
+        "pregunta": "¿Qué es el comando 'cron' en Linux/Unix y cómo se utiliza?",
+        "a": "Es un programa que se utiliza para programar la ejecución de tareas en momentos específicos.",
+        "b": "Es un comando utilizado para ejecutar tareas con privilegios de root.",
+        "c": "Es un comando utilizado para realizar copias de seguridad de archivos.",
+        "d": "Es un programa utilizado para administrar usuarios y permisos.",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'cron' en Linux/Unix es un programa que se utiliza para programar la ejecución de tareas en momentos específicos. Los usuarios pueden utilizar el comando para programar la ejecución de tareas en intervalos regulares o en momentos específicos del día."
+    },
+    {
+        "pregunta": "¿Qué es la variable de entorno 'PATH' en Linux/Unix y cómo se utiliza?",
+        "a": "Es una variable que contiene una lista de directorios en los que el sistema busca comandos ejecutables.",
+        "b": "Es una variable que contiene el historial de comandos ejecutados en la sesión actual.",
+        "c": "Es una variable que contiene el nombre del usuario actual del sistema.",
+        "d": "Es una variable que contiene el número de versión del kernel de Linux.",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "La variable de entorno 'PATH' en Linux/Unix es una variable que contiene una lista de directorios en los que el sistema busca comandos ejecutables. Los usuarios pueden modificar la variable para agregar directorios adicionales a la lista de búsqueda de comandos ejecutables."
+    },
+    {
+        "pregunta": "¿Qué son los permisos SUID, SGID y sticky bit en Linux/Unix y cómo se establecen?",
+        "a": "Son permisos especiales que permiten a los usuarios ejecutar archivos con los permisos del propietario o del grupo y se establecen con los comandos 'chmod u+s', 'chmod g+s' y 'chmod +t', respectivamente.",
+        "b": "Son permisos especiales que permiten a los usuarios escribir en archivos con permisos de sólo lectura y se establecen con el comando 'chmod u+w'.",
+        "c": "Son permisos especiales que permiten a los usuarios leer archivos con permisos de sólo escritura y se establecen con el comando 'chmod u+r'.",
+        "d": "Son permisos especiales que permiten a los usuarios cambiar los permisos de archivos y se establecen con el comando 'chmod u+x'.",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "Los permisos SUID, SGID y sticky bit en Linux/Unix son permisos especiales que permiten a los usuarios ejecutar archivos con los permisos del propietario o del grupo, establecer el grupo predeterminado de un archivo y evitar la eliminación accidental de archivos, respectivamente. Estos permisos se establecen con los comandos 'chmod u+s', 'chmod g+s' y 'chmod +t', respectivamente."
+    },
+    {
+        "pregunta": "¿Qué es el comando 'sed' en Linux/Unix y cómo se utiliza?",
+        "a": "Es un comando utilizado para buscar archivos por contenido y se utiliza con el comando 'grep'.",
+        "b": "Es un comando utilizado para reemplazar texto en archivos y se utiliza con la sintaxis 'sed s/old/new/g'.",
+        "c": "Es un comando utilizado para listar los procesos en ejecución y se utiliza con el comando 'ps'.",
+        "d": "Es un comando utilizado para mostrar información sobre los usuarios del sistema y se utiliza con el comando 'whoami'.",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "El comando 'sed' en Linux/Unix es un comando utilizado para reemplazar texto en archivos. La sintaxis básica es 'sed s/old/new/', donde 'old' es el texto que se reemplazará y 'new' es el nuevo texto que se insertará. El modificador 'g' indica que se deben reemplazar todas las ocurrencias del texto 'old' en el archivo."
+    },
+    {
+        "pregunta": "¿Qué es el kernel de Linux y cuál es su función?",
+        "a": "Es un programa que controla la ejecución de otros programas y gestiona los recursos del sistema.",
+        "b": "Es el componente del sistema operativo que se encarga de la interacción entre el hardware y el software.",
+        "c": "Es un sistema de archivos de red que permite a los usuarios acceder a archivos en otros ordenadores como si estuvieran en su propio sistema de archivos.",
+        "d": "Es un sistema de virtualización que permite ejecutar múltiples sistemas operativos en un solo host físico.",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "El kernel de Linux es el componente del sistema operativo que se encarga de la interacción entre el hardware y el software. Es responsable de administrar los recursos del sistema, como la memoria, el procesador y los dispositivos de entrada y salida, y garantizar que los programas se ejecuten correctamente y de forma segura."
+    },
+    {
+        "pregunta": "¿Qué es un archivo de intercambio (swap) en Linux y para qué se utiliza?",
+        "a": "Es un archivo utilizado para almacenar contraseñas cifradas en el sistema y se utiliza para autenticar a los usuarios.",
+        "b": "Es un archivo utilizado para almacenar información sobre los procesos en ejecución y se utiliza para identificar y solucionar problemas en el sistema.",
+        "c": "Es un archivo utilizado para almacenar datos de respaldo y se utiliza para recuperar información en caso de una falla del sistema.",
+        "d": "Es un archivo utilizado para ampliar la memoria virtual del sistema y se utiliza cuando la memoria RAM está llena.",
+        "respuesta": "d",
+        "categoria_id": 15,
+        "explicacion": "Un archivo de intercambio (swap) en Linux es un archivo utilizado para ampliar la memoria virtual del sistema. Cuando la memoria RAM está llena, el kernel de Linux puede mover páginas de memoria a este archivo temporalmente para liberar espacio en la memoria RAM y permitir que los programas sigan ejecutándose."
+    },
+    {
+        "pregunta": "¿Qué es el directorio /proc en Linux y para qué se utiliza?",
+        "a": "Es un directorio utilizado para almacenar programas y bibliotecas compartidas en Linux y se utiliza para la instalación y gestión de software.",
+        "b": "Es un directorio utilizado para almacenar archivos de configuración del sistema y se utiliza para personalizar la configuración del sistema.",
+        "c": "Es un directorio utilizado para almacenar información sobre el estado del sistema y los procesos en ejecución y se utiliza para el diagnóstico y la solución de problemas del sistema.",
+        "d": "Es un directorio utilizado para almacenar archivos de registro del sistema y se utiliza para el seguimiento y análisis del comportamiento del sistema.",
+        "respuesta": "c",
+        "categoria_id": 15,
+        "explicacion": "El directorio /proc en Linux es un directorio utilizado para almacenar información sobre el estado del sistema y los procesos en ejecución. Proporciona una interfaz pseudo-archivo al kernel de Linux que permite a los usuarios acceder a información sobre el sistema en tiempo real, como el uso de memoria, el consumo de CPU y los recursos del sistema."
+    },
+    {
+        "pregunta": "¿Qué es un servidor SSH en Linux y cómo se utiliza?",
+        "a": "Un servidor SSH es un servidor web que se utiliza para alojar sitios web y se configura a través de un panel de control en la interfaz gráfica del sistema.",
+        "b": "Un servidor SSH es un servidor de bases de datos que se utiliza para almacenar datos y se controla a través de la línea de comandos del sistema.",
+        "c": "Un servidor SSH es un servidor de acceso remoto que permite a los usuarios conectarse de forma segura a un sistema Linux y se utiliza a través de la línea de comandos del sistema.",
+        "d": "Un servidor SSH es un servidor de correo electrónico que se utiliza para enviar y recibir correos electrónicos y se configura a través de un software de correo electrónico.",
+        "respuesta": "c",
+        "categoria_id": 15,
+        "explicacion": "Un servidor SSH es un servidor de acceso remoto que permite a los usuarios conectarse de forma segura a un sistema Linux. Se utiliza a través de la línea de comandos del sistema utilizando el comando 'ssh'."
+    },
+    {
+        "pregunta": "¿Qué es una shell en Linux y cómo se utiliza?",
+        "a": "Una shell es un tipo de script que se utiliza para automatizar tareas en el sistema y se ejecuta a través de la línea de comandos del sistema.",
+        "b": "Una shell es una herramienta de edición de texto que se utiliza para crear y modificar archivos de configuración en el sistema.",
+        "c": "Una shell es un programa que proporciona una interfaz de línea de comandos para el usuario y se utiliza para ejecutar comandos en el sistema.",
+        "d": "Una shell es una herramienta de gestión de archivos que se utiliza para copiar y mover archivos en el sistema de archivos.",
+        "respuesta": "c",
+        "categoria_id": 15,
+        "explicacion": "Una shell es un programa que proporciona una interfaz de línea de comandos para el usuario y se utiliza para ejecutar comandos en el sistema. En Linux, la shell más común es la shell Bash."
+    },
+    {
+        "pregunta": "¿Qué es un grupo en Linux y cómo se utiliza?",
+        "a": "Un grupo es una forma de organizar usuarios en Linux y se utiliza para definir permisos de acceso a archivos y directorios.",
+        "b": "Un grupo es un programa que permite a varios usuarios trabajar en el mismo archivo o proyecto y se utiliza a través de una interfaz gráfica.",
+        "c": "Un grupo es un conjunto de procesos relacionados que se ejecutan juntos en el sistema y se controlan a través de la línea de comandos.",
+        "d": "Un grupo es un software de seguridad que se utiliza para proteger los archivos y directorios del sistema y se configura a través de una herramienta de administración de permisos.",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "Un grupo es una forma de organizar usuarios en Linux y se utiliza para definir permisos de acceso a archivos y directorios. Los usuarios pueden ser asignados a uno o varios grupos, y los permisos de los archivos y directorios se pueden establecer para cada grupo."
+    },
+    {
+        "pregunta": "¿Cómo se cambia el propietario y el grupo de un archivo en Linux?",
+        "a": "Con el comando 'chmod'.",
+        "b": "Con el comando 'chown'.",
+        "c": "Con el comando 'chgrp'.",
+        "d": "Con el comando 'owner'.",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "Para cambiar el propietario y el grupo de un archivo en Linux, se utiliza el comando 'chown'. Por ejemplo, para cambiar el propietario de un archivo llamado 'archivo.txt' al usuario 'usuario1' y el grupo a 'grupo1', se ejecutaría el comando 'chown usuario1:grupo1 archivo.txt'."
+    },
+    {
+        "pregunta": "¿Qué son los permisos de archivos en Linux y cómo se establecen?",
+        "a": "Los permisos de archivos son el conjunto de reglas que dictan cómo los usuarios pueden interactuar con los archivos en el sistema y se establecen a través de un programa de protección de archivos.",
+        "b": "Los permisos de archivos son el conjunto de reglas que dictan cómo los usuarios pueden interactuar con los archivos en el sistema y se establecen a través de la línea de comandos del sistema.",
+        "c": "Los permisos de archivos son el conjunto de reglas que dictan cómo los usuarios pueden interactuar con los archivos en el sistema y se establecen a través de la interfaz gráfica del sistema.",
+        "d": "Los permisos de archivos son el conjunto de reglas que dictan cómo los usuarios pueden interactuar con los archivos en el sistema y se establecen a través de un archivo de configuración del sistema.",
+        "respuesta": "b",
+        "categoria_id": 15,
+        "explicacion": "Los permisos de archivos son el conjunto de reglas que dictan cómo los usuarios pueden interactuar con los archivos en el sistema. En Linux, se establecen a través de la línea de comandos del sistema utilizando el comando 'chmod'."
+    },
+    {
+        "pregunta": "¿Qué comando de Linux se utiliza para mostrar información detallada sobre un archivo?",
+        "a": "ls",
+        "b": "cd",
+        "c": "cat",
+        "d": "file",
+        "respuesta": "d",
+        "categoria_id": 15,
+        "explicacion": "El comando 'file' se utiliza para mostrar información detallada sobre un archivo en Linux."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para cambiar la contraseña de un usuario en Linux?",
+        "a": "passwd",
+        "b": "chpasswd",
+        "c": "chmod",
+        "d": "chown",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'passwd' se utiliza para cambiar la contraseña de un usuario en Linux."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para buscar archivos o directorios en Linux?",
+        "a": "find",
+        "b": "search",
+        "c": "locate",
+        "d": "dir",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'find' se utiliza para buscar archivos o directorios en Linux."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para crear un nuevo directorio en Linux?",
+        "a": "mkdir",
+        "b": "mkfile",
+        "c": "touch",
+        "d": "newdir",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'mkdir' se utiliza para crear un nuevo directorio en Linux."
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para mostrar los procesos en ejecución en Linux?",
+        "a": "ps",
+        "b": "ls",
+        "c": "top",
+        "d": "task",
+        "respuesta": "a",
+        "categoria_id": 15,
+        "explicacion": "El comando 'ps' se utiliza para mostrar los procesos en ejecución en Linux."
+    }
+
+]

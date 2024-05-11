@@ -1,0 +1,32 @@
+[
+    {
+      "pregunta": "¿Qué es el overclocking?",
+      "a": "Aumentar la frecuencia de reloj de un componente para aumentar su rendimiento",
+      "b": "Aumentar la capacidad de almacenamiento de un disco duro",
+      "c": "Eliminar el límite de velocidad de una conexión a Internet",
+      "d": "Desbloquear un componente para que funcione a su máximo potencial",
+      "respuesta": "a",
+      "categoria_id": 12,
+      "explicacion": "El overclocking consiste en aumentar la frecuencia de reloj de un componente, como un procesador, para aumentar su rendimiento. Esto se logra cambiando los valores de configuración del componente en la BIOS o mediante programas especializados. Sin embargo, el overclocking también puede aumentar la temperatura del componente y acortar su vida útil, por lo que debe realizarse con precaución."
+    },
+    {
+      "pregunta": "¿Qué es una memoria caché?",
+      "a": "Una memoria de acceso aleatorio (RAM) de alta velocidad",
+      "b": "Una unidad de almacenamiento secundario",
+      "c": "Una unidad de procesamiento gráfico (GPU)",
+      "d": "Una memoria temporal que almacena datos frecuentemente utilizados para acelerar el acceso a ellos",
+      "respuesta": "d",
+      "categoria_id": 12,
+      "explicacion": "Una memoria caché es una memoria temporal que almacena datos frecuentemente utilizados para acelerar el acceso a ellos. Las memorias caché se utilizan en muchos componentes del sistema, como el procesador, la tarjeta gráfica y el disco duro, para reducir el tiempo de acceso a los datos y mejorar el rendimiento del sistema."
+    },
+    {
+      "pregunta": "¿Qué es el protocolo TCP/IP?",
+      "a": "Un protocolo de red utilizado para la transferencia de archivos",
+      "b": "Un protocolo de seguridad para la navegación en Internet",
+      "c": "Un conjunto de protocolos de red que permiten la comunicación en Internet",
+      "d": "Un protocolo de enrutamiento utilizado por los routers",
+      "respuesta": "c",
+      "categoria_id": 12,
+      "explicacion": "El protocolo TCP/IP es un conjunto de protocolos de red que permiten la comunicación en Internet. TCP (Transmission Control Protocol) se encarga de la transmisión de datos de manera confiable, mientras que IP (Internet Protocol) se encarga del enrutamiento de los datos a través de la red. TCP/IP es el protocolo más utilizado en Internet y es compatible con una amplia variedad de dispositivos y sistemas operativos."
+    }
+]

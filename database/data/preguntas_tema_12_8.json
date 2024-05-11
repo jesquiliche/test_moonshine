@@ -1,0 +1,32 @@
+[
+    {
+      "pregunta": "¿Qué es el duplexado automático en una impresora?",
+      "a": "Un modo de impresión en el que se utiliza tinta de dos colores",
+      "b": "Una función que permite imprimir por ambos lados de la hoja sin necesidad de voltearla manualmente",
+      "c": "Una tecnología que utiliza láser en lugar de tinta para imprimir",
+      "d": "Una característica que permite imprimir en diferentes tamaños de papel sin necesidad de cambiar la bandeja de papel",
+      "respuesta": "b",
+      "categoria_id": 13,
+      "explicacion": "El duplexado automático en una impresora es una función que permite imprimir por ambos lados de la hoja sin necesidad de voltearla manualmente. Esto ahorra tiempo y papel, y es muy útil para imprimir documentos de varias páginas."
+    },
+    {
+      "pregunta": "¿Qué es la resolución de impresión de una impresora?",
+      "a": "La velocidad a la que la impresora puede imprimir páginas",
+      "b": "El número de páginas que puede imprimir la impresora en un minuto",
+      "c": "La claridad y detalle de las imágenes y textos que imprime la impresora",
+      "d": "La capacidad de la impresora para imprimir en diferentes tamaños y tipos de papel",
+      "respuesta": "c",
+      "categoria_id": 13,
+      "explicacion": "La resolución de impresión de una impresora se refiere a la claridad y detalle de las imágenes y textos que imprime la impresora. Se mide en puntos por pulgada (ppp) y cuanto mayor sea la resolución, más claro y detallado será el resultado de la impresión."
+    },
+    {
+      "pregunta": "¿Qué es un cabezal de impresión en una impresora?",
+      "a": "El lugar donde se coloca el papel para imprimir",
+      "b": "El circuito electrónico que controla la impresora",
+      "c": "El cartucho que contiene la tinta de la impresora",
+      "d": "La parte de la impresora que distribuye la tinta sobre el papel",
+      "respuesta": "d",
+      "categoria_id": 13,
+      "explicacion": "El cabezal de impresión en una impresora es la parte de la impresora que distribuye la tinta sobre el papel. Está compuesto por pequeños inyectores que pulverizan la tinta en el papel en la cantidad y lugares precisos para crear las imágenes y textos deseados."
+    }
+]

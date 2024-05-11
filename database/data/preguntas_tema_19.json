@@ -1,0 +1,47 @@
+[
+    {
+        "pregunta": "¿Cuál es la diferencia entre INNER JOIN y OUTER JOIN?",
+        "a": "INNER JOIN devuelve solo las filas que tienen coincidencias en ambas tablas, mientras que OUTER JOIN devuelve todas las filas de ambas tablas, incluyendo las que no tienen coincidencias en la otra tabla.",
+        "b": "INNER JOIN devuelve todas las filas de ambas tablas, incluyendo las que no tienen coincidencias en la otra tabla, mientras que OUTER JOIN devuelve solo las filas que tienen coincidencias en ambas tablas.",
+        "c": "INNER JOIN y OUTER JOIN son sinónimos y se pueden usar indistintamente.",
+        "d": "INNER JOIN solo se puede usar con dos tablas, mientras que OUTER JOIN se puede usar con tres o más tablas.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre GROUP BY y ORDER BY?",
+        "a": "GROUP BY agrupa las filas en función de una o más columnas y devuelve una fila por cada grupo, mientras que ORDER BY ordena las filas en función de una o más columnas.",
+        "b": "ORDER BY agrupa las filas en función de una o más columnas y devuelve una fila por cada grupo, mientras que GROUP BY ordena las filas en función de una o más columnas.",
+        "c": "GROUP BY y ORDER BY son sinónimos y se pueden usar indistintamente.",
+        "d": "GROUP BY y ORDER BY no son necesarios en una consulta SELECT.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la cláusula HAVING en una consulta GROUP BY?",
+        "a": "Filtra los grupos generados por GROUP BY según una condición.",
+        "b": "Ordena los grupos generados por GROUP BY según una o más columnas.",
+        "c": "Selecciona las columnas a incluir en la salida de la consulta.",
+        "d": "Agrega una o más columnas calculadas a la salida de la consulta.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la función COUNT en una consulta SELECT?",
+        "a": "Cuenta el número de filas que cumplen una condición.",
+        "b": "Suma los valores de una columna que cumplen una condición.",
+        "c": "Calcula el valor promedio de una columna que cumple una condición.",
+        "d": "Selecciona la fila con el valor máximo en una columna que cumple una condición.",
+        "respuesta": "a",
+        "categoria_id": 20
+    },
+    {
+        "pregunta": "¿Qué hace la función AVG en una consulta SELECT?",
+        "a": "Calcula el valor promedio de una columna.",
+        "b": "Cuenta el número de filas que cumplen una condición.",
+        "c": "Suma los valores de una columna que cumplen una condición.",
+        "d": "Selecciona la fila con el valor máximo en una columna.",
+        "respuesta": "a",
+        "categoria_id": 20
+    }
+]

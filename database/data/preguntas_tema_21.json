@@ -1,0 +1,416 @@
+[
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para crear objetos complejos paso a paso?",
+        "a": "Patrón Composite",
+        "b": "Patrón Decorator",
+        "c": "Patrón Builder",
+        "d": "Patrón Singleton",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para proporcionar una interfaz simplificada a una biblioteca o subsistema complejo?",
+        "a": "Patrón Proxy",
+        "b": "Patrón Bridge",
+        "c": "Patrón Facade",
+        "d": "Patrón Observer",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para permitir que una clase altere su comportamiento cuando su estado interno cambia?",
+        "a": "Patrón State",
+        "b": "Patrón Strategy",
+        "c": "Patrón Mediator",
+        "d": "Patrón Visitor",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para separar la lógica de presentación de la lógica de negocio?",
+        "a": "Patrón Decorator",
+        "b": "Patrón Proxy",
+        "c": "Patrón Observer",
+        "d": "Patrón MVC",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para definir una estructura de objetos en la que los objetos pueden tener cero o más objetos relacionados?",
+        "a": "Patrón Observer",
+        "b": "Patrón Flyweight",
+        "c": "Patrón Composite",
+        "d": "Patrón Prototype",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para crear una instancia de varias subclases?",
+        "a": "Patrón de Singleton",
+        "b": "Patrón de Fábrica Abstracta",
+        "c": "Patrón de Constructor",
+        "d": "Patrón de Prototipo",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para separar la lógica de negocio de la interfaz de usuario?",
+        "a": "Patrón de Cadena de Responsabilidad",
+        "b": "Patrón de Decorador",
+        "c": "Patrón de Fachada",
+        "d": "Patrón de Modelo Vista Controlador (MVC)",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para encapsular un conjunto de acciones en una sola?",
+        "a": "Patrón de Comando",
+        "b": "Patrón de Iterador",
+        "c": "Patrón de Decorador",
+        "d": "Patrón de Singleton",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para agregar responsabilidades adicionales a un objeto de forma dinámica?",
+        "a": "Patrón de Decorador",
+        "b": "Patrón de Fábrica Abstracta",
+        "c": "Patrón de Singleton",
+        "d": "Patrón de Cadena de Responsabilidad",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para definir una familia de algoritmos y encapsularlos en clases separadas?",
+        "a": "Patrón de Estrategia",
+        "b": "Patrón de Fábrica",
+        "c": "Patrón de Iterador",
+        "d": "Patrón de Observador",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para separar la lógica de presentación de la lógica de negocio?",
+        "a": "Patrón MVC",
+        "b": "Patrón Singleton",
+        "c": "Patrón Observer",
+        "d": "Patrón Decorator",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para crear objetos complejos a partir de objetos más simples y compuestos?",
+        "a": "Patrón Prototype",
+        "b": "Patrón Builder",
+        "c": "Patrón Adapter",
+        "d": "Patrón Composite",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para encapsular la creación de un objeto y ocultar los detalles de su implementación?",
+        "a": "Patrón Abstract Factory",
+        "b": "Patrón Builder",
+        "c": "Patrón Factory Method",
+        "d": "Patrón Prototype",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para permitir que un objeto cambie su comportamiento en función de su estado interno?",
+        "a": "Patrón Observer",
+        "b": "Patrón State",
+        "c": "Patrón Strategy",
+        "d": "Patrón Template Method",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para definir una serie de pasos para realizar una tarea y permitir que las subclases proporcionen implementaciones concretas de esos pasos?",
+        "a": "Patrón Abstract Factory",
+        "b": "Patrón Builder",
+        "c": "Patrón Template Method",
+        "d": "Patrón Strategy",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño permite definir la estructura básica de una aplicación sin especificar sus componentes concretos?",
+        "a": "Patrón de Diseño Creacional",
+        "b": "Patrón de Diseño Estructural",
+        "c": "Patrón de Diseño Comportamiento",
+        "d": "Patrón de Diseño Arquitectónico",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para encapsular una petición en un objeto y permitir así la parametrización de los clientes con diferentes solicitudes, colas, loggings y soporte para deshacer?",
+        "a": "Patrón de Diseño Observer",
+        "b": "Patrón de Diseño Chain of Responsibility",
+        "c": "Patrón de Diseño Command",
+        "d": "Patrón de Diseño Decorator",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño permite la creación de objetos complejos a través de un proceso de construcción paso a paso?",
+        "a": "Patrón de Diseño Factory Method",
+        "b": "Patrón de Diseño Builder",
+        "c": "Patrón de Diseño Prototype",
+        "d": "Patrón de Diseño Abstract Factory",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para definir una familia de algoritmos, encapsular cada uno de ellos y hacer que sean intercambiables?",
+        "a": "Patrón de Diseño Iterator",
+        "b": "Patrón de Diseño Strategy",
+        "c": "Patrón de Diseño Bridge",
+        "d": "Patrón de Diseño Adapter",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para definir una estructura de objetos en árbol para representar una jerarquía de partes completas?",
+        "a": "Patrón de Diseño Composite",
+        "b": "Patrón de Diseño Visitor",
+        "c": "Patrón de Diseño Facade",
+        "d": "Patrón de Diseño Flyweight",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué patrón de diseño se utiliza para crear objetos a partir de una clase concreta?",
+        "a": "Patrón de fábrica",
+        "b": "Patrón de singleton",
+        "c": "Patrón de adaptador",
+        "d": "Patrón de observador",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el patrón de diseño que se utiliza para construir objetos complejos paso a paso?",
+        "a": "Patrón de fábrica",
+        "b": "Patrón de constructor",
+        "c": "Patrón de adaptador",
+        "d": "Patrón de observador",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el patrón de diseño que se utiliza para encapsular una solicitud como un objeto?",
+        "a": "Patrón de comando",
+        "b": "Patrón de adaptador",
+        "c": "Patrón de fábrica",
+        "d": "Patrón de observador",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el patrón de diseño que se utiliza para separar una interfaz de un objeto de su implementación?",
+        "a": "Patrón de adaptador",
+        "b": "Patrón de fábrica",
+        "c": "Patrón de puente",
+        "d": "Patrón de observador",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el patrón de diseño que se utiliza para crear una estructura de objetos en forma de árbol?",
+        "a": "Patrón de fábrica",
+        "b": "Patrón de observador",
+        "c": "Patrón de adaptador",
+        "d": "Patrón de composite",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es la herencia en programación orientada a objetos?",
+        "a": "Es la capacidad de una clase de heredar propiedades y métodos de otra clase",
+        "b": "Es la capacidad de una clase de ocultar sus propiedades y métodos",
+        "c": "Es la capacidad de una clase de implementar interfaces",
+        "d": "Es la capacidad de una clase de crear múltiples objetos",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es el polimorfismo en programación orientada a objetos?",
+        "a": "Es la capacidad de una clase de heredar propiedades y métodos de otra clase",
+        "b": "Es la capacidad de una clase de ocultar sus propiedades y métodos",
+        "c": "Es la capacidad de una clase de implementar interfaces",
+        "d": "Es la capacidad de una clase de responder a un mismo mensaje de diferentes maneras",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es una clase abstracta?",
+        "a": "Es una clase que no puede ser instanciada y que sirve como base para otras clases",
+        "b": "Es una clase que contiene sólo métodos estáticos",
+        "c": "Es una clase que no tiene ningún método",
+        "d": "Es una clase que no puede ser heredada",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es una interfaz?",
+        "a": "Es una clase que no puede ser instanciada y que sirve como base para otras clases",
+        "b": "Es una clase que contiene sólo métodos estáticos",
+        "c": "Es una clase que no tiene ningún método",
+        "d": "Es una especificación de métodos que una clase debe implementar",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es el encapsulamiento en programación orientada a objetos?",
+        "a": "Es la capacidad de una clase de heredar propiedades y métodos de otra clase",
+        "b": "Es la capacidad de una clase de ocultar sus propiedades y métodos",
+        "c": "Es la capacidad de una clase de implementar interfaces",
+        "d": "Es la capacidad de una clase de crear múltiples objetos",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es la herencia en programación orientada a objetos?",
+        "a": "La capacidad de un objeto para tener varias formas",
+        "b": "La capacidad de un objeto para compartir propiedades y métodos con otro objeto",
+        "c": "La capacidad de un objeto para tener una referencia a otro objeto",
+        "d": "La capacidad de un objeto para delegar sus propiedades y métodos a otro objeto",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es la sobrecarga de métodos en OOP?",
+        "a": "La capacidad de un objeto para heredar los métodos de su padre",
+        "b": "La capacidad de un objeto para redefinir los métodos de su padre",
+        "c": "La capacidad de un objeto para tener varios métodos con el mismo nombre pero con diferentes parámetros",
+        "d": "La capacidad de un objeto para acceder a los métodos privados de otro objeto",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es el encapsulamiento en programación orientada a objetos?",
+        "a": "La capacidad de un objeto para heredar los métodos de su padre",
+        "b": "La capacidad de un objeto para ocultar sus propiedades y métodos del mundo exterior",
+        "c": "La capacidad de un objeto para tener una referencia a otro objeto",
+        "d": "La capacidad de un objeto para delegar sus propiedades y métodos a otro objeto",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es una clase en programación orientada a objetos?",
+        "a": "Un objeto que puede tener varias formas",
+        "b": "Un objeto que comparte propiedades y métodos con otro objeto",
+        "c": "Un objeto que puede tener una referencia a otro objeto",
+        "d": "Un molde para crear objetos con propiedades y métodos específicos",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es la polimorfismo en programación orientada a objetos?",
+        "a": "La capacidad de un objeto para tener varias formas",
+        "b": "La capacidad de un objeto para compartir propiedades y métodos con otro objeto",
+        "c": "La capacidad de un objeto para tener una referencia a otro objeto",
+        "d": "La capacidad de un objeto para delegar sus propiedades y métodos a otro objeto",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es la polimorfismo en programación orientada a objetos?",
+        "a": "La capacidad de un objeto para tener varias formas",
+        "b": "La capacidad de un objeto para compartir propiedades y métodos con otro objeto",
+        "c": "La capacidad de un objeto para tener una referencia a otro objeto",
+        "d": "La capacidad de un objeto para delegar sus propiedades y métodos a otro objeto",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es UML?",
+        "a": "Un lenguaje de programación",
+        "b": "Un lenguaje de modelado visual",
+        "c": "Un compilador",
+        "d": "Una biblioteca de funciones",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de UML?",
+        "a": "Proporcionar una metodología de programación",
+        "b": "Facilitar la comunicación y el diseño visual de sistemas",
+        "c": "Proporcionar un conjunto de herramientas de depuración",
+        "d": "Facilitar la creación de pruebas unitarias",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el elemento fundamental de un diagrama UML?",
+        "a": "Clase",
+        "b": "Objeto",
+        "c": "Método",
+        "d": "Atributo",
+        "respuesta": "a",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes diagramas UML se utiliza para modelar el comportamiento del sistema?",
+        "a": "Diagrama de clases",
+        "b": "Diagrama de casos de uso",
+        "c": "Diagrama de secuencia",
+        "d": "Diagrama de actividad",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal del diagrama de secuencia UML?",
+        "a": "Mostrar la estructura de un sistema",
+        "b": "Mostrar la interacción entre objetos",
+        "c": "Mostrar la jerarquía de una clase",
+        "d": "Mostrar la implementación de una clase",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es un diagrama de clases en UML?",
+        "a": "Un diagrama que muestra la relación entre los objetos y sus atributos.",
+        "b": "Un diagrama que muestra la estructura estática del sistema, representando las clases, atributos y relaciones entre ellas.",
+        "c": "Un diagrama que muestra la interacción entre los objetos en el sistema.",
+        "d": "Un diagrama que muestra el flujo de control de un proceso o función.",
+        "respuesta": "b",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es un diagrama de secuencia en UML?",
+        "a": "Un diagrama que muestra la relación entre los objetos y sus atributos.",
+        "b": "Un diagrama que muestra la estructura estática del sistema, representando las clases, atributos y relaciones entre ellas.",
+        "c": "Un diagrama que muestra la interacción entre los objetos en el sistema.",
+        "d": "Un diagrama que muestra el flujo de control de un proceso o función.",
+        "respuesta": "c",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es un diagrama de casos de uso en UML?",
+        "a": "Un diagrama que muestra la relación entre los objetos y sus atributos.",
+        "b": "Un diagrama que muestra la estructura estática del sistema, representando las clases, atributos y relaciones entre ellas.",
+        "c": "Un diagrama que muestra la interacción entre los objetos en el sistema.",
+        "d": "Un diagrama que muestra la funcionalidad del sistema y cómo se relaciona con los usuarios o actores externos.",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es un diagrama de actividad en UML?",
+        "a": "Un diagrama que muestra la relación entre los objetos y sus atributos.",
+        "b": "Un diagrama que muestra la estructura estática del sistema, representando las clases, atributos y relaciones entre ellas.",
+        "c": "Un diagrama que muestra la interacción entre los objetos en el sistema.",
+        "d": "Un diagrama que muestra el flujo de actividades en un proceso o función.",
+        "respuesta": "d",
+        "categoria_id": 21
+    },
+    {
+        "pregunta": "¿Qué es un diagrama de componentes en UML?",
+        "a": "Un diagrama que muestra la relación entre los objetos y sus atributos.",
+        "b": "Un diagrama que muestra la estructura estática del sistema, representando las clases, atributos y relaciones entre ellas.",
+        "c": "Un diagrama que muestra la interacción entre los objetos en el sistema.",
+        "d": "Un diagrama que muestra la estructura de los componentes de un sistema y sus interacciones.",
+        "respuesta": "d",
+        "categoria_id": 21
+    }
+]

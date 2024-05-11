@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "¿Cuál es la resolución óptica máxima de un escáner?",
+    "a": "2400 ppp",
+    "b": "4800 ppp",
+    "c": "6400 ppp",
+    "d": "9600 ppp",
+    "respuesta": "d",
+    "categoria_id": 13,
+    "explicacion": "La resolución óptica máxima de un escáner se refiere a la cantidad de puntos por pulgada que es capaz de leer el sensor óptico del escáner. La mayoría de los escáneres modernos tienen una resolución óptica máxima de 9600 ppp, lo que les permite capturar detalles finos en imágenes y documentos."
+  },
+  {
+    "pregunta": "¿Qué tipo de escáner utiliza una fuente de luz LED?",
+    "a": "Escáner de tambor",
+    "b": "Escáner de mano",
+    "c": "Escáner de cama plana",
+    "d": "Escáner de película",
+    "respuesta": "c",
+    "categoria_id": 13,
+    "explicacion": "Los escáneres de cama plana son los más comunes y utilizan una fuente de luz LED para iluminar el documento o imagen que se está escaneando. La luz LED es más eficiente y duradera que las lámparas fluorescentes utilizadas en los escáneres más antiguos."
+  },
+  {
+    "pregunta": "¿Qué tipo de escáner es mejor para digitalizar diapositivas y negativos fotográficos?",
+    "a": "Escáner de tambor",
+    "b": "Escáner de mano",
+    "c": "Escáner de cama plana",
+    "d": "Escáner de película",
+    "respuesta": "d",
+    "categoria_id": 13,
+    "explicacion": "Los escáneres de película están diseñados específicamente para digitalizar diapositivas y negativos fotográficos. Tienen una alta resolución y una fuente de luz especial que ayuda a capturar el detalle y la calidad de la imagen original."
+  },
+  {
+    "pregunta": "¿Qué es la profundidad de color en un escáner?",
+    "a": "La resolución máxima que el escáner puede producir",
+    "b": "La cantidad de tonos que el escáner puede capturar en cada píxel",
+    "c": "La velocidad a la que el escáner puede digitalizar documentos",
+    "d": "La capacidad del escáner para imprimir imágenes",
+    "respuesta": "b",
+    "categoria_id": 13,
+    "explicacion": "La profundidad de color en un escáner se refiere a la cantidad de tonos que el escáner es capaz de capturar en cada píxel de la imagen. Esto se mide en bits por canal de color (por ejemplo, 8 bits para el canal rojo, 8 bits para el canal verde y 8 bits para el canal azul en una imagen en color RGB de 24 bits). Cuanta mayor sea la profundidad de color, más detalles y matices se podrán capturar en la imagen escaneada."
+  }
+]

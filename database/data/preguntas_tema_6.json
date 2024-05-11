@@ -1,0 +1,222 @@
+[
+    {
+        "pregunta": "¿Cuándo se aprobó la Ley Orgánica de medidas de protección integral contra la violencia de género en España?",
+        "a": "En el año 2002",
+        "b": "En el año 2003",
+        "c": "En el año 2004",
+        "d": "En el año 2005",
+        "respuesta": "b",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de la Ley de Igualdad de Género?",
+        "a": "Combatir la discriminación por razón de género en todos los ámbitos",
+        "b": "Promover la igualdad de género en el ámbito laboral",
+        "c": "Fomentar la participación de las mujeres en la vida política",
+        "d": "Garantizar la protección de la maternidad y la conciliación de la vida laboral y familiar",
+        "respuesta": "a",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es la sanción prevista en la Ley de Igualdad de Género para las empresas que cometan discriminación de género en el ámbito laboral?",
+        "a": "Sanción económica",
+        "b": "Sanción de suspensión temporal de la actividad empresarial",
+        "c": "Sanción de clausura temporal del centro de trabajo",
+        "d": "Todas las anteriores",
+        "respuesta": "a",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es la duración de los permisos de paternidad y maternidad establecidos en la Ley de Igualdad de Género?",
+        "a": "17 semanas para la madre y 2 semanas para el padre",
+        "b": "20 semanas para la madre y 4 semanas para el padre",
+        "c": "22 semanas para la madre y 7 semanas para el padre",
+        "d": "24 semanas para la madre y 8 semanas para el padre",
+        "respuesta": "d",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué medidas prevé la Ley de Igualdad de Género para combatir la brecha salarial?",
+        "a": "La realización de auditorías salariales en las empresas",
+        "b": "La creación de una autoridad independiente que supervise la igualdad salarial",
+        "c": "La promoción de la negociación colectiva para establecer medidas de igualdad salarial",
+        "d": "Todas las anteriores",
+        "respuesta": "d",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es la discriminación indirecta?",
+        "a": "Cuando una persona es discriminada directamente en el acceso a bienes y servicios.",
+        "b": "Cuando una persona sufre acoso en el trabajo.",
+        "c": "Cuando una norma, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro sexo.",
+        "d": "Cuando una persona es tratada de forma diferente por su orientación sexual.",
+        "respuesta": "c",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Cuál es el objeto de la Ley de Igualdad?",
+        "a": "Garantizar la igualdad de trato y de oportunidades entre mujeres y hombres en el ámbito laboral.",
+        "b": "Fomentar la igualdad efectiva entre mujeres y hombres en todos los ámbitos de la vida.",
+        "c": "Eliminar la violencia de género y garantizar la protección y asistencia a las víctimas.",
+        "d": "Proteger los derechos fundamentales de las personas LGTBI.",
+        "respuesta": "b",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es la discriminación múltiple?",
+        "a": "Cuando una persona es discriminada por razones de género y edad a la vez.",
+        "b": "Cuando una persona sufre discriminación por su orientación sexual y por su religión a la vez.",
+        "c": "Cuando una persona sufre discriminación por varias razones como la edad, la raza, el género, la orientación sexual, la religión, entre otras.",
+        "d": "Cuando una persona es discriminada por su raza y su género a la vez.",
+        "respuesta": "c",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué medidas establece la Ley de Igualdad para fomentar la igualdad efectiva entre mujeres y hombres?",
+        "a": "Establecimiento de planes de igualdad en empresas y organismos públicos.",
+        "b": "Promoción de la participación equilibrada de mujeres y hombres en órganos colegiados y en procesos de toma de decisiones.",
+        "c": "Fomento de la corresponsabilidad en las responsabilidades familiares y sociales.",
+        "d": "Todas las anteriores son medidas establecidas por la Ley de Igualdad.",
+        "respuesta": "d",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es la brecha salarial de género?",
+        "a": "La diferencia de salarios entre hombres y mujeres que desempeñan el mismo trabajo en la misma empresa.",
+        "b": "La diferencia de salarios entre hombres y mujeres que desempeñan trabajos diferentes en la misma empresa.",
+        "c": "La diferencia de salarios entre hombres y mujeres en general, independientemente del trabajo que desempeñen.",
+        "d": "La diferencia de salarios entre hombres y mujeres en un país.",
+        "respuesta": "c",
+        "categoria_id": 7
+    },
+    {
+        "pregunta": "¿Qué es el Consejo de Participación de la Mujer?",
+        "a": "Un organismo que coordina la participación de las mujeres en la vida política, social y cultural.",
+        "b": "Un organismo encargado de velar por el cumplimiento de la Ley de Igualdad.",
+        "c": "Un organismo que fomenta la igualdad entre mujeres y hombres en el ámbito laboral.",
+        "d": "Un organismo que garantiza la igualdad efectiva entre mujeres y hombres en el acceso a bienes y servicios.",
+        "respuesta": "a",
+        "categoria_id": 7
+        }
+        ,
+        {
+        "pregunta": "¿Qué objetivos tiene la Ley de Igualdad?",
+        "a": "Garantizar la igualdad efectiva entre mujeres y hombres.",
+        "b": "Promover la igualdad de oportunidades y la no discriminación por razón de género.",
+        "c": "Fomentar la igualdad en el ámbito laboral y empresarial.",
+        "d": "Todas las anteriores.",
+        "respuesta": "d",
+        "categoria_id": 7
+        }
+        ,
+        {
+        "pregunta": "¿A quiénes protege la Ley de Igualdad?",
+        "a": "A las mujeres y a los hombres en igualdad de condiciones.",
+        "b": "Solo a las mujeres.",
+        "c": "Solo a los hombres.",
+        "d": "A ninguna persona en concreto.",
+        "respuesta": "a",
+        "categoria_id": 7
+        }
+        ,
+        {
+        "pregunta": "¿Qué medidas contempla la Ley de Igualdad para fomentar la igualdad en el ámbito laboral?",
+        "a": "La igualdad salarial entre mujeres y hombres.",
+        "b": "La promoción de la conciliación de la vida laboral, personal y familiar.",
+        "c": "La eliminación de la discriminación por razón de género en el acceso al empleo y la formación profesional.",
+        "d": "Todas las anteriores.",
+        "respuesta": "d",
+        "categoria_id": 7
+        }
+        ,
+        {
+        "pregunta": "¿Cuál es el objetivo de la Ley de Igualdad en la publicidad?",
+        "a": "Evitar que se transmitan estereotipos sexistas o discriminatorios.",
+        "b": "Aumentar la venta de productos y servicios a través de una imagen sexista de las mujeres.",
+        "c": "Garantizar que se respeten los derechos de autor en la publicidad.",
+        "d": "Ninguna de las anteriores.",
+        "respuesta": "a",
+        "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué tipo de medidas se promueven en la Ley de Igualdad para la promoción de la igualdad efectiva entre hombres y mujeres?",
+            "a": "Medidas de igualdad de trato y de oportunidades",
+            "b": "Medidas para fomentar la segregación de género",
+            "c": "Medidas para fomentar la discriminación por razón de género",
+            "d": "Medidas para limitar el acceso de las mujeres a ciertos puestos de trabajo",
+            "respuesta": "a",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué establece la Ley de Igualdad respecto a la representación equilibrada de mujeres y hombres en los órganos de dirección y administración de empresas?",
+            "a": "No establece ninguna medida al respecto",
+            "b": "Obliga a las empresas a que al menos el 40% de los miembros de los órganos de dirección sean mujeres",
+            "c": "Obliga a las empresas a que al menos el 30% de los miembros de los órganos de dirección sean mujeres",
+            "d": "Obliga a las empresas a que al menos el 50% de los miembros de los órganos de dirección sean mujeres",
+            "respuesta": "c",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué tipo de medidas establece la Ley de Igualdad para garantizar el derecho a la igualdad en el ámbito laboral?",
+            "a": "Medidas de conciliación de la vida personal, familiar y laboral",
+            "b": "Medidas para limitar el acceso de las mujeres a ciertos puestos de trabajo",
+            "c": "Medidas para fomentar la discriminación por razón de género",
+            "d": "Medidas para fomentar la segregación de género",
+            "respuesta": "a",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué institución española es responsable de la promoción de la igualdad efectiva entre hombres y mujeres?",
+            "a": "El Ministerio de Igualdad",
+            "b": "El Consejo General del Poder Judicial",
+            "c": "El Tribunal Constitucional",
+            "d": "El Defensor del Pueblo",
+            "respuesta": "a",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué medidas establece la Ley de Igualdad para promover la igualdad efectiva entre hombres y mujeres en el ámbito educativo?",
+            "a": "La promoción de una educación no sexista y la eliminación de estereotipos de género",
+            "b": "La promoción de la segregación de género en las escuelas",
+            "c": "La promoción de la discriminación por razón de género",
+            "d": "La promoción de la limitación del acceso de las mujeres a ciertas carreras universitarias",
+            "respuesta": "a",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué establece la Ley de Igualdad en cuanto a la igualdad de trato en el empleo?",
+            "a": "La igualdad de trato y de oportunidades entre mujeres y hombres en el acceso al empleo, la formación y promoción profesionales.",
+            "b": "La igualdad de remuneración entre mujeres y hombres por un trabajo de igual valor.",
+            "c": "La obligación de las empresas de más de 250 trabajadores de elaborar un Plan de Igualdad.",
+            "d": "Todas las anteriores son correctas.",
+            "respuesta": "d",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué establece la Ley de Igualdad en cuanto a la igualdad en la Seguridad Social?",
+            "a": "La igualdad de acceso y de protección social en todas las contingencias y situaciones protegidas en el sistema de la Seguridad Social.",
+            "b": "La igualdad en la duración de los permisos por nacimiento o adopción de hijos.",
+            "c": "La obligación de la empresa de conceder el permiso de paternidad en los mismos términos que el de maternidad.",
+            "d": "Todas las anteriores son correctas.",
+            "respuesta": "d",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué medidas contempla la Ley de Igualdad para la erradicación de la violencia de género?",
+            "a": "La protección y asistencia a las víctimas.",
+            "b": "La prevención de la violencia de género y la sensibilización social.",
+            "c": "La reparación integral a las víctimas de la violencia de género.",
+            "d": "Todas las anteriores son correctas.",
+            "respuesta": "d",
+            "categoria_id": 7
+        },
+        {
+            "pregunta": "¿Qué establece la Ley de Igualdad en cuanto a la igualdad en la educación?",
+            "a": "La eliminación de los estereotipos de género en los libros de texto y en la formación del profesorado.",
+            "b": "La promoción de la igualdad efectiva entre mujeres y hombres en el ámbito educativo.",
+            "c": "La inclusión de contenidos sobre la igualdad entre mujeres y hombres en todos los niveles educativos.",
+            "d": "Todas las anteriores son correctas.",
+            "respuesta": "d",
+            "categoria_id": 7
+        }        
+]

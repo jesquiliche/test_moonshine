@@ -1,0 +1,399 @@
+[
+    {
+        "pregunta": "¿Qué estructura de datos permite acceder a sus elementos en tiempo constante?",
+        "a": "Árbol binario",
+        "b": "Pila",
+        "c": "Cola",
+        "d": "Tabla hash",
+        "respuesta": "d",
+        "categoria_id": 14,
+        "explicacion": "La tabla hash es una estructura de datos que permite acceder a sus elementos en tiempo constante, es decir, el tiempo necesario para acceder a un elemento es independiente del tamaño de la tabla. Esto se logra utilizando una función de dispersión que mapea las claves de los elementos a índices en la tabla. De esta manera, se puede acceder directamente al elemento que se busca sin necesidad de recorrer la estructura de datos en busca de él, lo que hace que la tabla hash sea una de las estructuras de datos más eficientes en cuanto a tiempo de acceso."
+        },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para almacenar elementos en orden de llegada?",
+        "a": "Pila",
+        "b": "Cola",
+        "c": "Árbol binario",
+        "d": "Tabla hash",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para representar relaciones de uno a muchos?",
+        "a": "Tabla hash",
+        "b": "Árbol binario",
+        "c": "Lista enlazada",
+        "d": "Pila",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos permite almacenar pares clave-valor?",
+        "a": "Pila",
+        "b": "Cola",
+        "c": "Árbol binario",
+        "d": "Tabla hash",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para representar relaciones de muchos a muchos?",
+        "a": "Tabla hash",
+        "b": "Árbol binario",
+        "c": "Grafo",
+        "d": "Pila",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal promedio de la operación de inserción en una tabla hash?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n^2)",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para representar una secuencia de elementos ordenados?",
+        "a": "Cola",
+        "b": "Pila",
+        "c": "Árbol binario",
+        "d": "Lista",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal promedio de la operación de búsqueda en un árbol binario de búsqueda?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n^2)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para almacenar elementos únicos en orden arbitrario?",
+        "a": "Conjunto",
+        "b": "Mapa",
+        "c": "Pila",
+        "d": "Cola",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza para almacenar elementos únicos en orden arbitrario?",
+        "a": "Conjunto",
+        "b": "Mapa",
+        "c": "Pila",
+        "d": "Cola",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal del algoritmo de ordenamiento de burbuja en el peor de los casos?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(n log n)",
+        "d": "O(n^2)",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal del algoritmo de ordenamiento quicksort en el peor de los casos?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(n log n)",
+        "d": "O(n^2)",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué algoritmo de ordenamiento utiliza una técnica de dividir y conquistar?",
+        "a": "Mergesort",
+        "b": "Bubblesort",
+        "c": "Insertionsort",
+        "d": "Quicksort",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué algoritmo de búsqueda utiliza una técnica de dividir y conquistar?",
+        "a": "Búsqueda secuencial",
+        "b": "Búsqueda binaria",
+        "c": "Búsqueda en profundidad",
+        "d": "Búsqueda en amplitud",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal del algoritmo de búsqueda binaria en el peor de los casos?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n^2)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de ordenamiento Mergesort?",
+        "a": "O(n)",
+        "b": "O(n log n)",
+        "c": "O(n^2)",
+        "d": "O(n^14)",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de ordenamiento Quicksort?",
+        "a": "O(n)",
+        "b": "O(n log n)",
+        "c": "O(n^2)",
+        "d": "O(n^14)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de búsqueda binaria?",
+        "a": "O(1)",
+        "b": "O(n)",
+        "c": "O(log n)",
+        "d": "O(n log n)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué medida se puede tomar para evitar el peor caso del algoritmo de ordenamiento Quicksort?",
+        "a": "Seleccionar siempre el primer elemento como pivote",
+        "b": "Seleccionar siempre el último elemento como pivote",
+        "c": "Seleccionar siempre el elemento del medio como pivote",
+        "d": "Seleccionar el pivote de manera aleatoria",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de cálculo de la serie de Fibonacci recursivo?",
+        "a": "O(n)",
+        "b": "O(n log n)",
+        "c": "O(2^n)",
+        "d": "O(n!)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un árbol binario de búsqueda?",
+        "a": "Un árbol cuyos nodos tienen al menos 2 hijos",
+        "b": "Un árbol cuyos nodos tienen un valor mayor que su hijo izquierdo y menor que su hijo derecho",
+        "c": "Un árbol cuyos nodos tienen un valor menor que su hijo izquierdo y mayor que su hijo derecho",
+        "d": "Un árbol que no tiene nodos repetidos",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es la altura de un árbol?",
+        "a": "La cantidad de nodos en el árbol",
+        "b": "La cantidad de nodos en el nivel más bajo del árbol",
+        "c": "La cantidad de niveles en el árbol",
+        "d": "La cantidad de hojas en el árbol",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un árbol AVL?",
+        "a": "Un árbol cuyos nodos tienen al menos 2 hijos",
+        "b": "Un árbol cuyos nodos tienen un valor mayor que su hijo izquierdo y menor que su hijo derecho",
+        "c": "Un árbol cuyos nodos tienen un valor menor que su hijo izquierdo y mayor que su hijo derecho",
+        "d": "Un árbol balanceado que mantiene la propiedad de equilibrio",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de búsqueda en un árbol binario de búsqueda?",
+        "a": "O(n)",
+        "b": "O(log n)",
+        "c": "O(n log n)",
+        "d": "O(n!)",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un árbol completo y un árbol perfecto?",
+        "a": "Un árbol completo tiene todos los niveles llenos y el último nivel puede estar incompleto, mientras que un árbol perfecto tiene todos los niveles llenos",
+        "b": "Un árbol completo tiene todos los nodos con dos hijos, mientras que un árbol perfecto tiene al menos un nodo con un solo hijo",
+        "c": "Un árbol completo tiene todos los nodos en el mismo nivel, mientras que un árbol perfecto tiene nodos en diferentes niveles",
+        "d": "Un árbol completo tiene todos los nodos con el mismo valor, mientras que un árbol perfecto tiene nodos con diferentes valores",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un árbol de decisión?",
+        "a": "Un árbol binario de búsqueda que se utiliza en algoritmos de clasificación",
+        "b": "Un árbol cuyos nodos tienen un valor mayor que su hijo izquierdo y menor que su hijo derecho",
+        "c": "Un árbol cuyos nodos tienen un valor menor que su hijo izquierdo y mayor que su hijo derecho",
+        "d": "Un árbol que se utiliza para representar las decisiones y sus posibles consecuencias",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es el recorrido preorden de un árbol?",
+        "a": "Primero se visita la raíz, luego el subárbol izquierdo y finalmente el subárbol derecho",
+        "b": "Primero se visita el subárbol izquierdo, luego la raíz y finalmente el subárbol derecho",
+        "c": "Primero se visita el subárbol derecho, luego el subárbol izquierdo y finalmente la raíz",
+        "d": "No es un recorrido válido para un árbol",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es la profundidad de un nodo en un árbol?",
+        "a": "La cantidad de nodos en el árbol",
+        "b": "La cantidad de nodos en el nivel más bajo del árbol",
+        "c": "La cantidad de niveles en el árbol",
+        "d": "La cantidad de aristas desde la raíz hasta el nodo",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un árbol rojo-negro?",
+        "a": "Un árbol cuyos nodos tienen al menos 2 hijos",
+        "b": "Un árbol cuyos nodos tienen un valor mayor que su hijo izquierdo y menor que su hijo derecho",
+        "c": "Un árbol cuyos nodos tienen un valor menor que su hijo izquierdo y mayor que su hijo derecho",
+        "d": "Un árbol balanceado que mantiene la propiedad de equilibrio y la propiedad de colores",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de inserción en un árbol binario de búsqueda?",
+        "a": "O(n)",
+        "b": "O(log n)",
+        "c": "O(n log n)",
+        "d": "O(n!)",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un grafo?",
+        "a": "Un conjunto de nodos conectados por aristas",
+        "b": "Un conjunto de árboles conectados por aristas",
+        "c": "Un conjunto de nodos no conectados",
+        "d": "Un conjunto de árboles no conectados",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es un ciclo en un grafo?",
+        "a": "Un camino que comienza y termina en el mismo nodo",
+        "b": "Un camino que visita cada nodo exactamente una vez",
+        "c": "Una conexión entre dos nodos",
+        "d": "Una conexión entre un nodo y sí mismo",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es la matriz de adyacencia de un grafo?",
+        "a": "Una matriz que representa la cantidad de aristas entre cada par de nodos",
+        "b": "Una matriz que representa la cantidad de caminos entre cada par de nodos",
+        "c": "Una matriz que representa la distancia entre cada par de nodos",
+        "d": "Una matriz que representa la cantidad de nodos entre cada par de nodos",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es el recorrido en profundidad de un grafo?",
+        "a": "Un algoritmo que visita todos los nodos del grafo en orden lexicográfico",
+        "b": "Un algoritmo que visita todos los nodos del grafo en orden creciente de distancia",
+        "c": "Un algoritmo que visita todos los nodos del grafo en orden de profundidad",
+        "d": "Un algoritmo que visita todos los nodos del grafo en orden de anchura",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué es el algoritmo de Dijkstra?",
+        "a": "Un algoritmo que encuentra el camino más corto entre todos los pares de nodos en un grafo",
+        "b": "Un algoritmo que encuentra el camino más corto entre dos nodos en un grafo con pesos positivos",
+        "c": "Un algoritmo que encuentra el camino más corto entre dos nodos en un grafo con pesos negativos",
+        "d": "Un algoritmo que encuentra el camino más largo entre dos nodos en un grafo",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal del algoritmo de Dijkstra?",
+        "a": "Encontrar el camino más corto entre todos los pares de nodos en un grafo",
+        "b": "Encontrar el camino más corto entre dos nodos en un grafo con pesos negativos",
+        "c": "Encontrar el camino más largo entre dos nodos en un grafo",
+        "d": "Encontrar el camino más corto entre dos nodos en un grafo con pesos positivos",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cómo funciona el algoritmo de Dijkstra?",
+        "a": "Explorando el grafo de manera aleatoria y registrando el camino más corto encontrado hasta el momento",
+        "b": "Explorando el grafo en orden lexicográfico y registrando el camino más corto encontrado hasta el momento",
+        "c": "Explorando el grafo en orden de distancia y registrando el camino más corto encontrado hasta el momento",
+        "d": "Explorando el grafo en orden de prioridad y registrando el camino más corto encontrado hasta el momento",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estructura de datos se utiliza típicamente para implementar el algoritmo de Dijkstra?",
+        "a": "Una cola de prioridad",
+        "b": "Un árbol binario",
+        "c": "Un arreglo",
+        "d": "Una lista enlazada",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cómo se actualizan las distancias en el algoritmo de Dijkstra?",
+        "a": "Las distancias se actualizan al encontrar un camino más corto",
+        "b": "Las distancias se actualizan al encontrar un camino más largo",
+        "c": "Las distancias se mantienen iguales durante todo el proceso",
+        "d": "Las distancias se actualizan de manera aleatoria",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la estrategia seguida por el algoritmo de ordenamiento de inserción?",
+        "a": "Divide y vencerás",
+        "b": "Intercambio",
+        "c": "Selección",
+        "d": "Comparación y desplazamiento",
+        "respuesta": "d",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la estrategia seguida por el algoritmo de ordenamiento de burbuja?",
+        "a": "Divide y vencerás",
+        "b": "Intercambio",
+        "c": "Selección",
+        "d": "Comparación y desplazamiento",
+        "respuesta": "b",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la estrategia seguida por el algoritmo de ordenamiento por mezcla?",
+        "a": "Divide y vencerás",
+        "b": "Intercambio",
+        "c": "Selección",
+        "d": "Comparación y desplazamiento",
+        "respuesta": "a",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Cuál es la complejidad temporal en el peor de los casos del algoritmo de ordenamiento rápido?",
+        "a": "O(n)",
+        "b": "O(n log n)",
+        "c": "O(n^2)",
+        "d": "O(2^n)",
+        "respuesta": "c",
+        "categoria_id": 14
+    },
+    {
+        "pregunta": "¿Qué estrategia utiliza el algoritmo de ordenamiento por selección?",
+        "a": "Divide y vencerás",
+        "b": "Intercambio",
+        "c": "Selección",
+        "d": "Comparación y desplazamiento",
+        "respuesta": "c",
+        "categoria_id": 14
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "pregunta": "¿Qué significa REST y qué ventajas ofrece sobre otros enfoques de servicios web?",
+        "a": "Representational State Transfer; ofrece una mayor seguridad que otros enfoques al utilizar tokens de autenticación",
+        "b": "Representational State Transfer; permite una fácil integración con otras tecnologías y lenguajes de programación",
+        "c": "Remote Service Technology; ofrece una mayor velocidad que otros enfoques al utilizar protocolos de comunicación más eficientes",
+        "d": "Remote Service Technology; permite una fácil implementación de la lógica de negocio en el lado del servidor",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es el modelo MVC en el desarrollo de aplicaciones web?",
+        "a": "Una forma de desarrollar aplicaciones web utilizando lenguajes de programación diferentes",
+        "b": "Una forma de diseñar la arquitectura de una aplicación web separando la lógica en tres componentes: Modelo, Vista y Controlador",
+        "c": "Una forma de organizar el código en una aplicación web",
+        "d": "Una técnica para mejorar la seguridad de las aplicaciones web",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un recurso en el contexto de una API REST?",
+        "a": "Un objeto que representa una entidad del mundo real (como un usuario o una factura) y que se puede crear, leer, actualizar o eliminar a través de una API REST",
+        "b": "Un objeto que representa una transacción financiera y que se puede consultar a través de una API REST",
+        "c": "Un objeto que representa una operación lógica en el lado del servidor y que se puede invocar a través de una API REST",
+        "d": "Un objeto que representa un archivo o una imagen y que se puede descargar a través de una API REST",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué son los verbos HTTP y cómo se utilizan en una API REST?",
+        "a": "Son acciones que se realizan en el lado del servidor y que permiten a los clientes interactuar con los recursos; se utilizan para definir las rutas de acceso a los recursos en una API REST",
+        "b": "Son acciones que se realizan en el lado del cliente y que permiten enviar y recibir datos a través de una API REST; se utilizan para definir las operaciones CRUD sobre los recursos",
+        "c": "Son acciones que se realizan en el lado del cliente y que permiten interactuar con los recursos; se utilizan para definir las operaciones CRUD sobre los recursos en una API REST",
+        "d": "Son acciones que se realizan en el lado del servidor y que permiten enviar y recibir datos a través de una API REST; se utilizan para definir las rutas de acceso a los recursos en una API REST",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es la principal ventaja de usar una API REST?",
+        "a": "Permite realizar operaciones CRUD en una base de datos de forma más eficiente",
+        "b": "Permite la comunicación entre diferentes sistemas y plataformas de forma estandarizada",
+        "c": "Permite el acceso a recursos a través de una única ruta",
+        "d": "Permite la autenticación y autorización de usuarios de forma más segura",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa el término 'recurso' en una API REST?",
+        "a": "Un objeto que representa un conjunto de datos en una base de datos",
+        "b": "Una dirección URL que identifica un conjunto de datos en una base de datos",
+        "c": "Un objeto que representa una operación CRUD en una base de datos",
+        "d": "Una dirección URL que identifica un conjunto de datos o una operación CRUD en una API REST",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un código de estado HTTP y para qué se utiliza en una API REST?",
+        "a": "Un código que representa la cantidad de recursos disponibles en una API REST",
+        "b": "Un código que representa la cantidad de operaciones CRUD que se pueden realizar en una API REST",
+        "c": "Un código que representa el resultado de una operación realizada en una API REST",
+        "d": "Un código que representa el tipo de recurso al que se accede en una API REST",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa el término RESTful?",
+        "a": "Que la API REST es muy rápida en la transferencia de datos",
+        "b": "Que la API REST es fácil de usar y entender",
+        "c": "Que la API REST cumple con los principios y restricciones del estilo arquitectónico REST",
+        "d": "Que la API REST es compatible con cualquier lenguaje de programación",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un recurso en una API REST?",
+        "a": "Un archivo HTML que se sirve al cliente",
+        "b": "Un objeto que se puede crear, leer, actualizar o eliminar a través de la API REST",
+        "c": "Un script que se ejecuta en el servidor",
+        "d": "Un conjunto de operaciones que se pueden realizar a través de la API REST",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es el formato JSON y cómo se utiliza en una API REST?",
+        "a": "Es un formato de intercambio de datos que se utiliza para enviar y recibir información entre el cliente y el servidor; se utiliza para definir la estructura de los recursos en una API REST",
+        "b": "Es un formato de lenguaje de marcado que se utiliza para definir la estructura de los recursos en una API REST",
+        "c": "Es un formato de lenguaje de programación que se utiliza para desarrollar la lógica de la API REST",
+        "d": "Es un formato de base de datos que se utiliza para almacenar los recursos en una API REST",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un endpoint en una API REST?",
+        "a": "Un recurso que se puede crear, leer, actualizar o eliminar a través de la API REST",
+        "b": "Una ruta de acceso a un recurso en la API REST",
+        "c": "Una operación que se puede realizar a través de la API REST",
+        "d": "Un método HTTP que se utiliza para interactuar con los recursos en la API REST",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es la autenticación en una API REST y por qué es importante?",
+        "a": "Es un mecanismo de seguridad que se utiliza para limitar el acceso a los recursos de la API REST; es importante para proteger la información sensible",
+        "b": "Es un mecanismo que se utiliza para generar tokens de acceso a la API REST; es importante para mantener la integridad de los datos",
+        "c": "Es un mecanismo que se utiliza para limitar el número de solicitudes a la API REST; es importante para evitar ataques de denegación de servicio",
+        "d": "Es un mecanismo que se utiliza para optimizar el rendimiento de la API REST; es importante para garantizar una transferencia rápida de datos",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el verbo HTTP utilizado para eliminar un recurso en una API REST?",
+        "a": "PUT",
+        "b": "POST",
+        "c": "DELETE",
+        "d": "GET",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el verbo HTTP utilizado para obtener información de un recurso en una API REST?",
+        "a": "PUT",
+        "b": "POST",
+        "c": "DELETE",
+        "d": "GET",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el verbo HTTP utilizado para obtener una lista de recursos en una API REST?",
+        "a": "PUT",
+        "b": "POST",
+        "c": "DELETE",
+        "d": "GET",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa el acrónimo CRUD en una API REST?",
+        "a": "Crear, Remover, Unificar, Depurar",
+        "b": "Crear, Remover, Actualizar, Eliminar",
+        "c": "Configurar, Remover, Unificar, Depurar",
+        "d": "Configurar, Remover, Actualizar, Eliminar",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es una URI en una API REST?",
+        "a": "Una identificación única de un recurso en una API REST",
+        "b": "Una dirección de correo electrónico utilizada para la comunicación entre los clientes y el servidor",
+        "c": "Un identificador de usuario en una base de datos de usuarios",
+        "d": "Un lenguaje de programación utilizado para desarrollar una API REST",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre una API RESTful y una API SOAP?",
+        "a": "Las API RESTful utilizan el protocolo SOAP para la transferencia de datos",
+        "b": "Las API RESTful son más simples y utilizan el protocolo HTTP para la transferencia de datos, mientras que las API SOAP son más complejas y utilizan XML para la transferencia de datos",
+        "c": "Las API RESTful son más complejas y utilizan XML para la transferencia de datos, mientras que las API SOAP son más simples y utilizan el protocolo HTTP para la transferencia de datos",
+        "d": "No hay diferencia, ambas son iguales y se utilizan indistintamente",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el código de estado HTTP que indica que la solicitud fue exitosa?",
+        "a": "200",
+        "b": "404",
+        "c": "500",
+        "d": "302",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el código de estado HTTP que indica que el cliente no está autorizado para acceder al recurso solicitado?",
+        "a": "401",
+        "b": "403",
+        "c": "405",
+        "d": "500",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el código de estado HTTP que indica que el recurso solicitado no fue encontrado?",
+        "a": "200",
+        "b": "404",
+        "c": "500",
+        "d": "302",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el código de estado HTTP que indica que el servidor no puede procesar la solicitud debido a un error del cliente?",
+        "a": "401",
+        "b": "403",
+        "c": "400",
+        "d": "500",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el código de estado HTTP que indica que el servidor experimentó un error interno?",
+        "a": "401",
+        "b": "403",
+        "c": "500",
+        "d": "502",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué código de estado HTTP indica que el recurso solicitado no ha sido modificado?",
+        "a": "200 OK",
+        "b": "304 Not Modified",
+        "c": "400 Bad Request",
+        "d": "404 Not Found",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué código de estado HTTP indica que la solicitud no pudo ser procesada por el servidor debido a una sintaxis incorrecta?",
+        "a": "200 OK",
+        "b": "400 Bad Request",
+        "c": "404 Not Found",
+        "d": "500 Internal Server Error",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué código de estado HTTP indica que el recurso solicitado no se encuentra disponible en el servidor?",
+        "a": "200 OK",
+        "b": "304 Not Modified",
+        "c": "400 Bad Request",
+        "d": "404 Not Found",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué código de estado HTTP indica que el servidor encontró una condición inesperada que impidió que se completara la solicitud?",
+        "a": "200 OK",
+        "b": "400 Bad Request",
+        "c": "500 Internal Server Error",
+        "d": "503 Service Unavailable",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué indica el código de estado HTTP 403?",
+        "a": "El recurso solicitado no se encuentra disponible en este momento",
+        "b": "El cliente no tiene acceso al recurso solicitado",
+        "c": "El servidor no puede cumplir con la solicitud debido a una sobrecarga temporal",
+        "d": "La solicitud se completó correctamente",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué representa el código de estado HTTP 204?",
+        "a": "El recurso solicitado no existe en el servidor",
+        "b": "La petición se completó con éxito y no hay contenido para enviar en la respuesta",
+        "c": "La petición requiere autenticación y el cliente no ha proporcionado credenciales válidas",
+        "d": "El servidor no puede cumplir con la petición debido a un error interno",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa SOAP?",
+        "a": "Service Object Access Protocol",
+        "b": "Simple Object Access Protocol",
+        "c": "Service Oriented Architecture Protocol",
+        "d": "Structured Object Access Protocol",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué tipo de mensajes se pueden enviar a través de SOAP?",
+        "a": "Sólo mensajes XML",
+        "b": "Sólo mensajes de texto plano",
+        "c": "Mensajes XML o mensajes de texto plano",
+        "d": "Mensajes JSON o mensajes XML",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el protocolo de transporte utilizado por SOAP?",
+        "a": "TCP/IP",
+        "b": "HTTP",
+        "c": "FTP",
+        "d": "SMTP",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el protocolo de transporte utilizado por SOAP?",
+        "a": "TCP/IP",
+        "b": "HTTP",
+        "c": "FTP",
+        "d": "SMTP",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es la estructura básica de un mensaje SOAP?",
+        "a": "Encabezado y cuerpo",
+        "b": "Encabezado, cuerpo y pie de página",
+        "c": "Cuerpo y pie de página",
+        "d": "Encabezado y pie de página",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es la principal ventaja de usar SOAP?",
+        "a": "Es un protocolo más simple que otros",
+        "b": "Es más rápido que otros protocolos",
+        "c": "Permite el intercambio de mensajes entre diferentes plataformas y lenguajes de programación",
+        "d": "Es más seguro que otros protocolos",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es WSDL?",
+        "a": "Un lenguaje de marcado utilizado para describir la apariencia visual de una página web",
+        "b": "Un protocolo utilizado para la transferencia de archivos entre servidores web y clientes",
+        "c": "Un lenguaje de descripción de servicios web utilizado para definir la interfaz de un servicio web",
+        "d": "Un conjunto de herramientas para la gestión de bases de datos",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Para qué se utiliza WSDL en un servicio web?",
+        "a": "Para describir la apariencia visual de la página web que se muestra al usuario",
+        "b": "Para definir la interfaz y la estructura de un servicio web, incluyendo los métodos disponibles, los parámetros de entrada y salida y los tipos de datos utilizados",
+        "c": "Para transferir archivos entre servidores web y clientes",
+        "d": "Para gestionar la seguridad de un servicio web",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa XML?",
+        "a": "Extensible Markup Language",
+        "b": "Extraordinary Markup Language",
+        "c": "Expressive Markup Language",
+        "d": "Extended Markup Language",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de XML?",
+        "a": "Escribir programas informáticos",
+        "b": "Transportar y almacenar datos",
+        "c": "Crear diseños gráficos",
+        "d": "Crear animaciones en 3D",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cómo se define un elemento XML?",
+        "a": "Con etiquetas de inicio y fin que contienen el nombre del elemento",
+        "b": "Con etiquetas de inicio y fin que contienen el valor del elemento",
+        "c": "Con etiquetas de inicio y fin que contienen el tipo de dato del elemento",
+        "d": "Con etiquetas de inicio y fin que contienen el tamaño del elemento",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un atributo XML?",
+        "a": "Un elemento que contiene datos",
+        "b": "Una etiqueta que define el tipo de dato",
+        "c": "Una etiqueta que define el tamaño del elemento",
+        "d": "Una característica que se agrega a un elemento para proporcionar información adicional sobre él",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre XML y HTML?",
+        "a": "XML es un lenguaje para describir datos y HTML es un lenguaje para crear páginas web",
+        "b": "XML y HTML son lo mismo",
+        "c": "XML se utiliza para crear páginas web y HTML se utiliza para describir datos",
+        "d": "XML y HTML tienen la misma sintaxis y semántica",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un programa de control de versiones?",
+        "a": "Un programa que permite a los desarrolladores trabajar de manera colaborativa en un proyecto de software.",
+        "b": "Un programa que permite a los usuarios realizar copias de seguridad de sus archivos.",
+        "c": "Un programa que permite a los usuarios ver y comparar diferentes versiones de un archivo.",
+        "d": "Un programa que permite a los usuarios editar y compilar código fuente.",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes tareas NO es una función de un programa de control de versiones?",
+        "a": "Realizar pruebas automatizadas del código.",
+        "b": "Gestionar las diferentes versiones de los archivos del proyecto.",
+        "c": "Permitir a los desarrolladores colaborar en el proyecto de forma remota.",
+        "d": "Facilitar la resolución de conflictos entre diferentes versiones del código.",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un repositorio en un programa de control de versiones?",
+        "a": "Un archivo que contiene una lista de todas las versiones de un proyecto de software.",
+        "b": "Una carpeta compartida donde los desarrolladores guardan sus archivos de código fuente.",
+        "c": "Un servidor que almacena todas las versiones de un proyecto de software y que los desarrolladores pueden acceder remotamente.",
+        "d": "Un archivo que contiene las credenciales de acceso a un proyecto de software.",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un repositorio en un programa de control de versiones?",
+        "a": "Un archivo que contiene una lista de todas las versiones de un proyecto de software.",
+        "b": "Una carpeta compartida donde los desarrolladores guardan sus archivos de código fuente.",
+        "c": "Un servidor que almacena todas las versiones de un proyecto de software y que los desarrolladores pueden acceder remotamente.",
+        "d": "Un archivo que contiene las credenciales de acceso a un proyecto de software.",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones es un sistema de control de versiones centralizado?",
+        "a": "Git",
+        "b": "Mercurial",
+        "c": "SVN",
+        "d": "Perforce",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué significa la sigla 'CVS' en el contexto de control de versiones?",
+        "a": "Concurrent Versions System",
+        "b": "Code Versioning System",
+        "c": "Centralized Versioning System",
+        "d": "Continuous Versioning System",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones es un servicio de alojamiento de repositorios para Git?",
+        "a": "Bitbucket",
+        "b": "Perforce",
+        "c": "Subversion",
+        "d": "SourceForge",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué tipo de sistema de control de versiones es Perforce?",
+        "a": "Distribuido",
+        "b": "Centralizado",
+        "c": "Híbrido",
+        "d": "Ninguno de los anteriores",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué tipo de sistema de control de versiones es Git?",
+        "a": "Distribuido",
+        "b": "Centralizado",
+        "c": "Híbrido",
+        "d": "Ninguno de los anteriores",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es Git?",
+        "a": "Un lenguaje de programación",
+        "b": "Un sistema de control de versiones distribuido",
+        "c": "Un entorno de desarrollo integrado",
+        "d": "Un servidor web",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para crear un nuevo repositorio en Git?",
+        "a": "git clone",
+        "b": "git init",
+        "c": "git push",
+        "d": "git pull",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para añadir los cambios realizados en un archivo al área de preparación en Git?",
+        "a": "git add",
+        "b": "git commit",
+        "c": "git push",
+        "d": "git pull",
+        "respuesta": "a",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para confirmar los cambios realizados en el área de preparación y crear una nueva versión en Git?",
+        "a": "git add",
+        "b": "git commit",
+        "c": "git push",
+        "d": "git pull",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para actualizar el repositorio local con los cambios realizados en el repositorio remoto en Git?",
+        "a": "git add",
+        "b": "git commit",
+        "c": "git push",
+        "d": "git pull",
+        "respuesta": "d",
+        "categoria_id": 23
+    },{
+        "pregunta": "¿Qué es una rama en Git?",
+        "a": "Es una copia de seguridad de todo el repositorio",
+        "b": "Es una forma de etiquetar un punto específico en la historia del repositorio",
+        "c": "Es una línea de desarrollo independiente que permite trabajar en una funcionalidad sin afectar el código base",
+        "d": "Es un archivo de configuración que define el comportamiento de la herramienta",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para crear una nueva rama en Git?",
+        "a": "git checkout",
+        "b": "git branch",
+        "c": "git merge",
+        "d": "git add",
+        "respuesta": "b",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para cambiar de una rama a otra en Git?",
+        "a": "git merge",
+        "b": "git add",
+        "c": "git push",
+        "d": "git checkout",
+        "respuesta": "d",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué comando se utiliza para fusionar una rama con otra en Git?",
+        "a": "git pull",
+        "b": "git push",
+        "c": "git merge",
+        "d": "git clone",
+        "respuesta": "c",
+        "categoria_id": 23
+    },
+    {
+        "pregunta": "¿Qué es un conflicto de fusión de ramas en Git?",
+        "a": "Es un problema que ocurre cuando dos o más desarrolladores intentan hacer cambios en el mismo archivo",
+        "b": "Es un error que ocurre cuando la herramienta de Git no puede determinar cómo fusionar dos ramas",
+        "c": "Es una situación en la que un archivo en una rama ha sido eliminado y otro archivo con el mismo nombre ha sido creado en otra rama",
+        "d": "Es una advertencia que aparece cuando se intenta fusionar una rama sin antes haberla actualizado con los cambios de la rama principal",
+        "respuesta": "b",
+        "categoria_id": 23
+    }   
+]

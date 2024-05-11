@@ -1,0 +1,389 @@
+    [
+        {
+            "pregunta": "¿Qué es una tabla en una base de datos?",
+            "a": "Un conjunto de datos relacionados que se almacenan juntos en la base de datos",
+            "b": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "c": "Una conexión lógica entre dos o más objetos en la base de datos",
+            "d": "Una entidad en el mundo real, como una persona o un producto",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una clave primaria en una base de datos?",
+            "a": "Un campo que identifica de forma única una fila en una tabla",
+            "b": "Un campo que se utiliza para ordenar los registros en una tabla",
+            "c": "Un campo que se utiliza para unir varias tablas",
+            "d": "Un campo que almacena valores booleanos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una llave foránea en una base de datos?",
+            "a": "Un campo que se refiere a la clave primaria de otra tabla",
+            "b": "Un campo que identifica de forma única una fila en una tabla",
+            "c": "Un campo que se utiliza para unir varias tablas",
+            "d": "Un campo que almacena valores booleanos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un modelo conceptual de base de datos?",
+            "a": "Un modelo que describe cómo se almacenan los datos en una base de datos",
+            "b": "Un modelo que describe la estructura de una tabla en una base de datos",
+            "c": "Un modelo que describe la lógica de negocio de una aplicación",
+            "d": "Un modelo que describe la relación entre varias tablas en una base de datos",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una relación uno a muchos en una base de datos?",
+            "a": "Una relación en la que un registro en una tabla puede estar relacionado con varios registros en otra tabla",
+            "b": "Una relación en la que un registro en una tabla está relacionado con solo un registro en otra tabla",
+            "c": "Una relación en la que varios registros en una tabla están relacionados con varios registros en otra tabla",
+            "d": "Una relación en la que los registros en una tabla no están relacionados con los registros en otra tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una tabla en una base de datos?",
+            "a": "Un conjunto de datos relacionados que se almacenan juntos en la base de datos",
+            "b": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "c": "Una conexión lógica entre dos o más objetos en la base de datos",
+            "d": "Una entidad en el mundo real, como una persona o un producto",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una clave primaria en una base de datos?",
+            "a": "Un campo que identifica de forma única una fila en una tabla",
+            "b": "Un campo que se utiliza para ordenar los registros en una tabla",
+            "c": "Un campo que se utiliza para unir varias tablas",
+            "d": "Un campo que almacena valores booleanos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una llave foránea en una base de datos?",
+            "a": "Un campo que se refiere a la clave primaria de otra tabla",
+            "b": "Un campo que identifica de forma única una fila en una tabla",
+            "c": "Un campo que se utiliza para unir varias tablas",
+            "d": "Un campo que almacena valores booleanos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un modelo conceptual de base de datos?",
+            "a": "Un modelo que describe cómo se almacenan los datos en una base de datos",
+            "b": "Un modelo que describe la estructura de una tabla en una base de datos",
+            "c": "Un modelo que describe la lógica de negocio de una aplicación",
+            "d": "Un modelo que describe la relación entre varias tablas en una base de datos",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una relación muchos a muchos en una base de datos?",
+            "a": "Una relación en la que varios registros en una tabla pueden estar relacionados con varios registros en otra tabla",
+            "b": "Una relación en la que un registro en una tabla está relacionado con solo un registro en otra tabla",
+            "c": "Una relación en la que un registro en una tabla puede estar relacionado con varios registros en otra tabla, pero no al revés",
+            "d": "Una relación en la que los registros en una tabla no están relacionados con los registros en otra tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un modelo relacional de base de datos?",
+            "a": "Un modelo que describe cómo se almacenan los datos en una base de datos",
+            "b": "Un modelo que describe la estructura de una tabla en una base de datos",
+            "c": "Un modelo que describe la lógica de negocio de una aplicación",
+            "d": "Un modelo que describe la relación entre varias tablas en una base de datos",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una vista en una base de datos?",
+            "a": "Una tabla virtual que muestra una selección de datos de una o varias tablas en la base de datos",
+            "b": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "c": "Una conexión lógica entre dos o más objetos en la base de datos",
+            "d": "Una entidad en el mundo real, como una persona o un producto",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un índice en una base de datos?",
+            "a": "Una estructura de datos que mejora la velocidad de búsqueda en una tabla",
+            "b": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "c": "Una conexión lógica entre dos o más objetos en la base de datos",
+            "d": "Una entidad en el mundo real, como una persona o un producto",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la normalización en una base de datos?",
+            "a": "El proceso de organizar los datos en una base de datos para reducir la redundancia y mejorar la integridad de los datos",
+            "b": "Un proceso que se utiliza para actualizar los datos en una tabla",
+            "c": "Un proceso que se utiliza para unir varias tablas",
+            "d": "Un proceso que se utiliza para eliminar registros de una tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la integridad referencial en una base de datos?",
+            "a": "La capacidad de asegurar que los datos en una tabla sean precisos y estén actualizados",
+            "b": "La capacidad de mantener la consistencia de los datos entre tablas relacionadas",
+            "c": "La capacidad de recuperar datos de una tabla",
+            "d": "La capacidad de ordenar los datos en una tabla",
+            "respuesta": "b",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una entidad en el modelo Entidad-Relación de Chen?",
+            "a": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "b": "Una tabla que contiene registros de datos relacionados",
+            "c": "Un conjunto de atributos que describen un objeto del mundo real",
+            "d": "Una conexión entre dos entidades en la base de datos",
+            "respuesta": "c",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una relación en el modelo Entidad-Relación de Chen?",
+            "a": "Una tabla que contiene registros de datos relacionados",
+            "b": "Un conjunto de atributos que describen un objeto del mundo real",
+            "c": "Una conexión lógica entre dos o más entidades en la base de datos",
+            "d": "Un objeto que representa un tipo de dato, como un número o una cadena de caracteres",
+            "respuesta": "c",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una cardinalidad en el modelo Entidad-Relación de Chen?",
+            "a": "Un atributo que especifica la cantidad de registros en una tabla",
+            "b": "Un atributo que especifica la relación entre dos entidades en la base de datos",
+            "c": "Un atributo que especifica la longitud de un campo de datos",
+            "d": "Un atributo que especifica el tipo de datos que se almacenan en un campo",
+            "respuesta": "b",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la normalización en el modelo Entidad-Relación de Chen?",
+            "a": "Un proceso para diseñar tablas de base de datos sin redundancia de datos",
+            "b": "Un proceso para conectar dos tablas en una base de datos",
+            "c": "Un proceso para definir el formato de los datos en una tabla de la base de datos",
+            "d": "Un proceso para agregar nuevas entidades a la base de datos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la generalización en el modelo Entidad-Relación de Chen?",
+            "a": "Un proceso para definir la estructura de una tabla en una base de datos",
+            "b": "Un proceso para conectar dos tablas en una base de datos",
+            "c": "Un proceso para crear una entidad de nivel superior a partir de dos o más entidades de nivel inferior",
+            "d": "Un proceso para normalizar una tabla de la base de datos",
+            "respuesta": "c",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un atributo en una base de datos?",
+            "a": "Un campo que almacena un valor único que identifica a cada registro en una tabla",
+            "b": "Un campo que almacena un valor que describe alguna característica de un registro en una tabla",
+            "c": "Una tabla que se utiliza para almacenar información adicional sobre un registro en otra tabla",
+            "d": "Un conjunto de tablas relacionadas que se utilizan para almacenar información en una base de datos",
+            "respuesta": "b",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es un dominio en una base de datos?",
+            "a": "Un conjunto de valores permitidos para un campo en una tabla",
+            "b": "Una restricción que se aplica a un campo en una tabla",
+            "c": "Una tabla que se utiliza para almacenar información adicional sobre un registro en otra tabla",
+            "d": "Un conjunto de tablas relacionadas que se utilizan para almacenar información en una base de datos",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una entidad fuerte en una base de datos?",
+            "a": "Una entidad que tiene una clave primaria compuesta por varios campos",
+            "b": "Una entidad que no tiene una clave primaria",
+            "c": "Una entidad que puede existir por sí sola en una base de datos",
+            "d": "Una entidad que solo puede existir en relación con otra entidad en una base de datos",
+            "respuesta": "c",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una entidad débil en una base de datos?",
+            "a": "Una entidad que tiene una clave primaria compuesta por varios campos",
+            "b": "Una entidad que no tiene una clave primaria",
+            "c": "Una entidad que puede existir por sí sola en una base de datos",
+            "d": "Una entidad que solo puede existir en relación con otra entidad en una base de datos",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es una relación uno a uno en una base de datos?",
+            "a": "Una relación en la que un registro en una tabla puede estar relacionado con varios registros en otra tabla",
+            "b": "Una relación en la que un registro en una tabla está relacionado con solo un registro en otra tabla",
+            "c": "Una relación en la que varios registros en una tabla están relacionados con varios registros en otra tabla",
+            "d": "Una relación en la que un registro en una tabla está relacionado con solo un registro en otra tabla y viceversa",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la cardinalidad en el modelo Entidad-Relación de Chen?",
+            "a": "Es la propiedad que define la cantidad de instancias de una entidad que pueden estar asociadas a instancias de otra entidad en una relación",
+            "b": "Es la propiedad que define la cantidad de atributos que puede tener una entidad",
+            "c": "Es la propiedad que define la cantidad de relaciones que puede tener una entidad con otras entidades",
+            "d": "Es la propiedad que define la cantidad de subentidades que pueden tener una entidad",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es la regla de Codd que establece que todas las relaciones deben tener una clave primaria única?",
+            "a": "Regla 1",
+            "b": "Regla 2",
+            "c": "Regla 3",
+            "d": "Regla 4",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es la regla de Codd que establece que todas las relaciones deben ser accesibles por medio de un lenguaje de consulta?",
+            "a": "Regla 1",
+            "b": "Regla 2",
+            "c": "Regla 3",
+            "d": "Regla 4",
+            "respuesta": "b",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es la regla de Codd que establece que todas las actualizaciones deben ser posibles sin provocar inconsistencias?",
+            "a": "Regla 1",
+            "b": "Regla 2",
+            "c": "Regla 3",
+            "d": "Regla 4",
+            "respuesta": "c",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es la regla de Codd que establece que todas las relaciones deben ser independientes del hardware y software?",
+            "a": "Regla 1",
+            "b": "Regla 2",
+            "c": "Regla 3",
+            "d": "Regla 4",
+            "respuesta": "d",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es la regla de Codd que establece que todas las vistas deben poder actualizarse?",
+            "a": "Regla 1",
+            "b": "Regla 2",
+            "c": "Regla 3",
+            "d": "Regla 4",
+            "respuesta": "b",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la normalización de una base de datos?",
+            "a": "El proceso de diseñar la estructura de una base de datos para reducir la redundancia y mejorar la integridad de los datos",
+            "b": "El proceso de comprimir los datos en una base de datos para reducir su tamaño",
+            "c": "El proceso de cifrar los datos en una base de datos para proteger su privacidad",
+            "d": "El proceso de copiar los datos de una base de datos a otra",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es el objetivo de la primera forma normal (1FN) en la normalización de bases de datos?",
+            "a": "Eliminar la redundancia de datos al permitir solo valores atómicos en las celdas de la tabla",
+            "b": "Eliminar la redundancia de datos al dividir las tablas grandes en varias más pequeñas",
+            "c": "Eliminar la redundancia de datos al agrupar las tablas relacionadas en una sola",
+            "d": "Eliminar la redundancia de datos al permitir la repetición de grupos de columnas en una tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es el objetivo de la segunda forma normal (2FN) en la normalización de bases de datos?",
+            "a": "Eliminar la redundancia de datos al eliminar las dependencias parciales en una tabla",
+            "b": "Eliminar la redundancia de datos al permitir solo valores atómicos en las celdas de la tabla",
+            "c": "Eliminar la redundancia de datos al agrupar las tablas relacionadas en una sola",
+            "d": "Eliminar la redundancia de datos al permitir la repetición de grupos de columnas en una tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es el objetivo de la tercera forma normal (3FN) en la normalización de bases de datos?",
+            "a": "Eliminar la redundancia de datos al eliminar las dependencias transitivas en una tabla",
+            "b": "Eliminar la redundancia de datos al permitir solo valores atómicos en las celdas de la tabla",
+            "c": "Eliminar la redundancia de datos al agrupar las tablas relacionadas en una sola",
+            "d": "Eliminar la redundancia de datos al permitir la repetición de grupos de columnas en una tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál es el objetivo de la cuarta forma normal (4FN) en la normalización de bases de datos?",
+            "a": "Eliminar la redundancia de datos al eliminar las dependencias multivalor en una tabla",
+            "b": "Eliminar la redundancia de datos al permitir solo valores atómicos en las celdas de la tabla",
+            "c": "Eliminar la redundancia de datos al agrupar las tablas relacionadas en una sola",
+            "d": "Eliminar la redundancia de datos al permitir la repetición de grupos de columnas en una tabla",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la forma normal de Boyce-Codd en la normalización de bases de datos?",
+            "a": "Una forma normal que se aplica a las relaciones en las que cada atributo no clave es completamente dependiente de la clave.",
+            "b": "Una forma normal que se aplica a las relaciones en las que cada atributo no clave es transitivamente dependiente de la clave.",
+            "c": "Una forma normal que se aplica a las relaciones en las que cada atributo no clave es parcialmente dependiente de la clave.",
+            "d": "Una forma normal que se aplica a las relaciones en las que cada atributo no clave es independiente de la clave.",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Qué es la 5ta forma normal en la normalización de bases de datos?",
+            "a": "Es la forma normal que asegura que no haya dependencias de un valor no clave en un grupo de valores clave.",
+            "b": "Es la forma normal que asegura que cada atributo dependa de la clave completa.",
+            "c": "Es la forma normal que asegura que cada atributo dependa de la clave completa y de ninguna otra cosa.",
+            "d": "Es la forma normal que asegura que cada atributo dependa de la clave completa y de cualquier otro atributo.",
+            "respuesta": "a",
+            "categoria_id": 17
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes operaciones de álgebra relacional devuelve tuplas que están en ambas relaciones?",
+            "a": "Intersección",
+            "b": "Unión",
+            "c": "Diferencia",
+            "d": "Producto cartesiano",
+            "respuesta": "a",
+            "categoria_id": 17
+          },
+          {
+            "pregunta": "¿Cuál de las siguientes operaciones de álgebra relacional devuelve tuplas que están en la relación de la izquierda pero no en la de la derecha?",
+            "a": "Intersección",
+            "b": "Unión",
+            "c": "Diferencia",
+            "d": "Producto cartesiano",
+            "respuesta": "c",
+            "categoria_id": 17
+          },
+          {
+            "pregunta": "¿Cuál de las siguientes operaciones de álgebra relacional devuelve tuplas que están en alguna de las dos relaciones?",
+            "a": "Intersección",
+            "b": "Unión",
+            "c": "Diferencia",
+            "d": "Producto cartesiano",
+            "respuesta": "b",
+            "categoria_id": 17
+          },
+          {
+            "pregunta": "¿Cuál de las siguientes operaciones de álgebra relacional devuelve todas las posibles combinaciones de tuplas entre las dos relaciones?",
+            "a": "Intersección",
+            "b": "Unión",
+            "c": "Diferencia",
+            "d": "Producto cartesiano",
+            "respuesta": "d",
+            "categoria_id": 17
+          },
+          {
+            "pregunta": "¿Cuál de las siguientes operaciones de álgebra relacional devuelve tuplas que están en una relación pero no en la otra, y viceversa?",
+            "a": "Intersección",
+            "b": "Unión",
+            "c": "Diferencia simétrica",
+            "d": "Producto cartesiano",
+            "respuesta": "c",
+            "categoria_id": 17
+          }   
+    ]

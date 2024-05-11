@@ -1,0 +1,52 @@
+[
+    {
+        "pregunta": "¿Qué significa DDR en DDR4?",
+        "a": "Dual Data Rate",
+        "b": "Dynamic Data Rate",
+        "c": "Direct Data Read",
+        "d": "Double Data Read",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "DDR significa Dual Data Rate, lo que significa que la memoria DDR puede transferir datos dos veces por ciclo de reloj, en comparación con las memorias SDR que solo pueden transferir datos una vez por ciclo."
+    },
+    {
+        "pregunta": "¿Cuál es la velocidad de reloj más común para la memoria DDR4?",
+        "a": "2133 MHz",
+        "b": "2666 MHz",
+        "c": "3200 MHz",
+        "d": "3600 MHz",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La velocidad de reloj más común para la memoria DDR4 es 2666 MHz."
+    },
+    {
+        "pregunta": "¿Qué tipo de módulos de memoria DDR son compatibles con una placa madre DDR4?",
+        "a": "DDR2",
+        "b": "DDR3",
+        "c": "DDR4",
+        "d": "DDR5",
+        "respuesta": "c",
+        "categoria_id": 12,
+        "explicacion": "Una placa madre DDR4 solo es compatible con módulos de memoria DDR4, y no con DDR2, DDR3 o DDR5."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre la memoria DDR3 y DDR4?",
+        "a": "La velocidad de reloj",
+        "b": "El consumo de energía",
+        "c": "La densidad de los chips de memoria",
+        "d": "El número de pines en el conector",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La principal diferencia entre la memoria DDR3 y DDR4 es el consumo de energía. La memoria DDR4 utiliza menos energía que la DDR3, lo que permite que las computadoras funcionen con mayor eficiencia energética."
+    },
+    {
+        "pregunta": "¿Cuántos canales de memoria soporta la memoria DDR4?",
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La memoria DDR4 soporta dos canales de memoria, lo que significa que se pueden instalar dos módulos de memoria DDR4 en la placa madre para aprovechar la velocidad de doble canal."
+    }
+]

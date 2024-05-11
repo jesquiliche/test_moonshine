@@ -1,0 +1,303 @@
+[
+    {
+        "pregunta": "¿Qué tipo de memoria utilizaban las computadoras de primera generación?",
+        "a": "Memoria de núcleos magnéticos",
+        "b": "Memoria de acceso aleatorio dinámica (DRAM)",
+        "c": "Memoria flash",
+        "d": "Memoria virtual",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "Las computadoras de primera generación utilizaban memoria de núcleos magnéticos, que eran pequeños anillos de material magnético que podían ser magnetizados para representar un bit de información. Esta tecnología fue muy costosa y limitada en capacidad, por lo que fue rápidamente reemplazada por otros tipos de memoria más eficientes."
+    },
+    {
+        "pregunta": "¿Qué tipo de memoria fue utilizado por la mayoría de las computadoras personales hasta finales de los años 90?",
+        "a": "Memoria de acceso aleatorio estática (SRAM)",
+        "b": "Memoria de acceso aleatorio dinámica (DRAM)",
+        "c": "Memoria ROM",
+        "d": "Memoria caché",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La mayoría de las computadoras personales hasta finales de los años 90 utilizaban memoria de acceso aleatorio dinámica (DRAM). Esta memoria es más lenta y menos costosa que la memoria SRAM, pero también es más densa, lo que significa que se pueden almacenar más datos en el mismo espacio físico. La DRAM es una forma de memoria volátil, lo que significa que pierde su contenido cuando se apaga la computadora."
+    },
+    {
+        "pregunta": "¿Qué tipo de memoria se utiliza en las tarjetas gráficas modernas?",
+        "a": "Memoria de acceso aleatorio dinámica (DRAM)",
+        "b": "Memoria de acceso aleatorio estática (SRAM)",
+        "c": "Memoria ROM",
+        "d": "Memoria caché",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "Las tarjetas gráficas modernas utilizan memoria de acceso aleatorio dinámica (DRAM) para almacenar los datos de imagen que se muestran en el monitor. Esta memoria es muy rápida y tiene una gran capacidad, lo que la hace ideal para procesar y mostrar gráficos en tiempo real. La mayoría de las tarjetas gráficas modernas tienen su propia memoria dedicada, que es independiente de la memoria del sistema principal."
+    },
+    {
+        "pregunta": "¿Quién fue el creador de la máquina de Turing?",
+        "a": "John von Neumann",
+        "b": "Ada Lovelace",
+        "c": "Charles Babbage",
+        "d": "Alan Turing",
+        "respuesta": "d",
+        "categoria_id": 12,
+        "explicacion": "Alan Turing es considerado el padre de la informática y el creador de la máquina de Turing, uno de los primeros modelos teóricos de computadora que ha sido fundamental en el desarrollo de la informática moderna."
+    },
+    {
+        "pregunta": "¿En qué año fue propuesta la máquina de Turing?",
+        "a": "1925",
+        "b": "1936",
+        "c": "1945",
+        "d": "1955",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La máquina de Turing fue propuesta por Alan Turing en el año 1936, en su famoso artículo 'On Computable Numbers, with an Application to the Entscheidungsproblem' ('Sobre los números computables, con una aplicación al problema de la decisión')."
+    },
+    {
+        "pregunta": "¿Cuál era el objetivo principal de la máquina de Turing?",
+        "a": "Realizar cálculos matemáticos complejos",
+        "b": "Decidir si una proposición matemática es verdadera o falsa",
+        "c": "Procesar y almacenar información",
+        "d": "Realizar operaciones lógicas booleanas",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "El objetivo principal de la máquina de Turing era decidir si una proposición matemática es verdadera o falsa. Esta idea se basó en el trabajo previo de Kurt Gödel, quien había demostrado que ciertos problemas matemáticos no podían ser resueltos por medio de algoritmos."
+    },
+    {
+        "pregunta": "¿Cómo se representa una máquina de Turing?",
+        "a": "Como un grafo",
+        "b": "Como una lista",
+        "c": "Como un árbol",
+        "d": "Como una tabla",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "Una máquina de Turing se puede representar como un grafo, donde los nodos representan los estados posibles de la máquina y las aristas representan las transiciones entre estados. Cada estado de la máquina de Turing se caracteriza por un símbolo de entrada, una acción a realizar (como mover la cinta o cambiar de estado) y un símbolo de salida."
+    },
+    {
+        "pregunta": "¿Cuál fue el primer computador electrónico digital?",
+        "a": "Colossus",
+        "b": "ENIAC",
+        "c": "EDSAC",
+        "d": "UNIVAC",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "El ENIAC (Electronic Numerical Integrator and Computer) fue el primer computador electrónico digital, construido entre 1943 y 1945 en la Universidad de Pensilvania. Fue utilizado principalmente para cálculos balísticos durante la Segunda Guerra Mundial."
+    },
+    {
+        "pregunta": "¿Cuál fue la primera computadora personal?",
+        "a": "Apple I",
+        "b": "IBM PC",
+        "c": "Altair 8800",
+        "d": "Commodore PET",
+        "respuesta": "c",
+        "categoria_id": 12,
+        "explicacion": "El Altair 8800 fue la primera computadora personal, lanzada en 1975. Fue creada por la compañía MITS (Micro Instrumentation and Telemetry Systems) y se vendía como un kit para armar en casa."
+    },
+    {
+        "pregunta": "¿Cuál es la tecnología de memoria RAM más reciente?",
+        "a": "DDR3",
+        "b": "DDR4",
+        "c": "SDRAM",
+        "d": "RDRAM",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "DDR4 es la tecnología de memoria RAM más reciente, introducida en 2014. Es más rápida y eficiente que su predecesora, DDR3, y se utiliza en computadoras de alta gama y servidores."
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un disco duro y una unidad de estado sólido (SSD)?",
+        "a": "Un disco duro utiliza discos magnéticos para almacenar datos, mientras que una SSD utiliza memoria flash.",
+        "b": "Un disco duro es más rápido que una SSD.",
+        "c": "Una SSD es más confiable que un disco duro.",
+        "d": "Un disco duro tiene una mayor capacidad de almacenamiento que una SSD.",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "La principal diferencia entre un disco duro y una unidad de estado sólido (SSD) es que un disco duro utiliza discos magnéticos para almacenar datos, mientras que una SSD utiliza memoria flash. Esto hace que una SSD sea más rápida y más resistente a los golpes y vibraciones que un disco duro, pero también es más costosa por gigabyte de almacenamiento."
+    },
+    {
+        "pregunta": "¿Cuál es el valor decimal del número binario 1010?",
+        "a": "5",
+        "b": "6",
+        "c": "8",
+        "d": "10",
+        "respuesta": "c",
+        "categoria_id": 12,
+        "explicacion": "El número binario 1010 equivale al número decimal 8."
+    },
+    {
+        "pregunta": "¿Qué es la complementación a dos en los números binarios?",
+        "a": "La representación de números negativos en binario.",
+        "b": "El proceso de cambiar todos los 0 por 1 y todos los 1 por 0 en un número binario.",
+        "c": "La suma de dos números binarios.",
+        "d": "La representación de números decimales en binario.",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "La complementación a dos es un método para representar números negativos en binario. Consiste en invertir todos los bits del número y sumarle 1."
+    },
+    {
+        "pregunta": "¿Cuántos bits se necesitan para representar el número 32 en binario?",
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7",
+        "respuesta": "6",
+        "categoria_id": 12,
+        "explicacion": "El número 32 en binario se representa como 100000, lo que requiere 6 bits."
+    },
+    {
+        "pregunta": "¿Qué operación binaria equivale a la multiplicación por 2?",
+        "a": "Desplazamiento a la izquierda (shift left)",
+        "b": "Desplazamiento a la derecha (shift right)",
+        "c": "Inversión (bitwise NOT)",
+        "d": "XOR (exclusive OR)",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "El desplazamiento a la izquierda (shift left) en un número binario equivale a multiplicar por 2. Cada bit del número se desplaza una posición hacia la izquierda, y se añade un 0 al final."
+    },
+    {
+        "pregunta": "¿Qué es el bit de paridad en los números binarios?",
+        "a": "Un bit que indica si el número es par o impar.",
+        "b": "Un bit que se utiliza para corregir errores en la transmisión de datos.",
+        "c": "Un bit que se utiliza para verificar la integridad de los datos.",
+        "d": "Un bit que se utiliza para representar números negativos en binario.",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "El bit de paridad en los números binarios es un bit adicional que se utiliza para indicar si el número de unos en el número es par o impar. Se utiliza a menudo en la detección de errores en la transmisión de datos."
+    },
+    {
+        "pregunta": "¿Qué resultado se obtiene al realizar la operación binaria 0110 OR 1010?",
+        "a": "1100",
+        "b": "1110",
+        "c": "1111",
+        "d": "1010",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La operación OR (o inclusivo) devuelve un 1 en cada bit donde al menos uno de los bits correspondientes en los operandos es un 1. Por lo tanto, 0110 OR 1010 produce 1110."
+    },
+    {
+        "pregunta": "¿Qué resultado se obtiene al realizar la operación binaria 1011 XOR 0111?",
+        "a": "0100",
+        "b": "1100",
+        "c": "1000",
+        "d": "0010",
+        "respuesta": "c",
+        "categoria_id": 12,
+        "explicacion": "La operación XOR (o exclusivo) devuelve un 1 en cada bit donde sólo uno de los bits correspondientes en los operandos es un 1. Por lo tanto, 1011 XOR 0111 produce 1100."
+    },
+    {
+        "pregunta": "¿Cuál es el valor decimal del número binario 11010?",
+        "a": "22",
+        "b": "26",
+        "c": "27",
+        "d": "30",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "Para convertir un número binario a decimal, se multiplica cada dígito binario por una potencia de 2 y se suma el resultado. En este caso, 1 * 2^4 + 1 * 2^3 + 0 * 2^2 + 1 * 2^1 + 0 * 2^0 = 16 + 8 + 2 = 26."
+    },
+    {
+        "pregunta": "¿Cuál es la forma más común de representar números negativos en binario?",
+        "a": "Complemento a 1",
+        "b": "Complemento a 2",
+        "c": "Signo y magnitud",
+        "d": "Exceso a 127",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "La forma más común de representar números negativos en binario es utilizando el complemento a 2. En esta representación, el bit más significativo indica el signo (0 para positivo y 1 para negativo) y los demás bits representan el valor absoluto del número negado y sumado 1."
+    },
+    {
+        "pregunta": "¿Cuántos bits se necesitan para representar el número 255 en binario?",
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "El número 255 en binario se representa como 11111111. Como este número tiene 8 dígitos binarios, se necesitan 8 bits para representarlo en binario."
+    },
+    {
+        "pregunta": "¿Cuál es el número decimal equivalente al número binario 10101?",
+        "a": "10",
+        "b": "15",
+        "c": "20",
+        "d": "21",
+        "respuesta": "d",
+        "categoria_id": 12,
+        "explicacion": "El número binario 10101 equivale a 21 en decimal, ya que se calcula sumando las potencias de 2 correspondientes a los dígitos 1 en el número binario: 2^4 + 2^2 + 2^0 = 16 + 4 + 1 = 21."
+    },
+    {
+        "pregunta": "¿Cuál es el número binario resultante de la conversión del número decimal 27?",
+        "a": "10010",
+        "b": "11011",
+        "c": "11101",
+        "d": "11111",
+        "respuesta": "b",
+        "categoria_id": 12,
+        "explicacion": "El número decimal 27 en binario es 11011. Para convertir un número decimal a binario se divide el número decimal por 2 sucesivamente, tomando el resto de cada división como dígito binario, y se colocan los dígitos binarios en orden inverso al que se obtuvieron los restos."
+    },
+    {
+        "pregunta": "¿Cuál es el número binario resultante de la conversión del número decimal 10?",
+        "a": "1010",
+        "b": "1100",
+        "c": "1111",
+        "d": "10000",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "El número decimal 10 en binario es 1010. Para convertir un número decimal a binario se divide el número decimal por 2 sucesivamente, tomando el resto de cada división como dígito binario, y se colocan los dígitos binarios en orden inverso al que se obtuvieron los restos."
+    },
+    {
+        "pregunta": "¿Cuál es el número binario resultante de la conversión del número decimal 42?",
+        "a": "101010",
+        "b": "101011",
+        "c": "101100",
+        "d": "101101",
+        "respuesta": "a",
+        "categoria_id": 12,
+        "explicacion": "El número decimal 42 en binario es 101010. Para convertir un número decimal a binario se divide el número decimal por 2 sucesivamente, tomando el resto de cada división como dígito binario, y se colocan los dígitos binarios en orden inverso al que se obtuvieron los restos."
+    },
+    {
+        "pregunta": "¿Cuál es el valor decimal del número hexadecimal 0xFF?",
+        "a": "256",
+        "b": "511",
+        "c": "255",
+        "d": "65280",
+        "respuesta": "c",
+        "categoria_id": 12,
+        "explicacion": "El número hexadecimal 0xFF representa el valor decimal 255."
+    },
+    {
+        "pregunta": "¿Cuántos dígitos tiene un número hexadecimal de 32 bits?",
+        "a": "4",
+        "b": "8",
+        "c": "16",
+        "d": "32",
+        "respuesta": "8",
+        "categoria_id": 12,
+        "explicacion": "Un número hexadecimal de 32 bits tiene 8 dígitos, ya que cada dígito hexadecimal representa 4 bits."
+    },
+    {
+        "pregunta": "¿Cuál es el número hexadecimal que representa el valor binario 101010?",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "respuesta": "A",
+        "categoria_id": 12,
+        "explicacion": "El número hexadecimal A representa el valor binario 1010."
+    },
+    {
+        "pregunta": "¿Cuál es el número hexadecimal que representa el valor decimal 255?",
+        "a": "FE",
+        "b": "FD",
+        "c": "FF",
+        "d": "FC",
+        "respuesta": "FF",
+        "categoria_id": 12,
+        "explicacion": "El número hexadecimal FF representa el valor decimal 255."
+    },
+    {
+        "pregunta": "¿Cuál es el número hexadecimal que representa el valor binario 11111111?",
+        "a": "FF",
+        "b": "EE",
+        "c": "DD",
+        "d": "CC",
+        "respuesta": "FF",
+        "categoria_id": 12,
+        "explicacion": "El número hexadecimal FF representa el valor binario 11111111."
+    }
+
+]

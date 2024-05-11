@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Qué tecnología de impresión utiliza una aguja para imprimir caracteres en papel continuo?",
+        "a": "Láser",
+        "b": "Inyección de tinta",
+        "c": "Matricial",
+        "d": "De margarita",
+        "respuesta": "c",
+        "categoria_id": 13,
+        "explicacion": "Las impresoras matriciales utilizan una aguja que impacta una cinta de tinta contra el papel para imprimir caracteres. Estas impresoras son conocidas por su capacidad de imprimir en papel continuo, lo que las hace ideales para imprimir recibos, facturas y otros documentos con múltiples copias."
+    },
+    {
+        "pregunta": "¿Qué tipo de impresora utiliza cartuchos de tinta individuales para cada color?",
+        "a": "Láser",
+        "b": "Inyección de tinta",
+        "c": "Matricial",
+        "d": "De margarita",
+        "respuesta": "b",
+        "categoria_id": 13,
+        "explicacion": "Las impresoras de inyección de tinta utilizan cartuchos de tinta individuales para cada color, lo que permite una mayor precisión en la mezcla de colores y una mayor economía a largo plazo. Estas impresoras son populares para imprimir fotografías y gráficos de alta calidad."
+    },
+    {
+        "pregunta": "¿Qué componente de la impresora de láser es responsable de aplicar la carga eléctrica al tambor fotosensible?",
+        "a": "Fusor",
+        "b": "Rodillo de transferencia",
+        "c": "Cilindro de revelado",
+        "d": "Corona de carga",
+        "respuesta": "d",
+        "categoria_id": 13,
+        "explicacion": "La corona de carga es el componente de la impresora de láser que aplica la carga eléctrica al tambor fotosensible. Esta carga crea una imagen electrostática en la superficie del tambor que atrae el tóner y lo transfiere al papel. Sin la carga eléctrica adecuada, el tóner no se adheriría al tambor y la impresión no sería posible."
+    },
+    {
+        "pregunta": "¿Qué tecnología de impresión utiliza una serie de LED para exponer el tambor fotosensible?",
+        "a": "Láser",
+        "b": "LED",
+        "c": "Inyección de tinta",
+        "d": "Matricial",
+        "respuesta": "b",
+        "categoria_id": 13,
+        "explicacion": "Las impresoras LED utilizan una serie de LED para exponer el tambor fotosensible. Estos LED son más pequeños y más precisos que los láseres utilizados en las impresoras láser, lo que les permite crear una imagen de mayor calidad con menos partes móviles. Las impresoras LED son más comunes en entornos empresariales donde se requiere una alta calidad de impresión y una mayor eficiencia energética."
+    }
+]

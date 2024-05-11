@@ -1,0 +1,32 @@
+[
+    {
+      "pregunta": "¿Qué significa SDRAM y en qué se diferencia de la memoria DRAM convencional?",
+      "a": "Synchronous Dynamic Random Access Memory. Se diferencia de la memoria DRAM convencional en que sincroniza la velocidad del reloj de la memoria con el del bus de datos",
+      "b": "Synchronous Dynamic Random Access Memory. Se diferencia de la memoria DRAM convencional en que no necesita ser refrescada continuamente",
+      "c": "Static Dynamic Random Access Memory. Se diferencia de la memoria DRAM convencional en que no necesita ser refrescada continuamente",
+      "d": "Static Dynamic Random Access Memory. Se diferencia de la memoria DRAM convencional en que es más rápida que la memoria DRAM",
+      "respuesta": "a",
+      "categoria_id": 12,
+      "explicacion": "SDRAM significa Synchronous Dynamic Random Access Memory. La principal diferencia con la memoria DRAM convencional es que la SDRAM sincroniza la velocidad del reloj de la memoria con el del bus de datos, lo que permite que los datos sean transferidos de forma más rápida y eficiente."
+    },
+    {
+      "pregunta": "¿Qué es la memoria DDR y en qué se diferencia de la memoria SDRAM?",
+      "a": "Es una memoria SDRAM con doble velocidad de transferencia. Se diferencia de la memoria SDRAM en que sincroniza la velocidad de la memoria con el doble del reloj del bus de datos",
+      "b": "Es una memoria SDRAM con doble velocidad de transferencia. Se diferencia de la memoria SDRAM en que no necesita ser refrescada continuamente",
+      "c": "Es una memoria DRAM con doble velocidad de transferencia. Se diferencia de la memoria SDRAM en que sincroniza la velocidad de la memoria con el doble del reloj del bus de datos",
+      "d": "Es una memoria DRAM con doble velocidad de transferencia. Se diferencia de la memoria SDRAM en que no necesita ser refrescada continuamente",
+      "respuesta": "a",
+      "categoria_id": 12,
+      "explicacion": "DDR significa Double Data Rate. Es una memoria SDRAM con doble velocidad de transferencia. La principal diferencia con la SDRAM es que la memoria DDR sincroniza la velocidad de la memoria con el doble del reloj del bus de datos, lo que permite que los datos sean transferidos de forma más rápida y eficiente."
+    },
+    {
+      "pregunta": "¿Cuál es la capacidad máxima de memoria RAM que soporta un sistema operativo de 32 bits?",
+      "a": "4 GB",
+      "b": "8 GB",
+      "c": "16 GB",
+      "d": "32 GB",
+      "respuesta": "a",
+      "categoria_id": 12,
+      "explicacion": "Un sistema operativo de 32 bits puede direccionar hasta 2^32 bytes de memoria, lo que equivale a 4 GB. Por lo tanto, la capacidad máxima de memoria RAM que soporta un sistema operativo de 32 bits es de 4 GB."
+    }
+]

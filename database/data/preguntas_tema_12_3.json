@@ -1,0 +1,34 @@
+[
+    {
+      "pregunta": "¿Qué es el bus de la placa base?",
+      "a": "Es un conjunto de líneas que conectan la CPU con la memoria RAM",
+      "b": "Es un conjunto de líneas que conectan la CPU con la tarjeta gráfica",
+      "c": "Es un conjunto de líneas que conectan la CPU con los dispositivos de almacenamiento",
+      "d": "Es un conjunto de líneas que conectan todos los componentes de la placa base",
+      "respuesta": "d",
+      "categoria_id": 12,
+      "explicacion": "El bus de la placa base es un conjunto de líneas que conectan todos los componentes de la placa base, incluyendo la CPU, la memoria RAM, la tarjeta gráfica, los dispositivos de almacenamiento, etc. El bus es la vía principal por la que fluye la información entre los diferentes componentes del sistema, y su velocidad y anchura son factores importantes para el rendimiento del sistema."
+    },
+    {
+      "pregunta": "¿Qué es la tecnología SLI de NVIDIA?",
+      "a": "Es una tecnología de refrigeración líquida para tarjetas gráficas",
+      "b": "Es una tecnología que permite utilizar varias tarjetas gráficas NVIDIA en conjunto para mejorar el rendimiento gráfico",
+      "c": "Es una tecnología que permite utilizar varias tarjetas de sonido en conjunto para mejorar el rendimiento de audio",
+      "d": "Es una tecnología que permite utilizar varios procesadores en conjunto para mejorar el rendimiento del sistema",
+      "respuesta": "b",
+      "categoria_id": 12,
+      "explicacion": "La tecnología SLI (Scalable Link Interface) de NVIDIA es una tecnología que permite utilizar varias tarjetas gráficas NVIDIA en conjunto para mejorar el rendimiento gráfico. Las tarjetas se conectan mediante un puente SLI y trabajan en paralelo para renderizar los gráficos, lo que puede mejorar significativamente el rendimiento en aplicaciones gráficas intensivas, como los videojuegos."
+    },
+    {
+      "pregunta": "¿Qué es el socket de la CPU?",
+      "a": "Es el lugar donde se inserta la CPU en la placa base",
+      "b": "Es una tecnología de enfriamiento líquido para la CPU",
+      "c": "Es una tecnología de virtualización que permite ejecutar varios sistemas operativos en una sola máquina física",
+      "d": "Es una tecnología de gestión de energía que reduce el consumo de energía de la CPU cuando está en reposo",
+      "respuesta": "a",
+      "categoria_id": 12,
+      "explicacion": "El socket de la CPU es el lugar donde se inserta la CPU en la placa base. El socket es un componente importante de la placa base, ya que determina qué tipos de CPU son compatibles con la placa base. Cada tipo de CPU tiene un socket específico, y no todas las CPUs son compatibles con todas las placas base."
+    }
+]
+    
+  
