@@ -16,7 +16,7 @@ use MoonShine\Fields\Relationships\BelongsTo;
 use MoonShine\Fields\Select;
 use MoonShine\Fields\Text;
 use MoonShine\Fields\Textarea;
-use MoonShine\Filters\TextFiler;
+
  
 
 
@@ -45,7 +45,7 @@ class CategoriaResource extends ModelResource
                 ID::make()->sortable(),
             ]),
      
-            BelongsTo::make('Bloque', 'bloque','nombre'),
+            BelongsTo::make('Bloque', 'bloque','nombre')->sortable(),
             Text::make('Nombre','nombre')->sortable(),
             Textarea::make('Descripción','descripcion')->sortable()
         ];
@@ -67,13 +67,14 @@ class CategoriaResource extends ModelResource
 
         ];
     }
+
     public function filters(): array
     {
         return [
            
             Text::make('Nombre'),
             
-            BelongsTo::make('Bloque', 'bloque','nombre')
+            BelongsTo::make('Bloque', 'bloque','nombre')->nullable()
         ];
            
     }
