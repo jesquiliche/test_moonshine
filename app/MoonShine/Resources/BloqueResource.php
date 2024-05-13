@@ -62,7 +62,7 @@ class BloqueResource extends ModelResource
             'nombre' => 'required',
             'descripcion' => 'required|min:20'
 
-        ];;
+        ];
     }
 
    

@@ -9,9 +9,15 @@ use App\Models\Pregunta;
 use App\MoonShine\Pages\Pregunta\PreguntaIndexPage;
 use App\MoonShine\Pages\Pregunta\PreguntaFormPage;
 use App\MoonShine\Pages\Pregunta\PreguntaDetailPage;
-
+use MoonShine\Fields\Relationships\BelongsTo;
+use MoonShine\Decorations\Block;
+use MoonShine\Fields\ID;
 use MoonShine\Resources\ModelResource;
 use MoonShine\Pages\Page;
+use MoonShine\Fields\Text;
+use MoonShine\Fields\TextArea;
+
+use function Laravel\Prompts\text;
 
 /**
  * @extends ModelResource<Pregunta>
@@ -52,6 +58,33 @@ class PreguntaResource extends ModelResource
      */
     public function rules(Model $item): array
     {
-        return [];
+        return ['a'=>'required',
+        'b'=>'required',
+        'c'=>'required',
+        'd'=>'required',
+        'pregunta'=>'required',
+        'respuesta'=>'required',
+        'categoria_id'=>'required'
+    ];
     }
+
+    public function fields(): array
+    {
+        return [
+            Block::make([
+                ID::make()->sortable(),
+            ]),
+     
+            BelongsTo::make('Categoria','categoria','nombre',resource: new CategoriaResource()),      
+            Textarea::make('Pregunta','pregunta')->sortable(),
+            Textarea::make('Opción A','a'),
+            Textarea::make('Opción B','b'),
+            Textarea::make('Opción C','c'),
+            Textarea::make('Opción D','d'),
+            Text::make('Correcta','respuesta')
+
+        ];
+            
+    }
+
 }

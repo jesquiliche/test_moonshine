@@ -13,6 +13,7 @@ use MoonShine\Fields\ID;
 use MoonShine\Fields\Field;
 use MoonShine\Components\MoonShineComponent;
 use MoonShine\Fields\Relationships\BelongsTo;
+use MoonShine\Fields\Select;
 use MoonShine\Fields\Text;
 use MoonShine\Fields\Textarea;
 use MoonShine\Filters\TextFiler;
@@ -59,13 +60,20 @@ class CategoriaResource extends ModelResource
      */
     public function rules(Model $item): array
     {
-        return [];
+        return [
+            'nombre' => 'required',
+            'descripcion' => 'required|min:20',
+            'bloque_id'=> 'required'
+
+        ];
     }
     public function filters(): array
     {
         return [
            
-            Text::make('Nombre')
+            Text::make('Nombre'),
+            
+            BelongsTo::make('Bloque', 'bloque','nombre')
         ];
            
     }
