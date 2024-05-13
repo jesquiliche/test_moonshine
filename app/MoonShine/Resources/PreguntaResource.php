@@ -12,12 +12,11 @@ use App\MoonShine\Pages\Pregunta\PreguntaDetailPage;
 use MoonShine\Fields\Relationships\BelongsTo;
 use MoonShine\Decorations\Block;
 use MoonShine\Fields\ID;
-use MoonShine\Fields\Relationships\BelongsToMany;
 use MoonShine\Fields\Select;
 use MoonShine\Resources\ModelResource;
 use MoonShine\Pages\Page;
 use MoonShine\Fields\Text;
-use MoonShine\Fields\TextArea;
+use MoonShine\Fields\Textarea;
 
 use function Laravel\Prompts\text;
 
